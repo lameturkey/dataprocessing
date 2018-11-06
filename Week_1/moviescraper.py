@@ -27,26 +27,35 @@ def extract_movies(dom):
     - Runtime (only a number!)
     """
     movies = []
+
+    #  browse to each movie content
     for movie in dom.find_all("div", class_='lister-item-content'):
+
+        # Extract movie title
         title = movie.a.get_text()
+
+        # Extract the rating from data attribute
         rating = movie.find("div", class_="inline-block ratings-imdb-rating")['data-value']
+
+        # extract the year and remove (II) or (I) from it if it exists
         year = movie.find("span", class_="lister-item-year text-muted unbold").get_text()
         year = year.split(" ")[-1].strip('()')
-        print(year)
+
+        # extract all actors and directors as a single string
         movie.find_all('p')
         actors = []
         for actor in movie.find_all("p")[2].find_all("a"):
             actors.append(actor.get_text())
         actors = ', '.join(actors)
+
+        # extract the runtime
         runtime = movie.find("span", class_="runtime").get_text().split(' ')[0]
+
+        # append the movie to the movielist
         movies.append([title, rating, year, actors, runtime])
 
-    # ADD YOUR CODE HERE TO EXTRACT THE ABOVE INFORMATION ABOUT THE
-    # HIGHEST RATED MOVIES
-    # NOTE: FOR THIS EXERCISE YOU ARE ALLOWED (BUT NOT REQUIRED) TO IGNORE
-    # UNICODE CHARACTERS AND SIMPLY LEAVE THEM OUT OF THE OUTPUT.
-
-    return movies   # REPLACE THIS LINE AS WELL IF APPROPRIATE
+    # return the movie list
+    return movies
 
 
 def save_csv(outfile, movies):
@@ -54,11 +63,13 @@ def save_csv(outfile, movies):
     Output a CSV file containing highest rated movies.
     """
     writer = csv.writer(outfile)
+
+    # write the header
     writer.writerow(['Title', 'Rating', 'Year', 'Actors', 'Runtime'])
+
+    # write the data
     for row in movies:
         writer.writerow(row)
-
-    # ADD SOME CODE OF YOURSELF HERE TO WRITE THE MOVIES TO DISK
 
 
 def simple_get(url):

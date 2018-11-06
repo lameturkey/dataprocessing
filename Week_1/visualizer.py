@@ -27,7 +27,10 @@ def load_csv(filename):
         return
 
 if __name__ == "__main__":
+    # loads the .csv
     load_csv(INPUT_CSV)
+
+    # loads a line(sub)plot (year vs average score)
     plt.subplot(1, 2, 1)
     plt.plot([key for key in data_dict],
              [sum(data_dict[key]) / len(data_dict[key]) for key in data_dict])
@@ -35,6 +38,7 @@ if __name__ == "__main__":
     plt.xlabel("year")
     plt.ylabel("average score")
 
+    # Loads a pie chart (composition of the imdb top50)
     plt.subplot(1, 2, 2)
     plt.title("Composition of the Imdb top 50 by release year")
     plt.pie([len(data_dict[key]) for key in data_dict], labels=[key for key in data_dict])

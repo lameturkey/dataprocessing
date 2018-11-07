@@ -1,6 +1,7 @@
 #!/usr/bin/env python
-# Name:
-# Student number:
+# Name: Koen van der Kamp
+# Student number: 12466573
+# Graph should be fullscreen for optimal readability
 """
 This script visualizes data obtained from a .csv file
 """
@@ -18,10 +19,14 @@ data_dict = {str(key): [] for key in range(START_YEAR, END_YEAR)}
 
 titles = ['Title', 'Rating', 'Year', 'Actors', 'Runtime']
 
-# Read csv files
+# Read csv file
 def load_csv(filename):
     with open(filename) as csvfile:
+
+        # make a dictreader
         reader = csv.DictReader(csvfile)
+
+        # for every movie append to the global dict (ie: {2018: 8.3})
         for row in reader:
             data_dict[row['Year']].append(float(row['Rating']))
         return

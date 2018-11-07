@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# Name:
-# Student number:
+# Name: Koen van der Kamp
+# Student number: 12466573
 """
 This script scrapes IMDB and outputs a CSV file with highest rated movies.
 """
@@ -47,11 +47,11 @@ def extract_movies(dom):
         for actor in movie.find_all("p")[2].find_all("a"):
             actors.append(actor.get_text())
 
-        # if no actors then 'No actors in movie'
+        # if no actors then 'No actors in movie' else make a string of them
         if actors == []:
             actors = 'No actors in movie'
         else:
-            sactors = ', '.join(actors)
+            actors = ', '.join(actors)
 
         # extract the runtime
         runtime = movie.find("span", class_="runtime").get_text().split(' ')[0]

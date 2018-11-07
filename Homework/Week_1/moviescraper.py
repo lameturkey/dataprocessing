@@ -46,7 +46,12 @@ def extract_movies(dom):
         actors = []
         for actor in movie.find_all("p")[2].find_all("a"):
             actors.append(actor.get_text())
-        actors = ', '.join(actors)
+
+        # if no actors then 'No actors in movie'
+        if actors == []:
+            actors = 'No actors in movie'
+        else:
+            sactors = ', '.join(actors)
 
         # extract the runtime
         runtime = movie.find("span", class_="runtime").get_text().split(' ')[0]

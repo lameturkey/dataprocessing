@@ -6,33 +6,29 @@ def read():
     with open('input.csv') as csvfile:
 
         # read the csv
-        dictreader = csv.DictReader(csvfile, restval='nodata')
-        dictionary = []
+        dictreader = csv.DictReader(csvfile)
+        dictionarylist = []
 
         # save the csv to dict
-        for row in dictreader:
+        for dict in dictreader:
             newdict = {}
-            for key in row:
+            for key in dict:
                 if key in titles:
-                    try:
-                        newdict[key] = float(row[key])
-                    except:
-                        newdict[key] = row[key].strip(' ')
-            dictionary.append(newdict)
-
+                    newdict[key] = dict[key].strip()
+            dictionarylist.append(newdict)
         # return the dict
-        return dictionary
+        return dictionarylist
 
 def clean(dicts):
+    dicts = [dict for dict in dicts if not ('' in dict.values()  or 'unknown' in dict.values())]
     for dict in dicts:
         for key in dict:
-            if dict[key] == '' or dict[key] == 'unknown':
-                dict[key] = 'nodata'
+            if key == "GDP ($ per capita) dollars":
+                dict[key] = dict[key].split(' ')[0]
     return dicts
 
 if __name__ == '__main__':
     dicts = read()
     dicts = clean(dicts)
     pandadict = pandas.DataFrame(dicts)
-    print(pandadict)
     print(pandadict.to_string())

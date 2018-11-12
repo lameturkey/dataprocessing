@@ -44,7 +44,7 @@ if __name__ == '__main__':
     # convert to pandaframe
     pandadict = pandas.DataFrame(dicts, [dict["Country"] for dict in dicts])
     pandadict = pandadict.drop("Country", axis=1)
-        pandadict = pandadict[abs(pandadict.GDP - pandadict.GDP.mean()) < 2 * pandadict.GDP.std()]
+    pandadict = pandadict[abs(pandadict.GDP - pandadict.GDP.mean()) < 2 * pandadict.GDP.std()]
     # http://www.datasciencemadesimple.com/mean-function-python-pandas-dataframe-row-column-wise-mean/
     print(pandadict.GDP.mean())
     print(pandadict.GDP.median())

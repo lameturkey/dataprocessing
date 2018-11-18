@@ -3,7 +3,7 @@ import json
 
 def reader(filename):
     athletes = []
-    values = ['Team', 'Medal', 'Year']
+    values = ['NOC', 'Medal', 'Year', 'Event']
     with open(filename, 'r') as csvfile:
         dict = csv.DictReader(csvfile)
         for athlete in dict:
@@ -17,11 +17,18 @@ def reader(filename):
 
 def savejson(dictionaries):
     with open('output.json', 'w+') as jsonfile:
-        for dictionary in dictionaries:
-            json.dump(dictionary, jsonfile, indent=4)
+        json.dump(dictionaries, jsonfile, indent=4)
 
 def clean(dicts):
     dicts = [dict for dict in dicts if not 'NA' in dict.values()]
+    dicts = [dict(touple) for touple in set(tuple(dict.items()) for dict in dicts)]
+    # eventslist = []
+    # newdicts = []
+    #
+    # for dict in dicts:
+    #      if not dict['Event'] in eventslist:
+    #          eventslist.append(dict['Event'])
+    #         newdicts.append(dict)
     return dicts
 
 if __name__ == '__main__':

@@ -1,0 +1,105 @@
+<!-- KOEN VAN DER KAMP COMMENT -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      My first webpage
+    </title>
+  </head>
+  <body>
+    <b>Gold medals achieved every year by the dutch olympic teams</b>
+    <canvas id="canvas" width="1000" height="500"></canvas>
+    <script type="text/javascript">
+      var fileName = "output.json";
+      var txtFile = new XMLHttpRequest();
+      txtFile.onreadystatechange = function() {
+          if (txtFile.readyState === 4 && txtFile.status == 200) {
+              console.log(JSON.parse(txtFile.responseText));
+
+              // process the data a little into a custom object
+              var gold = {};
+              JSON.parse(txtFile.responseText).forEach(function(data)
+              {
+                if(data.NOC === 'NED' && data.Medal === 'Gold')
+                {
+                  gold[data.Year] = (gold[data.Year] + 1) || 1;
+                }
+
+              })
+              // Produce the canvass and types
+              var canvas = document.getElementById('canvas');
+              var crc = canvas.getContext('2d');
+              crc.strokeStyle = 'black'
+              crc.font = "15px Arial";
+              crc.textAlign = "center";
+
+              // produce the nessesary transforms for the graph
+              var ytransform = createTransform([0,14], [50,500]);
+              var xtransform = createTransform([1900, 2020], [50,1000])
+
+              crc.beginPath();
+              crc.moveTo(50, 450);
+              crc.lineTo(1000, 450);
+              crc.moveTo(50, 50);
+              crc.lineTo(50, 450);
+              crc.stroke();
+              crc.beginPath();
+
+              // draw the graph
+              for (var key in gold)
+              {
+                y = ytransform(gold[key]);
+                x = xtransform(parseInt(key));
+                y = Math.abs(y - 500);
+                crc.lineTo(x, y);
+              }
+              crc.stroke();
+
+              // x axis labels
+              for (i = 1900; i <= 2010; i = i + 10)
+              {
+                crc.fillText(i, xtransform(i), 465)
+              }
+
+              for (i = 0; i <= 12; i++)
+              {
+                x = 0
+                y = Math.abs(ytransform(i) - 500);
+                crc.globalAlpha = 0.1
+                crc.beginPath()
+                crc.moveTo(x + 50, y)
+                crc.lineTo(1000, y)
+                crc.stroke()
+                crc.globalAlpha = 1
+                crc.fillText((i), x + 30, y)
+              }
+              // produce the x axis <label>
+              crc.fillText("year of participation", 500, 498)
+              // produce the y axis label
+              crc.save();
+              crc.translate(15 , 300);
+              crc.rotate(-1 * (Math.PI/2));
+              crc.fillText("amount of gold medals", 0, 0);
+              crc.restore();
+          }
+      }
+      txtFile.open("GET", fileName);
+      txtFile.send();
+      function createTransform(domain, range)
+      {
+        var domainMin = domain[0]
+        var domainMax = domain[1]
+        var rangeMin = range[0]
+        var rangeMax = range[1]
+        var increment = (rangeMax - rangeMin) / (domainMax - domainMin)
+        return function(x)
+        {
+          return (((x - domain[0]) * increment) + range[0]);
+        }
+
+      }
+
+
+    </script>
+  </body>
+</html>

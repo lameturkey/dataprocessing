@@ -2,8 +2,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+      <link rel="stylesheet" href="problem3.css">
     <title>
-      My first webpage
+      Graph for problem 3
     </title>
   </head>
   <body>
@@ -11,6 +12,7 @@
       <b>Gold medals achieved every year by the dutch olympic teams</b><br>
     </p>
     <canvas id="canvas" width="1000" height="500"></canvas>
+    <canvas id="overlay" width="1000" height="500"></canvas>
     <script type="text/javascript">
       var fileName = "output.json";
       var txtFile = new XMLHttpRequest();
@@ -83,6 +85,14 @@
               crc.rotate(-1 * (Math.PI/2));
               crc.fillText("amount of gold medals", 0, 0);
               crc.restore();
+
+              var overlay = document.getElementById('overlay')
+              overlay.onmousemove = function(e) {
+                clientRect = this.getBoundingClientRect()
+                x = e.clientX - clientRect.x
+                y = e.clientY - clientRect.y
+
+              }
           }
       }
       txtFile.open("GET", fileName);
@@ -100,7 +110,7 @@
         }
 
       }
-
+      function graph(txtfile)
 
     </script>
   </body>

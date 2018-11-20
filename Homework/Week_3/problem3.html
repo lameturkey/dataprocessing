@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+
       <link rel="stylesheet" href="problem3.css">
     <title>
       Graph for problem 3
@@ -19,82 +20,12 @@
       txtFile.onreadystatechange = function() {
           if (txtFile.readyState === 4 && txtFile.status == 200) {
               console.log(JSON.parse(txtFile.responseText));
-
-              // process the data a little into a custom object
-              var gold = {};
-              JSON.parse(txtFile.responseText).forEach(function(data)
-              {
-                if(data.NOC === 'NED' && data.Medal === 'Gold')
-                {
-                  gold[data.Year] = (gold[data.Year] + 1) || 1;
-                }
-
-              })
-              // Produce the canvass and types
-              var canvas = document.getElementById('canvas');
-              var crc = canvas.getContext('2d');
-              crc.strokeStyle = 'black'
-              crc.font = "15px Arial";
-              crc.textAlign = "center";
-
-              // produce the nessesary transforms for the graph
-              var ytransform = createTransform([0,14], [50,500]);
-              var xtransform = createTransform([1900, 2020], [50,1000])
-
-              crc.beginPath();
-              crc.moveTo(50, 450);
-              crc.lineTo(1000, 450);
-              crc.moveTo(50, 50);
-              crc.lineTo(50, 450);
-              crc.stroke();
-              crc.beginPath();
-
-              // draw the graph
-              for (var key in gold)
-              {
-                y = ytransform(gold[key]);
-                x = xtransform(parseInt(key));
-                y = Math.abs(y - 500);
-                crc.lineTo(x, y);
-              }
-              crc.stroke();
-
-              // x axis labels
-              for (i = 1900; i <= 2010; i = i + 10)
-              {
-                crc.fillText(i, xtransform(i), 465)
-              }
-
-              for (i = 0; i <= 12; i++)
-              {
-                x = 0
-                y = Math.abs(ytransform(i) - 500);
-                crc.globalAlpha = 0.1
-                crc.beginPath()
-                crc.moveTo(x + 50, y)
-                crc.lineTo(1000, y)
-                crc.stroke()
-                crc.globalAlpha = 1
-                crc.fillText((i), x + 30, y)
-              }
-              // produce the x axis <label>
-              crc.fillText("year of participation", 500, 498)
-              // produce the y axis label
-              crc.save();
-              crc.translate(15 , 300);
-              crc.rotate(-1 * (Math.PI/2));
-              crc.fillText("amount of gold medals", 0, 0);
-              crc.restore();
-
-              var overlay = document.getElementById('overlay')
-              overlay.onmousemove = function(e) {
-                clientRect = this.getBoundingClientRect()
-                x = e.clientX - clientRect.x
-                y = e.clientY - clientRect.y
+              datalist = process(txtFile)
+              graph(datalist.golds, datalist.events)
+              interactive()
 
               }
           }
-      }
       txtFile.open("GET", fileName);
       txtFile.send();
       function createTransform(domain, range)
@@ -110,7 +41,128 @@
         }
 
       }
-      function graph(txtfile)
+      function process(txtFile)
+      {
+        gold = {}
+        events = {}
+        JSON.parse(txtFile.responseText).forEach(function(data)
+        {
+          if(data.NOC === 'NED' && data.Medal === 'Gold')
+          {
+            gold[data.Year] = (gold[data.Year] + 1) || 1;
+            events[data.Year] ? events[data.Year].push(data.Event) : events[data.Year] = [data.Event]
+
+        }
+      })
+        console.log(events)
+        return {golds: gold, events: events}
+      }
+      function graph(gold, events){
+        // Produce the canvass and types
+        var canvas = document.getElementById('canvas');
+        var crc = canvas.getContext('2d');
+        crc.strokeStyle = 'black'
+        crc.font = "15px Arial";
+        crc.textAlign = "center";
+
+        // produce the nessesary transforms for the graph
+        var ytransform = createTransform([0,14], [50,500]);
+        var xtransform = createTransform([1900, 2020], [50,1000])
+
+        crc.beginPath();
+        crc.moveTo(50, 450);
+        crc.lineTo(1000, 450);
+        crc.moveTo(50, 50);
+        crc.lineTo(50, 450);
+        crc.stroke();
+        crc.beginPath();
+
+        // produce an empty rectangle array for the interactive part
+        rectangles = []
+
+        // draw the graph
+        for (var key in gold)
+        {
+          y = ytransform(gold[key]);
+          x = xtransform(parseInt(key));
+          y = Math.abs(y - 500);
+          crc.lineTo(x, y);
+          rectangles.push({id: key, xco: x - 7, yco: y - 7, w: 15, h:15});
+          var div = document.createElement('div');
+          console.log(x)
+          console.log(y + 'px')
+          div.id = key
+          div.style.top = y + 'px';
+          div.style.left = x + 30 + 'px';
+          eventlist = events[key];
+          string = ''
+          for (var i = 0; eventlist[i]; i++)
+          {
+            string = string + eventlist[i] + '\r\n'
+          }
+          div.textContent = string
+          document.body.appendChild(div);
+        }
+        crc.stroke();
+
+        // x axis labels
+        for (i = 1900; i <= 2010; i = i + 10)
+        {
+          crc.fillText(i, xtransform(i), 465)
+        }
+
+        for (i = 0; i <= 12; i++)
+        {
+          x = 0
+          y = Math.abs(ytransform(i) - 500);
+          crc.globalAlpha = 0.1
+          crc.beginPath()
+          crc.moveTo(x + 50, y)
+          crc.lineTo(1000, y)
+          crc.stroke()
+          crc.globalAlpha = 1
+          crc.fillText((i), x + 30, y)
+        }
+        // produce the x axis <label>
+        crc.fillText("year of participation", 500, 498)
+        // produce the y axis label
+        crc.save();
+        crc.translate(15 , 300);
+        crc.rotate(-1 * (Math.PI/2));
+        crc.fillText("amount of gold medals", 0, 0);
+        crc.restore();
+      }
+      function interactive()
+      {
+        var canvas = document.getElementById('overlay')
+        var over = canvas.getContext('2d')
+
+        overlay.onmousemove = function(e) {
+        clientRect = this.getBoundingClientRect()
+        x = e.clientX - clientRect.x
+        y = e.clientY - clientRect.y
+        if (x < 50) { x = 50}
+        i = 0;
+        while(rectangles[i])
+        {
+          over.beginPath();
+          over.rect(rectangles[i].xco, rectangles[i].yco, rectangles[i].w, rectangles[i].h)
+          id = rectangles[i].id
+          if (over.isPointInPath(x, y)) {
+            document.getElementById(id).style.visibility = 'visible'
+          }
+          else {
+            {
+              document.getElementById(id).style.visibility = 'hidden';
+            }
+          }
+          i++
+        }
+
+
+      }
+      console.log(rectangles)
+    }
 
     </script>
   </body>

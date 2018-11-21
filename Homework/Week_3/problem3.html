@@ -10,7 +10,10 @@
   </head>
   <body>
     <p>
+      Javescript intro: by Koen van der Kamp 12466573
+      link to data <a href="https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results">here</a><br>
       <b>Gold medals achieved every year by the dutch olympic teams</b><br>
+      Hover over the datapoints for more information<br>
     </p>
     <canvas id="canvas" width="1000" height="500"></canvas>
     <canvas id="overlay" width="1000" height="500"></canvas>
@@ -20,9 +23,15 @@
       txtFile.onreadystatechange = function() {
           if (txtFile.readyState === 4 && txtFile.status == 200) {
               console.log(JSON.parse(txtFile.responseText));
-              datalist = process(txtFile)
-              graph(datalist.golds, datalist.events)
-              interactive()
+
+              // process the data a little (what country?)
+              let datalist = process(txtFile)
+
+              // graph the data produce a list of invisible rectangles for the data points
+              let rectangles = graph(datalist.golds, datalist.events)
+
+              // add the interactive element
+              interactive(rectangles)
 
               }
           }
@@ -43,8 +52,9 @@
       }
       function process(txtFile)
       {
-        gold = {}
-        events = {}
+        // produce variables where everything will be stored in
+        var gold = {}
+        var events = {}
         JSON.parse(txtFile.responseText).forEach(function(data)
         {
           if(data.NOC === 'NED' && data.Medal === 'Gold')
@@ -57,7 +67,8 @@
         console.log(events)
         return {golds: gold, events: events}
       }
-      function graph(gold, events){
+      function graph(gold, events)
+      {
         // Produce the canvass and types
         var canvas = document.getElementById('canvas');
         var crc = canvas.getContext('2d');
@@ -75,14 +86,14 @@
         crc.beginPath();
 
         // produce an empty rectangle array for the interactive part
-        rectangles = []
+        var rectangles = []
 
         console.log(typeof(gold))
         // domain and range variables
-        goldsmax = Math.max(...Object.values(gold))
-        goldsmin = Math.min(...Object.values(gold))
-        yearmin = Math.min(...Object.keys(gold))
-        yearmax = Math.max(...Object.keys(gold))
+        let goldsmax = Math.max(...Object.values(gold))
+        let goldsmin = Math.min(...Object.values(gold))
+        let yearmin = Math.min(...Object.keys(gold))
+        let yearmax = Math.max(...Object.keys(gold))
 
 
         // produce the nessesary transforms for the graph
@@ -138,8 +149,9 @@
         crc.rotate(-1 * (Math.PI/2));
         crc.fillText("amount of gold medals", 0, 0);
         crc.restore();
+        return rectangles
       }
-      function interactive()
+      function interactive(rectangles)
       {
         var canvas = document.getElementById('overlay')
         var over = canvas.getContext('2d')

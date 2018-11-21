@@ -65,10 +65,7 @@
         crc.font = "15px Arial";
         crc.textAlign = "center";
 
-        // produce the nessesary transforms for the graph
-        var ytransform = createTransform([0,14], [50,500]);
-        var xtransform = createTransform([1900, 2020], [50,1000])
-
+        // basic layout of a graph
         crc.beginPath();
         crc.moveTo(50, 450);
         crc.lineTo(1000, 450);
@@ -80,6 +77,18 @@
         // produce an empty rectangle array for the interactive part
         rectangles = []
 
+        console.log(typeof(gold))
+        // domain and range variables
+        goldsmax = Math.max(...Object.values(gold))
+        goldsmin = Math.min(...Object.values(gold))
+        yearmin = Math.min(...Object.keys(gold))
+        yearmax = Math.max(...Object.keys(gold))
+
+
+        // produce the nessesary transforms for the graph
+        var ytransform = createTransform([0, goldsmax], [50,450]);
+        var xtransform = createTransform([yearmin, yearmax], [50,1000])
+
         // draw the graph
         for (var key in gold)
         {
@@ -89,13 +98,11 @@
           crc.lineTo(x, y);
           rectangles.push({id: key, xco: x - 7, yco: y - 7, w: 15, h:15});
           var div = document.createElement('div');
-          console.log(x)
-          console.log(y + 'px')
           div.id = key
           div.style.top = y + 'px';
           div.style.left = x + 30 + 'px';
           eventlist = events[key];
-          string = ''
+          string = 'Year ' + key + ':\r\n'
           for (var i = 0; eventlist[i]; i++)
           {
             string = string + eventlist[i] + '\r\n'
@@ -106,12 +113,12 @@
         crc.stroke();
 
         // x axis labels
-        for (i = 1900; i <= 2010; i = i + 10)
+        for (i = yearmin; i <= yearmax; i = i + 10)
         {
           crc.fillText(i, xtransform(i), 465)
         }
 
-        for (i = 0; i <= 12; i++)
+        for (i = 0; i <= goldsmax; i = i + parseInt((goldsmax - goldsmin) / 10))
         {
           x = 0
           y = Math.abs(ytransform(i) - 500);
@@ -139,30 +146,36 @@
 
         overlay.onmousemove = function(e) {
         clientRect = this.getBoundingClientRect()
-        x = e.clientX - clientRect.x
-        y = e.clientY - clientRect.y
+        let x = e.clientX - clientRect.x
+        let y = e.clientY - clientRect.y
         if (x < 50) { x = 50}
-        i = 0;
+        let  i = 0;
+        currentid = undefined
+        clearTimeout(x)
         while(rectangles[i])
         {
           over.beginPath();
           over.rect(rectangles[i].xco, rectangles[i].yco, rectangles[i].w, rectangles[i].h)
-          id = rectangles[i].id
-          if (over.isPointInPath(x, y)) {
-            document.getElementById(id).style.visibility = 'visible'
+          let id = rectangles[i].id
+          if (over.isPointInPath(x, y))
+          {
+          x = setTimeout(drawinformation, 1000, id);
           }
-          else {
-            {
-              document.getElementById(id).style.visibility = 'hidden';
-            }
+          else
+          {
+            document.getElementById(id).style.visibility = 'hidden'
           }
           i++
         }
 
 
       }
-      console.log(rectangles)
     }
+    function drawinformation(id)
+    {
+      document.getElementById(id).style.visibility = 'visible';
+    }
+
 
     </script>
   </body>

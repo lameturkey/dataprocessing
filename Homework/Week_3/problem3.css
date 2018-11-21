@@ -1,6 +1,5 @@
 canvas {
   position: absolute;
-  border: 1px solid black;
 }
 div
 {
@@ -9,8 +8,6 @@ div
   font-size: 10px;
   position: absolute;
   z-index: 10;
-  border-style: solid;
-  border-width: 1px;
-  border-color: black;
+
   white-space: pre-line;
 }

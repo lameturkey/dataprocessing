@@ -112,7 +112,6 @@
           .attr('x2', WIDTH)
           .attr('y1', yscale(minvalue + i * (maxvalue - minvalue)/10))
           .attr('y2', yscale(minvalue + i * (maxvalue - minvalue)/10))
-          console.log(yscale(maxvalue - i * (maxvalue - minvalue)/10))
         }
 
         // add interactivity
@@ -145,7 +144,6 @@
       d3.selectAll(".box").remove();
       d3.selectAll(".info").remove();
       d3.selectAll(".arrow").remove()
-      console.log("now");
     }
     </script>
   </body>

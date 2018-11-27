@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="d3/d3.js"></script>
+  </head>
+  <body>
+    <script type="text/javascript">
+      WIDTH = 1000
+      HEIGHT = 500
+      AXISPAD = 30
+
+      // generic D3 title and paragraph
+      d3.select("head").append("title").text("D3 title")
+      d3.select("body").append("p").text("Amount of medals won in total history by country")
+
+      // produce an svg
+      var svg = d3.select("body")
+            .append("svg")
+            .attr("width", WIDTH)
+            .attr("height", HEIGHT);
+
+      // request the json
+      var fileName = "output.json";
+      var txtFile = new XMLHttpRequest();
+      txtFile.onreadystatechange = function()
+      {
+
+          // if the json is ready
+          if (txtFile.readyState === 4 && txtFile.status == 200)
+            {
+              console.log(JSON.parse(txtFile.responseText));
+
+              // process the data (very simple allready done in python)
+              dataobject = process(txtFile)
+
+              // graph the data
+              graph(dataobject)
+            }
+      }
+      txtFile.open("GET", fileName);
+      txtFile.send();
+
+
+      function process(txtFile)
+      {
+        dataobject = JSON.parse(txtFile.responseText)
+        return dataobject
+      }
+
+      function graph(dataobject)
+      {
+
+        // produce (global) scales
+        yscale = d3.scaleLinear()
+        var minvalue = 0
+        var maxvalue = Math.max.apply(null, Object.values(dataobject))
+        yscale.domain([0, maxvalue])
+        yscale.range([AXISPAD , HEIGHT - 2 *AXISPAD])
+        xscale = d3.scaleLinear()
+        .domain([0, 15])
+        .range([AXISPAD + 20, WIDTH])
+
+        // produce placeholder bars
+        bars = svg.selectAll("rect")
+          .data(Object.values(dataobject))
+          .enter()
+          .append("rect")
+
+        // assign all attributes to the bars
+        bars.attr("class", "columnbars").attr("x", function(d, i) {
+           return xscale(i)
+         }).attr("y", function(d) {  return HEIGHT - AXISPAD - yscale(d)
+         });
+        bars.attr("height", function(d) {
+             return (yscale(d))
+           });
+
+        // produce the xaxis labels (offset of 10px is nicer)
+        svg.selectAll("text").data(Object.keys(dataobject)).enter()
+          .append("text")
+          .attr("x", function(d, i) {
+          return xscale(i) - 10})
+          .attr("y", HEIGHT)
+          .text(function(d){return d})
+
+        // produce lines for the graph
+        d3.select("svg").append("line").attr("class", "line")
+          .attr('x1', AXISPAD)
+          .attr('y1', AXISPAD)
+          .attr('x2', AXISPAD)
+          .attr('y2', HEIGHT - AXISPAD)
+        d3.select("svg").append("line").attr("class", "line")
+          .attr('x1', AXISPAD)
+          .attr('y1', HEIGHT - AXISPAD)
+          .attr('x2', WIDTH)
+          .attr('y2', HEIGHT - AXISPAD)
+
+        // produce 11 labels for the yaxis
+        for (i = 0; i < 11; i++)
+        {
+
+          // 12 pixels offset for readability
+          d3.select('svg').append("text").attr("class", "axistext")
+          .attr("y", yscale(maxvalue - i * (maxvalue - minvalue)/10) + 12)
+          .attr("x", 0)
+          .text(parseInt(minvalue + i * (maxvalue - minvalue)/10))
+
+          // ad minor lines with less opacity
+          d3.select("svg").append("line").attr("class", "minor")
+          .attr('x1', AXISPAD)
+          .attr('x2', WIDTH)
+          .attr('y1', yscale(minvalue + i * (maxvalue - minvalue)/10))
+          .attr('y2', yscale(minvalue + i * (maxvalue - minvalue)/10))
+          console.log(yscale(maxvalue - i * (maxvalue - minvalue)/10))
+        }
+
+        // add interactivity
+        bars.on("mouseover", showbox)
+            .on("mouseout", hidebox)
+    }
+
+    // when the mouse is on the box
+    function showbox(d, i)
+    {
+      d3.select("svg").append("rect").attr("class", "box")
+      .attr("y", 50)
+      .attr("x", 50)
+      .attr("width", 200)
+      .attr("height", 10)
+      d3.select("svg").append("text").attr("class", "info")
+      .attr("y", 50)
+      .attr("x", 50)
+      .text("amount of gold medals: " + d)
+      d3.select("svg").append("line").attr("class", "arrow")
+      .attr("x1", 200)
+      .attr("x2", xscale(i))
+      .attr("y1", 55)
+      .attr("y2", HEIGHT - AXISPAD - yscale(d))
+    }
+
+    // when the mouse leaves the box
+    function hidebox(d, i)
+    {
+      d3.selectAll(".box").remove();
+      d3.selectAll(".info").remove();
+      d3.selectAll(".arrow").remove()
+      console.log("now");
+    }
+    </script>
+  </body>
+</html>

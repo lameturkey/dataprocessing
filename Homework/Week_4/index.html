@@ -56,7 +56,7 @@
         var minvalue = 0
         var maxvalue = Math.max.apply(null, Object.values(dataobject))
         yscale.domain([0, maxvalue])
-        yscale.range([AXISPAD , HEIGHT - 2 *AXISPAD])
+        yscale.range([0 , HEIGHT - 2 *AXISPAD])
         xscale = d3.scaleLinear()
         .domain([0, 15])
         .range([AXISPAD + 20, WIDTH])
@@ -102,7 +102,7 @@
 
           // 12 pixels offset for readability
           d3.select('svg').append("text").attr("class", "axistext")
-          .attr("y", yscale(maxvalue - i * (maxvalue - minvalue)/10) + 12)
+          .attr("y", HEIGHT - AXISPAD - yscale(minvalue + i * (maxvalue - minvalue)/10))
           .attr("x", 0)
           .text(parseInt(minvalue + i * (maxvalue - minvalue)/10))
 
@@ -110,8 +110,8 @@
           d3.select("svg").append("line").attr("class", "minor")
           .attr('x1', AXISPAD)
           .attr('x2', WIDTH)
-          .attr('y1', yscale(minvalue + i * (maxvalue - minvalue)/10))
-          .attr('y2', yscale(minvalue + i * (maxvalue - minvalue)/10))
+          .attr('y1', HEIGHT - AXISPAD - yscale(minvalue + i * (maxvalue - minvalue)/10))
+          .attr('y2', HEIGHT - AXISPAD - yscale(minvalue + i * (maxvalue - minvalue)/10))
         }
 
         // add interactivity

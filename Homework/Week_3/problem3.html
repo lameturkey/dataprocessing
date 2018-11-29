@@ -1,0 +1,248 @@
+<!-- KOEN VAN DER KAMP COMMENT -->
+<!DOCTYPE html>
+<html>
+  <head>
+
+      <link rel="stylesheet" href="problem3.css">
+    <title>
+      Graph for problem 3
+    </title>
+  </head>
+  <body>
+    <p>
+      Javescript intro: by Koen van der Kamp 12466573
+      link to data <a href="https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results">here</a><br>
+      <b>Gold medals achieved every year by the dutch olympic teams</b><br>
+      Hover over the datapoints for more information <br>
+      (I deviated from the extra credit interactive however i used all the theory)<br>
+    </p>
+    <canvas id="canvas" width="1000" height="500"></canvas>
+    <canvas id="overlay" width="1000" height="500"></canvas>
+    <script type="text/javascript">
+
+      // request the json
+      var fileName = "output.json";
+      var txtFile = new XMLHttpRequest();
+      txtFile.onreadystatechange = function()
+      {
+
+          // if the json is ready
+          if (txtFile.readyState === 4 && txtFile.status == 200)
+            {
+              console.log(JSON.parse(txtFile.responseText));
+
+              // process the data a little (what country?)
+              let datalist = process(txtFile)
+
+              // graph the data produce a list of invisible rectangles for the data points
+              let rectangles = graph(datalist.golds, datalist.events)
+
+              // add the interactive element
+              interactive(rectangles)
+            }
+      }
+      txtFile.open("GET", fileName);
+      txtFile.send();
+
+      // transform function domain -> range
+      function createTransform(domain, range)
+      {
+        var domainMin = domain[0]
+        var domainMax = domain[1]
+        var rangeMin = range[0]
+        var rangeMax = range[1]
+        var increment = (rangeMax - rangeMin) / (domainMax - domainMin)
+        return function(x)
+        {
+          return (((x - domain[0]) * increment) + range[0]);
+        }
+
+      }
+
+      function process(txtFile)
+      {
+
+        // produce variables where everything will be stored in
+        var gold = {}
+        var events = {}
+        JSON.parse(txtFile.responseText).forEach(function(data)
+        {
+          // if the data is relevant (you can place other countries or medals here)
+          if(data.NOC === 'NED' && data.Medal === 'Gold')
+          {
+
+            // save to the variables
+            gold[data.Year] = (gold[data.Year] + 1) || 1;
+            events[data.Year] ? events[data.Year].push(data.Event) : events[data.Year] = [data.Event]
+          }
+        })
+
+        // return the loaded variables
+        return {golds: gold, events: events}
+      }
+
+      function graph(gold, events)
+      {
+        // Produce the canvass and types
+        var canvas = document.getElementById('canvas');
+        var crc = canvas.getContext('2d');
+        crc.strokeStyle = 'black'
+        crc.font = "15px Arial";
+        crc.textAlign = "center";
+
+        // basic layout of a graph
+        crc.beginPath();
+        crc.moveTo(50, 450);
+        crc.lineTo(1000, 450);
+        crc.moveTo(50, 50);
+        crc.lineTo(50, 450);
+        crc.stroke();
+        crc.beginPath();
+
+        // produce an empty rectangle array for the interactive part
+        var rectangles = []
+
+        // domain and range variables
+        let goldsmax = Math.max(...Object.values(gold))
+        let goldsmin = Math.min(...Object.values(gold))
+        let yearmin = Math.min(...Object.keys(gold))
+        let yearmax = Math.max(...Object.keys(gold))
+
+
+        // produce the nessesary transforms for the graph
+        var ytransform = createTransform([0, goldsmax], [50,450]);
+        var xtransform = createTransform([yearmin, yearmax], [50,1000])
+
+        // draw the graph
+        for (var key in gold)
+        {
+
+          // create transforms for gold -> y and key -> x
+          y = ytransform(gold[key]);
+          x = xtransform(parseInt(key));
+
+          // the canvass has an inverted y axis
+          y = Math.abs(y - 500);
+
+          // produce the line
+          crc.lineTo(x, y);
+
+          // produce a rectangle for the interactive part
+          rectangles.push({id: key, xco: x - 7, yco: y - 7, w: 15, h:15});
+
+          // create a div for the events
+          var div = document.createElement('div');
+          div.id = key
+          div.style.top = y + 'px';
+          div.style.left = x + 30 + 'px';
+          eventlist = events[key];
+          string = 'Year ' + key + ':\r\n'
+
+          // add all the events
+          for (var i = 0; eventlist[i]; i++)
+          {
+            string = string + eventlist[i] + '\r\n'
+          }
+
+          // set the events as the content
+          div.textContent = string
+
+          // append the div to the body
+          document.body.appendChild(div);
+        }
+
+        // draw all the lines
+        crc.stroke();
+
+        // x axis labels
+        for (i = yearmin; i <= yearmax; i = i + 10)
+        {
+          crc.fillText(i, xtransform(i), 465)
+        }
+
+        // y axis labels and lines
+        for (i = 0; i <= goldsmax; i = i + parseInt((goldsmax - goldsmin) / 10))
+        {
+          // variables for the coordinates
+          let x = 0
+          let y = Math.abs(ytransform(i) - 500);
+
+          // draw the line
+          crc.globalAlpha = 0.1
+          crc.beginPath()
+          crc.moveTo(x + 50, y)
+          crc.lineTo(1000, y)
+          crc.stroke()
+
+          // labels
+          crc.globalAlpha = 1
+          crc.fillText((i), x + 30, y)
+        }
+
+        // produce the x axis text
+
+        crc.fillText("year of participation", 500, 498)
+
+        // produce the y axis text
+        crc.save();
+        crc.translate(15 , 300);
+        crc.rotate(-1 * (Math.PI/2));
+        crc.fillText("amount of gold medals", 0, 0);
+        crc.restore();
+
+        // return all rectangles for interactive stuff
+        return rectangles
+      }
+
+      function interactive(rectangles)
+      {
+        // produce a new overlay to produce divs on
+        var canvas = document.getElementById('overlay')
+        var over = canvas.getContext('2d')
+
+        // on mouse move
+        overlay.onmousemove = function(e)
+        {
+
+          // calculate relative mouse position on canvass
+          clientRect = this.getBoundingClientRect()
+          let x = e.clientX - clientRect.x
+          let y = e.clientY - clientRect.y
+
+          // if x is smaller than the axis set it to 50
+          if (x < 50) { x = 50}
+          let  i = 0;
+
+          // clear all timers when the mouse moves
+          clearTimeout(x)
+
+          // for all rectangles
+          while(rectangles[i])
+          {
+
+            // make a path of a single rect
+            over.beginPath();
+            over.rect(rectangles[i].xco, rectangles[i].yco, rectangles[i].w, rectangles[i].h)
+            let id = rectangles[i].id
+
+            // if the mouse is in the rect
+            if (over.isPointInPath(x, y))
+            {
+              x = setTimeout(drawinformation, 1000, id);
+            }
+            else
+            {
+              document.getElementById(id).style.visibility = 'hidden'
+            }
+            i++
+          }
+        }
+      }
+
+      function drawinformation(id)
+      {
+        document.getElementById(id).style.visibility = 'visible';
+      }
+    </script>
+  </body>
+</html>

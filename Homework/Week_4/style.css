@@ -1,0 +1,23 @@
+.columnbars {
+    width: 20px;
+    margin-right: 1px;
+    fill: orange;
+ }
+.columnbars:hover {
+  fill: blue;
+}
+.line {
+  stroke: black;
+}
+.arrow {
+  stroke: black;
+}
+.minor {
+  stroke: black;
+  opacity: 0.2;
+}
+.box {
+  background-color: white;
+  border-width: 3px;
+  fill: white;
+}

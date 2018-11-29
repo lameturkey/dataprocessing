@@ -1,0 +1,14 @@
+canvas {
+  position: absolute;
+}
+div
+{
+  background-color: white;
+  visibility: hidden;
+  font-size: 10px;
+  position: absolute;
+  z-index: 10;
+  border-width: 1px;
+  border-color: black;
+  white-space: pre-line;
+}

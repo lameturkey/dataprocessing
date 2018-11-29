@@ -1,0 +1,1286 @@
+{
+    "Afghanistan": {
+        "GDP": 700,
+        "Infant": 163.07,
+        "Pop": 48.0,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Albania": {
+        "GDP": 4500,
+        "Infant": 21.52,
+        "Pop": 124.6,
+        "Region": "EASTERN EUROPE"
+    },
+    "Algeria": {
+        "GDP": 6000,
+        "Infant": 31.0,
+        "Pop": 13.8,
+        "Region": "NORTHERN AFRICA"
+    },
+    "American Samoa": {
+        "GDP": 8000,
+        "Infant": 9.27,
+        "Pop": 290.4,
+        "Region": "OCEANIA"
+    },
+    "Andorra": {
+        "GDP": 19000,
+        "Infant": 4.05,
+        "Pop": 152.1,
+        "Region": "WESTERN EUROPE"
+    },
+    "Angola": {
+        "GDP": 1900,
+        "Infant": 191.19,
+        "Pop": 9.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Anguilla": {
+        "GDP": 8600,
+        "Infant": 21.03,
+        "Pop": 132.1,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Antigua & Barbuda": {
+        "GDP": 11000,
+        "Infant": 19.46,
+        "Pop": 156.0,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Argentina": {
+        "GDP": 11200,
+        "Infant": 15.18,
+        "Pop": 14.4,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Armenia": {
+        "GDP": 3500,
+        "Infant": 23.28,
+        "Pop": 99.9,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Australia": {
+        "GDP": 29000,
+        "Infant": 4.69,
+        "Pop": 2.6,
+        "Region": "OCEANIA"
+    },
+    "Austria": {
+        "GDP": 30000,
+        "Infant": 4.66,
+        "Pop": 97.7,
+        "Region": "WESTERN EUROPE"
+    },
+    "Azerbaijan": {
+        "GDP": 3400,
+        "Infant": 81.74,
+        "Pop": 91.9,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Bahamas, The": {
+        "GDP": 16700,
+        "Infant": 25.21,
+        "Pop": 21.8,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Bahrain": {
+        "GDP": 16900,
+        "Infant": 17.27,
+        "Pop": 1050.5,
+        "Region": "NEAR EAST"
+    },
+    "Bangladesh": {
+        "GDP": 1900,
+        "Infant": 62.6,
+        "Pop": 1023.4,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Barbados": {
+        "GDP": 15700,
+        "Infant": 12.5,
+        "Pop": 649.5,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Belarus": {
+        "GDP": 6100,
+        "Infant": 13.37,
+        "Pop": 49.6,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Belgium": {
+        "GDP": 29100,
+        "Infant": 4.68,
+        "Pop": 340.0,
+        "Region": "WESTERN EUROPE"
+    },
+    "Belize": {
+        "GDP": 4900,
+        "Infant": 25.69,
+        "Pop": 12.5,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Benin": {
+        "GDP": 1100,
+        "Infant": 85.0,
+        "Pop": 69.8,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Bermuda": {
+        "GDP": 36000,
+        "Infant": 8.53,
+        "Pop": 1241.0,
+        "Region": "NORTHERN AMERICA"
+    },
+    "Bhutan": {
+        "GDP": 1300,
+        "Infant": 100.44,
+        "Pop": 48.5,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Bolivia": {
+        "GDP": 2400,
+        "Infant": 53.11,
+        "Pop": 8.2,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Bosnia & Herzegovina": {
+        "GDP": 6100,
+        "Infant": 21.05,
+        "Pop": 88.0,
+        "Region": "EASTERN EUROPE"
+    },
+    "Botswana": {
+        "GDP": 9000,
+        "Infant": 54.58,
+        "Pop": 2.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Brazil": {
+        "GDP": 7600,
+        "Infant": 29.61,
+        "Pop": 22.1,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "British Virgin Is.": {
+        "GDP": 16000,
+        "Infant": 18.05,
+        "Pop": 151.0,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Brunei": {
+        "GDP": 18600,
+        "Infant": 12.61,
+        "Pop": 65.8,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Bulgaria": {
+        "GDP": 7600,
+        "Infant": 20.55,
+        "Pop": 66.6,
+        "Region": "EASTERN EUROPE"
+    },
+    "Burkina Faso": {
+        "GDP": 1100,
+        "Infant": 97.57,
+        "Pop": 50.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Burma": {
+        "GDP": 1800,
+        "Infant": 67.24,
+        "Pop": 69.8,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Burundi": {
+        "GDP": 600,
+        "Infant": 69.29,
+        "Pop": 290.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Cambodia": {
+        "GDP": 1900,
+        "Infant": 71.48,
+        "Pop": 76.7,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Cameroon": {
+        "GDP": 1800,
+        "Infant": 68.26,
+        "Pop": 36.5,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Canada": {
+        "GDP": 29800,
+        "Infant": 4.75,
+        "Pop": 3.3,
+        "Region": "NORTHERN AMERICA"
+    },
+    "Cape Verde": {
+        "GDP": 1400,
+        "Infant": 47.77,
+        "Pop": 104.4,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Cayman Islands": {
+        "GDP": 35000,
+        "Infant": 8.19,
+        "Pop": 173.4,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Central African Rep.": {
+        "GDP": 1100,
+        "Infant": 91.0,
+        "Pop": 6.9,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Chad": {
+        "GDP": 1200,
+        "Infant": 93.82,
+        "Pop": 7.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Chile": {
+        "GDP": 9900,
+        "Infant": 8.8,
+        "Pop": 21.3,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "China": {
+        "GDP": 5000,
+        "Infant": 24.18,
+        "Pop": 136.9,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Colombia": {
+        "GDP": 6300,
+        "Infant": 20.97,
+        "Pop": 38.3,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Comoros": {
+        "GDP": 700,
+        "Infant": 74.93,
+        "Pop": 318.4,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Congo, Dem. Rep.": {
+        "GDP": 700,
+        "Infant": 94.69,
+        "Pop": 26.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Congo, Repub. of the": {
+        "GDP": 700,
+        "Infant": 93.86,
+        "Pop": 10.8,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Costa Rica": {
+        "GDP": 9100,
+        "Infant": 9.95,
+        "Pop": 79.8,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Cote d'Ivoire": {
+        "GDP": 1400,
+        "Infant": 90.83,
+        "Pop": 54.8,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Croatia": {
+        "GDP": 10600,
+        "Infant": 6.84,
+        "Pop": 79.5,
+        "Region": "EASTERN EUROPE"
+    },
+    "Cuba": {
+        "GDP": 2900,
+        "Infant": 6.33,
+        "Pop": 102.7,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Denmark": {
+        "GDP": 31100,
+        "Infant": 4.56,
+        "Pop": 126.5,
+        "Region": "WESTERN EUROPE"
+    },
+    "Djibouti": {
+        "GDP": 1300,
+        "Infant": 104.13,
+        "Pop": 21.2,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Dominica": {
+        "GDP": 5400,
+        "Infant": 14.15,
+        "Pop": 91.4,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Dominican Republic": {
+        "GDP": 6000,
+        "Infant": 32.38,
+        "Pop": 188.5,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "East Timor": {
+        "GDP": 500,
+        "Infant": 47.41,
+        "Pop": 70.8,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Ecuador": {
+        "GDP": 3300,
+        "Infant": 23.66,
+        "Pop": 47.8,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Egypt": {
+        "GDP": 4000,
+        "Infant": 32.59,
+        "Pop": 78.8,
+        "Region": "NORTHERN AFRICA"
+    },
+    "El Salvador": {
+        "GDP": 4800,
+        "Infant": 25.1,
+        "Pop": 324.3,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Equatorial Guinea": {
+        "GDP": 2700,
+        "Infant": 85.13,
+        "Pop": 19.3,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Eritrea": {
+        "GDP": 700,
+        "Infant": 74.87,
+        "Pop": 39.5,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Estonia": {
+        "GDP": 12300,
+        "Infant": 7.87,
+        "Pop": 29.3,
+        "Region": "BALTICS"
+    },
+    "Ethiopia": {
+        "GDP": 700,
+        "Infant": 95.32,
+        "Pop": 66.3,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Faroe Islands": {
+        "GDP": 22000,
+        "Infant": 6.24,
+        "Pop": 33.8,
+        "Region": "WESTERN EUROPE"
+    },
+    "Fiji": {
+        "GDP": 5800,
+        "Infant": 12.62,
+        "Pop": 49.6,
+        "Region": "OCEANIA"
+    },
+    "Finland": {
+        "GDP": 27400,
+        "Infant": 3.57,
+        "Pop": 15.5,
+        "Region": "WESTERN EUROPE"
+    },
+    "France": {
+        "GDP": 27600,
+        "Infant": 4.26,
+        "Pop": 111.3,
+        "Region": "WESTERN EUROPE"
+    },
+    "French Guiana": {
+        "GDP": 8300,
+        "Infant": 12.07,
+        "Pop": 2.2,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "French Polynesia": {
+        "GDP": 17500,
+        "Infant": 8.44,
+        "Pop": 65.9,
+        "Region": "OCEANIA"
+    },
+    "Gabon": {
+        "GDP": 5500,
+        "Infant": 53.64,
+        "Pop": 5.3,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Gambia, The": {
+        "GDP": 1700,
+        "Infant": 72.02,
+        "Pop": 145.3,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Gaza Strip": {
+        "GDP": 600,
+        "Infant": 22.93,
+        "Pop": 3968.8,
+        "Region": "NEAR EAST"
+    },
+    "Georgia": {
+        "GDP": 2500,
+        "Infant": 18.59,
+        "Pop": 66.9,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Germany": {
+        "GDP": 27600,
+        "Infant": 4.16,
+        "Pop": 230.9,
+        "Region": "WESTERN EUROPE"
+    },
+    "Ghana": {
+        "GDP": 2200,
+        "Infant": 51.43,
+        "Pop": 93.6,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Gibraltar": {
+        "GDP": 17500,
+        "Infant": 5.13,
+        "Pop": 3989.7,
+        "Region": "WESTERN EUROPE"
+    },
+    "Greece": {
+        "GDP": 20000,
+        "Infant": 5.53,
+        "Pop": 81.0,
+        "Region": "WESTERN EUROPE"
+    },
+    "Greenland": {
+        "GDP": 20000,
+        "Infant": 15.82,
+        "Pop": 0.0,
+        "Region": "NORTHERN AMERICA"
+    },
+    "Grenada": {
+        "GDP": 5000,
+        "Infant": 14.62,
+        "Pop": 260.8,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Guadeloupe": {
+        "GDP": 8000,
+        "Infant": 8.6,
+        "Pop": 254.4,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Guam": {
+        "GDP": 21000,
+        "Infant": 6.94,
+        "Pop": 316.1,
+        "Region": "OCEANIA"
+    },
+    "Guatemala": {
+        "GDP": 4100,
+        "Infant": 35.93,
+        "Pop": 112.9,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Guernsey": {
+        "GDP": 20000,
+        "Infant": 4.71,
+        "Pop": 838.6,
+        "Region": "WESTERN EUROPE"
+    },
+    "Guinea": {
+        "GDP": 2100,
+        "Infant": 90.37,
+        "Pop": 39.4,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Guinea-Bissau": {
+        "GDP": 800,
+        "Infant": 107.17,
+        "Pop": 39.9,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Guyana": {
+        "GDP": 4000,
+        "Infant": 33.26,
+        "Pop": 3.6,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Haiti": {
+        "GDP": 1600,
+        "Infant": 73.45,
+        "Pop": 299.4,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Honduras": {
+        "GDP": 2600,
+        "Infant": 29.32,
+        "Pop": 65.4,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Hong Kong": {
+        "GDP": 28800,
+        "Infant": 2.97,
+        "Pop": 6355.7,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Hungary": {
+        "GDP": 13900,
+        "Infant": 8.57,
+        "Pop": 107.3,
+        "Region": "EASTERN EUROPE"
+    },
+    "India": {
+        "GDP": 2900,
+        "Infant": 56.29,
+        "Pop": 333.2,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Indonesia": {
+        "GDP": 3200,
+        "Infant": 35.6,
+        "Pop": 127.9,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Iran": {
+        "GDP": 7000,
+        "Infant": 41.58,
+        "Pop": 41.7,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Iraq": {
+        "GDP": 1500,
+        "Infant": 50.25,
+        "Pop": 61.3,
+        "Region": "NEAR EAST"
+    },
+    "Ireland": {
+        "GDP": 29600,
+        "Infant": 5.39,
+        "Pop": 57.8,
+        "Region": "WESTERN EUROPE"
+    },
+    "Isle of Man": {
+        "GDP": 21000,
+        "Infant": 5.93,
+        "Pop": 131.9,
+        "Region": "WESTERN EUROPE"
+    },
+    "Israel": {
+        "GDP": 19800,
+        "Infant": 7.03,
+        "Pop": 305.8,
+        "Region": "NEAR EAST"
+    },
+    "Italy": {
+        "GDP": 26700,
+        "Infant": 5.94,
+        "Pop": 193.0,
+        "Region": "WESTERN EUROPE"
+    },
+    "Japan": {
+        "GDP": 28200,
+        "Infant": 3.26,
+        "Pop": 337.4,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Jersey": {
+        "GDP": 24800,
+        "Infant": 5.24,
+        "Pop": 785.2,
+        "Region": "WESTERN EUROPE"
+    },
+    "Jordan": {
+        "GDP": 4300,
+        "Infant": 17.35,
+        "Pop": 64.0,
+        "Region": "NEAR EAST"
+    },
+    "Kazakhstan": {
+        "GDP": 6300,
+        "Infant": 29.21,
+        "Pop": 5.6,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Kenya": {
+        "GDP": 1000,
+        "Infant": 61.47,
+        "Pop": 59.6,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Kiribati": {
+        "GDP": 800,
+        "Infant": 48.52,
+        "Pop": 130.0,
+        "Region": "OCEANIA"
+    },
+    "Korea, North": {
+        "GDP": 1300,
+        "Infant": 24.04,
+        "Pop": 191.8,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Korea, South": {
+        "GDP": 17800,
+        "Infant": 7.05,
+        "Pop": 496.0,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Kuwait": {
+        "GDP": 19000,
+        "Infant": 9.95,
+        "Pop": 135.7,
+        "Region": "NEAR EAST"
+    },
+    "Kyrgyzstan": {
+        "GDP": 1600,
+        "Infant": 35.64,
+        "Pop": 26.3,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Latvia": {
+        "GDP": 10200,
+        "Infant": 9.55,
+        "Pop": 35.2,
+        "Region": "BALTICS"
+    },
+    "Lebanon": {
+        "GDP": 4800,
+        "Infant": 24.52,
+        "Pop": 372.5,
+        "Region": "NEAR EAST"
+    },
+    "Lesotho": {
+        "GDP": 3000,
+        "Infant": 84.23,
+        "Pop": 66.6,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Liberia": {
+        "GDP": 1000,
+        "Infant": 128.87,
+        "Pop": 27.3,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Libya": {
+        "GDP": 6400,
+        "Infant": 24.6,
+        "Pop": 3.4,
+        "Region": "NORTHERN AFRICA"
+    },
+    "Liechtenstein": {
+        "GDP": 25000,
+        "Infant": 4.7,
+        "Pop": 212.4,
+        "Region": "WESTERN EUROPE"
+    },
+    "Lithuania": {
+        "GDP": 11400,
+        "Infant": 6.89,
+        "Pop": 55.0,
+        "Region": "BALTICS"
+    },
+    "Luxembourg": {
+        "GDP": 55100,
+        "Infant": 4.81,
+        "Pop": 183.5,
+        "Region": "WESTERN EUROPE"
+    },
+    "Macau": {
+        "GDP": 19400,
+        "Infant": 4.39,
+        "Pop": 16183.0,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Macedonia": {
+        "GDP": 6700,
+        "Infant": 10.09,
+        "Pop": 80.9,
+        "Region": "EASTERN EUROPE"
+    },
+    "Madagascar": {
+        "GDP": 800,
+        "Infant": 76.83,
+        "Pop": 31.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Malawi": {
+        "GDP": 600,
+        "Infant": 103.32,
+        "Pop": 109.8,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Maldives": {
+        "GDP": 3900,
+        "Infant": 56.52,
+        "Pop": 1196.7,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Mali": {
+        "GDP": 900,
+        "Infant": 116.79,
+        "Pop": 9.5,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Malta": {
+        "GDP": 17700,
+        "Infant": 3.89,
+        "Pop": 1266.5,
+        "Region": "WESTERN EUROPE"
+    },
+    "Marshall Islands": {
+        "GDP": 1600,
+        "Infant": 29.45,
+        "Pop": 5.1,
+        "Region": "OCEANIA"
+    },
+    "Martinique": {
+        "GDP": 14400,
+        "Infant": 7.09,
+        "Pop": 396.5,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Mauritania": {
+        "GDP": 1800,
+        "Infant": 70.89,
+        "Pop": 3.1,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Mauritius": {
+        "GDP": 11400,
+        "Infant": 15.03,
+        "Pop": 608.3,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Mayotte": {
+        "GDP": 2600,
+        "Infant": 62.4,
+        "Pop": 538.1,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Mexico": {
+        "GDP": 9000,
+        "Infant": 20.91,
+        "Pop": 54.5,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Micronesia, Fed. St.": {
+        "GDP": 2000,
+        "Infant": 30.21,
+        "Pop": 153.9,
+        "Region": "OCEANIA"
+    },
+    "Moldova": {
+        "GDP": 1800,
+        "Infant": 40.42,
+        "Pop": 132.0,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Monaco": {
+        "GDP": 27000,
+        "Infant": 5.43,
+        "Pop": 16271.5,
+        "Region": "WESTERN EUROPE"
+    },
+    "Mongolia": {
+        "GDP": 1800,
+        "Infant": 53.79,
+        "Pop": 1.8,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Montserrat": {
+        "GDP": 3400,
+        "Infant": 7.35,
+        "Pop": 92.5,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Morocco": {
+        "GDP": 4000,
+        "Infant": 41.62,
+        "Pop": 74.4,
+        "Region": "NORTHERN AFRICA"
+    },
+    "Mozambique": {
+        "GDP": 1200,
+        "Infant": 130.79,
+        "Pop": 24.6,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Namibia": {
+        "GDP": 7200,
+        "Infant": 48.98,
+        "Pop": 2.5,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Nauru": {
+        "GDP": 5000,
+        "Infant": 9.95,
+        "Pop": 632.7,
+        "Region": "OCEANIA"
+    },
+    "Nepal": {
+        "GDP": 1400,
+        "Infant": 66.98,
+        "Pop": 192.2,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Netherlands": {
+        "GDP": 28600,
+        "Infant": 5.04,
+        "Pop": 397.1,
+        "Region": "WESTERN EUROPE"
+    },
+    "Netherlands Antilles": {
+        "GDP": 11400,
+        "Infant": 10.03,
+        "Pop": 231.0,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "New Caledonia": {
+        "GDP": 15000,
+        "Infant": 7.72,
+        "Pop": 11.5,
+        "Region": "OCEANIA"
+    },
+    "New Zealand": {
+        "GDP": 21600,
+        "Infant": 5.85,
+        "Pop": 15.2,
+        "Region": "OCEANIA"
+    },
+    "Nicaragua": {
+        "GDP": 2300,
+        "Infant": 29.11,
+        "Pop": 43.0,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Niger": {
+        "GDP": 800,
+        "Infant": 121.69,
+        "Pop": 9.9,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Nigeria": {
+        "GDP": 900,
+        "Infant": 98.8,
+        "Pop": 142.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "N. Mariana Islands": {
+        "GDP": 12500,
+        "Infant": 7.11,
+        "Pop": 172.9,
+        "Region": "OCEANIA"
+    },
+    "Norway": {
+        "GDP": 37800,
+        "Infant": 3.7,
+        "Pop": 14.2,
+        "Region": "WESTERN EUROPE"
+    },
+    "Oman": {
+        "GDP": 13100,
+        "Infant": 19.51,
+        "Pop": 14.6,
+        "Region": "NEAR EAST"
+    },
+    "Pakistan": {
+        "GDP": 2100,
+        "Infant": 72.44,
+        "Pop": 206.2,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Palau": {
+        "GDP": 9000,
+        "Infant": 14.84,
+        "Pop": 44.9,
+        "Region": "OCEANIA"
+    },
+    "Panama": {
+        "GDP": 6300,
+        "Infant": 20.47,
+        "Pop": 40.8,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Papua New Guinea": {
+        "GDP": 2200,
+        "Infant": 51.45,
+        "Pop": 12.3,
+        "Region": "OCEANIA"
+    },
+    "Paraguay": {
+        "GDP": 4700,
+        "Infant": 25.63,
+        "Pop": 16.0,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Peru": {
+        "GDP": 5100,
+        "Infant": 31.94,
+        "Pop": 22.0,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Philippines": {
+        "GDP": 4600,
+        "Infant": 23.51,
+        "Pop": 298.2,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Poland": {
+        "GDP": 11100,
+        "Infant": 8.51,
+        "Pop": 123.3,
+        "Region": "EASTERN EUROPE"
+    },
+    "Portugal": {
+        "GDP": 18000,
+        "Infant": 5.05,
+        "Pop": 114.8,
+        "Region": "WESTERN EUROPE"
+    },
+    "Puerto Rico": {
+        "GDP": 16800,
+        "Infant": 8.24,
+        "Pop": 284.8,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Qatar": {
+        "GDP": 21500,
+        "Infant": 18.61,
+        "Pop": 77.4,
+        "Region": "NEAR EAST"
+    },
+    "Reunion": {
+        "GDP": 5800,
+        "Infant": 7.78,
+        "Pop": 312.9,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Romania": {
+        "GDP": 7000,
+        "Infant": 26.43,
+        "Pop": 93.9,
+        "Region": "EASTERN EUROPE"
+    },
+    "Russia": {
+        "GDP": 8900,
+        "Infant": 15.39,
+        "Pop": 8.4,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Rwanda": {
+        "GDP": 1300,
+        "Infant": 91.23,
+        "Pop": 328.4,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Saint Helena": {
+        "GDP": 2500,
+        "Infant": 19.0,
+        "Pop": 18.2,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Saint Kitts & Nevis": {
+        "GDP": 8800,
+        "Infant": 14.49,
+        "Pop": 149.9,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Saint Lucia": {
+        "GDP": 5400,
+        "Infant": 13.53,
+        "Pop": 273.5,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "St Pierre & Miquelon": {
+        "GDP": 6900,
+        "Infant": 7.54,
+        "Pop": 29.0,
+        "Region": "NORTHERN AMERICA"
+    },
+    "Saint Vincent and the Grenadines": {
+        "GDP": 2900,
+        "Infant": 14.78,
+        "Pop": 303.0,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Samoa": {
+        "GDP": 5600,
+        "Infant": 27.71,
+        "Pop": 60.1,
+        "Region": "OCEANIA"
+    },
+    "San Marino": {
+        "GDP": 34600,
+        "Infant": 5.73,
+        "Pop": 479.5,
+        "Region": "WESTERN EUROPE"
+    },
+    "Sao Tome & Principe": {
+        "GDP": 1200,
+        "Infant": 43.11,
+        "Pop": 193.2,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Senegal": {
+        "GDP": 1600,
+        "Infant": 55.51,
+        "Pop": 61.1,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Serbia": {
+        "GDP": 2200,
+        "Infant": 12.89,
+        "Pop": 106.3,
+        "Region": "EASTERN EUROPE"
+    },
+    "Sierra Leone": {
+        "GDP": 500,
+        "Infant": 143.64,
+        "Pop": 83.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Singapore": {
+        "GDP": 23700,
+        "Infant": 2.29,
+        "Pop": 6482.2,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Slovakia": {
+        "GDP": 13300,
+        "Infant": 7.41,
+        "Pop": 111.4,
+        "Region": "EASTERN EUROPE"
+    },
+    "Slovenia": {
+        "GDP": 19000,
+        "Infant": 4.45,
+        "Pop": 99.2,
+        "Region": "EASTERN EUROPE"
+    },
+    "Solomon Islands": {
+        "GDP": 1700,
+        "Infant": 21.29,
+        "Pop": 19.4,
+        "Region": "OCEANIA"
+    },
+    "Somalia": {
+        "GDP": 500,
+        "Infant": 116.7,
+        "Pop": 13.9,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "South Africa": {
+        "GDP": 10700,
+        "Infant": 61.81,
+        "Pop": 36.2,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Spain": {
+        "GDP": 22000,
+        "Infant": 4.42,
+        "Pop": 80.0,
+        "Region": "WESTERN EUROPE"
+    },
+    "Sri Lanka": {
+        "GDP": 3700,
+        "Infant": 14.35,
+        "Pop": 308.2,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Sudan": {
+        "GDP": 1900,
+        "Infant": 62.5,
+        "Pop": 16.5,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Swaziland": {
+        "GDP": 4900,
+        "Infant": 69.27,
+        "Pop": 65.5,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Sweden": {
+        "GDP": 26800,
+        "Infant": 2.77,
+        "Pop": 20.0,
+        "Region": "WESTERN EUROPE"
+    },
+    "Switzerland": {
+        "GDP": 32700,
+        "Infant": 4.39,
+        "Pop": 182.2,
+        "Region": "WESTERN EUROPE"
+    },
+    "Syria": {
+        "GDP": 3300,
+        "Infant": 29.53,
+        "Pop": 102.0,
+        "Region": "NEAR EAST"
+    },
+    "Taiwan": {
+        "GDP": 23400,
+        "Infant": 6.4,
+        "Pop": 640.3,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Tajikistan": {
+        "GDP": 1000,
+        "Infant": 110.76,
+        "Pop": 51.2,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Tanzania": {
+        "GDP": 600,
+        "Infant": 98.54,
+        "Pop": 39.6,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Thailand": {
+        "GDP": 7400,
+        "Infant": 20.48,
+        "Pop": 125.7,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Togo": {
+        "GDP": 1500,
+        "Infant": 66.61,
+        "Pop": 97.7,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Tonga": {
+        "GDP": 2200,
+        "Infant": 12.62,
+        "Pop": 153.3,
+        "Region": "OCEANIA"
+    },
+    "Trinidad & Tobago": {
+        "GDP": 9500,
+        "Infant": 24.31,
+        "Pop": 207.9,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Tunisia": {
+        "GDP": 6900,
+        "Infant": 24.77,
+        "Pop": 62.2,
+        "Region": "NORTHERN AFRICA"
+    },
+    "Turkey": {
+        "GDP": 6700,
+        "Infant": 41.04,
+        "Pop": 90.2,
+        "Region": "NEAR EAST"
+    },
+    "Turkmenistan": {
+        "GDP": 5800,
+        "Infant": 73.08,
+        "Pop": 10.3,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Turks & Caicos Is": {
+        "GDP": 9600,
+        "Infant": 15.67,
+        "Pop": 49.2,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Tuvalu": {
+        "GDP": 1100,
+        "Infant": 20.03,
+        "Pop": 454.2,
+        "Region": "OCEANIA"
+    },
+    "Uganda": {
+        "GDP": 1400,
+        "Infant": 67.83,
+        "Pop": 119.5,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Ukraine": {
+        "GDP": 5400,
+        "Infant": 20.34,
+        "Pop": 77.4,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "United Arab Emirates": {
+        "GDP": 23200,
+        "Infant": 14.51,
+        "Pop": 31.4,
+        "Region": "NEAR EAST"
+    },
+    "United Kingdom": {
+        "GDP": 27700,
+        "Infant": 5.16,
+        "Pop": 247.6,
+        "Region": "WESTERN EUROPE"
+    },
+    "United States": {
+        "GDP": 37800,
+        "Infant": 6.5,
+        "Pop": 31.0,
+        "Region": "NORTHERN AMERICA"
+    },
+    "Uruguay": {
+        "GDP": 12800,
+        "Infant": 11.95,
+        "Pop": 19.5,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Uzbekistan": {
+        "GDP": 1700,
+        "Infant": 71.1,
+        "Pop": 61.0,
+        "Region": "C.W. OF IND. STATES"
+    },
+    "Vanuatu": {
+        "GDP": 2900,
+        "Infant": 55.16,
+        "Pop": 17.1,
+        "Region": "OCEANIA"
+    },
+    "Venezuela": {
+        "GDP": 4800,
+        "Infant": 22.2,
+        "Pop": 28.2,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "Vietnam": {
+        "GDP": 2500,
+        "Infant": 25.95,
+        "Pop": 256.1,
+        "Region": "ASIA (EX. NEAR EAST)"
+    },
+    "Virgin Islands": {
+        "GDP": 17200,
+        "Infant": 8.03,
+        "Pop": 56.9,
+        "Region": "LATIN AMER. & CARIB"
+    },
+    "West Bank": {
+        "GDP": 800,
+        "Infant": 19.62,
+        "Pop": 419.9,
+        "Region": "NEAR EAST"
+    },
+    "Yemen": {
+        "GDP": 800,
+        "Infant": 61.5,
+        "Pop": 40.6,
+        "Region": "NEAR EAST"
+    },
+    "Zambia": {
+        "GDP": 800,
+        "Infant": 88.29,
+        "Pop": 15.3,
+        "Region": "SUB-SAHARAN AFRICA"
+    },
+    "Zimbabwe": {
+        "GDP": 1900,
+        "Infant": 67.69,
+        "Pop": 31.3,
+        "Region": "SUB-SAHARAN AFRICA"
+    }
+}

@@ -1,1 +1,18 @@
 /* Koen van der Kamp 12466573 */
+.sliderdiv
+{
+  display: block;
+  position: relative;
+  left: 300px;
+}
+.slider
+{
+  position: relative;
+  top: 30px;
+  width: 500px;
+}
+.slidertext
+{
+  position: absolute;
+  left: 250px;
+}

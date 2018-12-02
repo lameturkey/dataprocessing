@@ -16,3 +16,15 @@
   position: absolute;
   left: 250px;
 }
+.legenda
+{
+  position: absolute;
+  width: 400px;
+  top: 200px;
+}
+.xlabel, .ylabel, .slidertext, .title
+{
+   text-anchor: middle;
+   font-size: 15px;
+   font-family: "sans-serif";
+}

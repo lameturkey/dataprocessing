@@ -7,6 +7,7 @@ var requests = [d3.json(womenInScience), d3.json(gdp)];
 
 WIDTH = 1000
 HEIGHT = 500
+PADDING = 50
 
 window.onload = function() {
     makegraph()
@@ -107,10 +108,6 @@ function makegraph()
     });
 }
 
-function updategraph()
-{
-  d3.select
-}
 function colorMaker(maxnumber)
 {
   colorlist = ["#fdbb84", "#fc8d59",
@@ -132,6 +129,16 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
   svg = d3.select("body").append("svg")
             .attr("width", WIDTH)
             .attr("height", HEIGHT);
+  d3.select("body").append("svg").attr("class", "legenda");
+  svg.append("text").attr("class", "title")
+                  .attr("x", WIDTH/2).attr("y", 30)
+                  .text("The influence of GDP per capita on % women researchers over time")
+  svg.append("text").attr("class", "xlabel")
+                  .attr("x", WIDTH/2).attr("y", HEIGHT - 10 )
+                  .text("GDP per Capita (in euro/captia)")
+  svg.append("text").attr("class", "ylabel")
+                  .attr("transform", "translate(" + 15 + "," + (HEIGHT/2) + ")rotate(" + -90 + ")")
+                  .text("Women in sience (% of headcount)")
   return function(datapoint)
   {
     datapoint = datapoint - 2007
@@ -144,22 +151,23 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
       ydata.push(yobject[key][datapoint])
       colordata.push(colorobject[key][datapoint])
     }
-    datatocolor = colorMaker(d3.max(Object.values(colordata)))
+    colordatamax = d3.max(Object.values(colordata))
+    datatocolor = colorMaker(colordatamax)
     var xScale = d3.scaleLinear()
                   .domain([d3.min(Object.values(xdata)), d3.max(Object.values(xdata))])
-                  .range([0, WIDTH - 100])
+                  .range([PADDING, WIDTH - 100])
                   .nice();
     var yScale = d3.scaleLinear()
                   .domain([0, d3.max(Object.values(ydata))])
-                  .range([HEIGHT - 60, 0])
+                  .range([HEIGHT - PADDING, PADDING])
                   .nice()
-    svg.append("g").call(d3.axisBottom(xScale)).attr("transform", "translate(50," + (HEIGHT - 50) + ")")
-    svg.append("g").call(d3.axisLeft(yScale)).attr("transform", "translate(50,10)")
+    svg.append("g").call(d3.axisBottom(xScale)).attr("transform", "translate(0," + (HEIGHT - PADDING) + ")")
+    svg.append("g").call(d3.axisLeft(yScale)).attr("transform", "translate("+ PADDING + ",0)")
     for (i = 0; i < xdata.length; i++)
     {
       if(xdata[i] && ydata[i] && colordata[i])
       {
-      svg.append("circle").attr("cx", 50 + xScale(xdata[i])).attr("cy", 10 + yScale(ydata[i]))
+      svg.append("circle").attr("cx", xScale(xdata[i])).attr("cy", yScale(ydata[i]))
           .attr("r", 5).attr("fill", datatocolor(colordata[i]))
       }
     }

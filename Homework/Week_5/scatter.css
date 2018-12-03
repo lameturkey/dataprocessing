@@ -22,7 +22,7 @@
   width: 200px;
   top: 400px;
 }
-.xlabel, .ylabel, .slidertext, .title, .legendatext
+.xlabel, .ylabel, .slidertext, .title, .legendatext, .legendatitle
 {
    text-anchor: middle;
    font-size: 15px;

@@ -134,7 +134,7 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
             .attr("width", WIDTH)
             .attr("height", HEIGHT);
   legenda = d3.select("body").append("svg").attr("class", "legenda");
-  legenda.append("text").attr("class", "legendatext")
+  legenda.append("text").attr("class", "legendatitle")
           .attr("x", 20).attr("y", 20).text("Total gdp in $")
   svg.append("text").attr("class", "title")
                   .attr("x", WIDTH/2).attr("y", 30)
@@ -210,6 +210,8 @@ function updategraph(year)
 {
   d3.selectAll("circle").remove()
   d3.selectAll("g").remove()
+  d3.selectAll(".legendatext").remove()
+  d3.selectAll(".legendaboxes").remove()
   graph(year)
   d3.select(".slidertext").text(year)
 }

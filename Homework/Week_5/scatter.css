@@ -20,6 +20,7 @@
 {
   position: absolute;
   top: 200px;
+  height: 200px;
 }
 .xlabel, .ylabel, .slidertext, .title, .legendatext .legendatitle
 {

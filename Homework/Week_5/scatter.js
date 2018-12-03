@@ -8,6 +8,7 @@ var requests = [d3.json(womenInScience), d3.json(gdp)];
 WIDTH = 1000
 HEIGHT = 500
 PADDING = 50
+COLORAMOUNT = 6
 
 window.onload = function() {
     makegraph()
@@ -112,10 +113,13 @@ function colorMaker(maxnumber)
 {
   colorlist = ["#fdbb84", "#fc8d59",
 "#ef6548", "#d7301f", "#b30000", "#7f0000"]
-  relativenumber = maxnumber / colorlist.length
+  relativenumber = maxnumber / (COLORAMOUNT - 1)
   return function(datapoint)
   {
-    datapoint = datapoint - 1
+    if (typeof(datapoint) === "string")
+    {
+      return colorlist[parseInt(datapoint)]
+    }
     return colorlist[Math.floor(datapoint / relativenumber)]
 
   }
@@ -129,7 +133,9 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
   svg = d3.select("body").append("svg")
             .attr("width", WIDTH)
             .attr("height", HEIGHT);
-  d3.select("body").append("svg").attr("class", "legenda");
+  legenda = d3.select("body").append("svg").attr("class", "legenda");
+  legenda.append("text").attr("class", "legendatext")
+          .attr("x", 20).attr("y", 20).text("Total gdp in $")
   svg.append("text").attr("class", "title")
                   .attr("x", WIDTH/2).attr("y", 30)
                   .text("The influence of GDP per capita on % women researchers over time")
@@ -170,6 +176,22 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
       svg.append("circle").attr("cx", xScale(xdata[i])).attr("cy", yScale(ydata[i]))
           .attr("r", 5).attr("fill", datatocolor(colordata[i]))
       }
+    }
+
+    binsize = colordatamax / (COLORAMOUNT - 1)
+    for (var i = 0; datatocolor(i + ""); i++)
+    {
+    console.log(datatocolor(i +  ""))
+    legenda.append("rect").attr("class", "legendaboxes")
+            .attr("x", 10).attr("y", 40 + 20 * i)
+            .attr("width", 10).attr("height", 10)
+            .attr("fill", datatocolor(i + ""))
+    legenda.append("text").attr("class", "legendatext")
+            .attr("x", 30).attr("y", 50 + 20 * i)
+            .text(parseInt(binsize * i))
+    legenda.append("text").attr("class", "legendatext")
+            .attr("x", 100).attr("y", 50 + 20 * i)
+            .text("-  " +  Math.round(parseInt(binsize * (i + 1)) ))
     }
   }
 }

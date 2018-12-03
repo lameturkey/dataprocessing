@@ -19,10 +19,9 @@
 .legenda
 {
   position: absolute;
-  width: 200px;
-  top: 400px;
+  top: 200px;
 }
-.xlabel, .ylabel, .slidertext, .title, .legendatext, .legendatitle
+.xlabel, .ylabel, .slidertext, .title, .legendatext .legendatitle
 {
    text-anchor: middle;
    font-size: 15px;

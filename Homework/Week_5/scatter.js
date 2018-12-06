@@ -5,9 +5,10 @@ var gdp = "https://stats.oecd.org/SDMX-JSON/data/SNA_TABLE1/.B1_GE.C+HCXC/all?st
 
 var requests = [d3.json(womenInScience), d3.json(gdp)];
 
-WIDTH = 1000
+WIDTH = 1300
 HEIGHT = 500
 PADDING = 50
+LEGENDAPADDING = 300
 COLORAMOUNT = 6
 
 window.onload = function() {
@@ -192,12 +193,13 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
   svg = d3.select("body").append("svg")
             .attr("width", WIDTH)
             .attr("height", HEIGHT);
-  legenda = d3.select("body").append("svg").attr("class", "legenda");
+  legenda = d3.select("svg").append("g").attr("class", "legenda")
+              .attr("transform", "translate(" + (WIDTH - LEGENDAPADDING + PADDING) + "," + HEIGHT/3 + ")")
   legenda.append("text").attr("class", "legendatitle")
           .attr("x", 20).attr("y", 20).text("Total gdp in euro")
   svg.append("text").attr("class", "title")
                   .attr("x", WIDTH/2).attr("y", 30)
-                  .text("The influence of GDP per capita on % women researchers over time")
+                  .text("The influence of GDP per capita on % women researchers over time (source oecd)")
   svg.append("text").attr("class", "xlabel")
                   .attr("x", WIDTH/2).attr("y", HEIGHT - 10 )
                   .text("GDP per Capita (in USD/captia)")
@@ -205,7 +207,7 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
                   .attr("transform", "translate(" + 15 + "," + (HEIGHT/2) + ")rotate(" + -90 + ")")
                   .text("Women in sience (% of headcount)")
 
-  // return function that graphs on these svgs
+  // return function that graphs on this svg
   return function(datapoint)
   {
     // convert the year to the list index
@@ -231,7 +233,7 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
     // produce scales
     var xScale = d3.scaleLinear()
                   .domain([d3.min(Object.values(xdata)), d3.max(Object.values(xdata))])
-                  .range([PADDING, WIDTH - 100])
+                  .range([PADDING, WIDTH - PADDING - LEGENDAPADDING])
                   .nice();
     var yScale = d3.scaleLinear()
                   .domain([0, d3.max(Object.values(ydata))])
@@ -239,8 +241,10 @@ function graphmaker(xaxisobject, yaxisobject, dotcolorobject)
                   .nice()
 
     // print the scales
-    svg.append("g").call(d3.axisBottom(xScale)).attr("transform", "translate(0," + (HEIGHT - PADDING) + ")")
-    svg.append("g").call(d3.axisLeft(yScale)).attr("transform", "translate("+ PADDING + ",0)")
+    svg.append("g").attr("class", "axis")
+       .call(d3.axisBottom(xScale)).attr("transform", "translate(0," + (HEIGHT - PADDING) + ")")
+    svg.append("g").attr("class", "axis")
+    .call(d3.axisLeft(yScale)).attr("transform", "translate("+ PADDING + ",0)")
 
     // print the datapoints
     for (i = 0; i < xdata.length; i++)
@@ -284,7 +288,7 @@ function makeslider()
 function updategraph(year)
 {
   d3.selectAll("circle").remove()
-  d3.selectAll("g").remove()
+  d3.selectAll(".axis").remove()
   d3.selectAll(".legendatext").remove()
   d3.selectAll(".legendaboxes").remove()
   graph(year)

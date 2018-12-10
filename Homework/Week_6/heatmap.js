@@ -15,6 +15,7 @@ window.onload = function() {
     svg = d3.select("body").append("svg").attr("width", WIDTH).attr("height", HEIGHT)
     g = svg.append("g").attr("transform", "translate(" + WIDTH / 2 +","+ HEIGHT / 2 + ")")
     var structured = d3.nest()
+                      .key(function(d) { return d.Generation})
                       .key(function(d) { return d.Type1})
                       .key(function(d) { return d.Type2})
                       .rollup(function(d) {return d.length})

@@ -45,7 +45,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "309",
         "HP": "39",
         "Attack": "52",
@@ -56,7 +55,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "405",
         "HP": "58",
         "Attack": "64",
@@ -100,7 +98,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "314",
         "HP": "44",
         "Attack": "48",
@@ -111,7 +108,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "405",
         "HP": "59",
         "Attack": "63",
@@ -122,7 +118,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "530",
         "HP": "79",
         "Attack": "83",
@@ -133,7 +128,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "630",
         "HP": "79",
         "Attack": "103",
@@ -144,7 +138,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "195",
         "HP": "45",
         "Attack": "30",
@@ -155,7 +148,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "205",
         "HP": "50",
         "Attack": "20",
@@ -265,7 +257,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "253",
         "HP": "30",
         "Attack": "56",
@@ -276,7 +267,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "413",
         "HP": "55",
         "Attack": "81",
@@ -309,7 +299,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "288",
         "HP": "35",
         "Attack": "60",
@@ -320,7 +309,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "438",
         "HP": "60",
         "Attack": "85",
@@ -331,7 +319,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "320",
         "HP": "35",
         "Attack": "55",
@@ -342,7 +329,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "485",
         "HP": "60",
         "Attack": "90",
@@ -353,7 +339,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "300",
         "HP": "50",
         "Attack": "75",
@@ -364,7 +349,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "450",
         "HP": "75",
         "Attack": "100",
@@ -375,7 +359,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "275",
         "HP": "55",
         "Attack": "47",
@@ -386,7 +369,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "365",
         "HP": "70",
         "Attack": "62",
@@ -408,7 +390,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "273",
         "HP": "46",
         "Attack": "57",
@@ -419,7 +400,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "365",
         "HP": "61",
         "Attack": "72",
@@ -441,7 +421,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "323",
         "HP": "70",
         "Attack": "45",
@@ -452,7 +431,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "483",
         "HP": "95",
         "Attack": "70",
@@ -463,7 +441,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "299",
         "HP": "38",
         "Attack": "41",
@@ -474,7 +451,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "505",
         "HP": "73",
         "Attack": "76",
@@ -606,7 +582,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "265",
         "HP": "10",
         "Attack": "55",
@@ -617,7 +592,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "405",
         "HP": "35",
         "Attack": "80",
@@ -628,7 +602,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "290",
         "HP": "40",
         "Attack": "45",
@@ -639,7 +612,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "440",
         "HP": "65",
         "Attack": "70",
@@ -650,7 +622,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "320",
         "HP": "50",
         "Attack": "52",
@@ -661,7 +632,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "500",
         "HP": "80",
         "Attack": "82",
@@ -672,7 +642,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "305",
         "HP": "40",
         "Attack": "80",
@@ -683,7 +652,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "455",
         "HP": "65",
         "Attack": "105",
@@ -694,7 +662,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "350",
         "HP": "55",
         "Attack": "70",
@@ -705,7 +672,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "555",
         "HP": "90",
         "Attack": "110",
@@ -716,7 +682,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "300",
         "HP": "40",
         "Attack": "50",
@@ -727,7 +692,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "385",
         "HP": "65",
         "Attack": "65",
@@ -749,7 +713,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "310",
         "HP": "25",
         "Attack": "20",
@@ -760,7 +723,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "400",
         "HP": "40",
         "Attack": "35",
@@ -771,7 +733,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "500",
         "HP": "55",
         "Attack": "50",
@@ -782,7 +743,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "590",
         "HP": "55",
         "Attack": "50",
@@ -793,7 +753,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "305",
         "HP": "70",
         "Attack": "80",
@@ -804,7 +763,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "405",
         "HP": "80",
         "Attack": "100",
@@ -815,7 +773,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "505",
         "HP": "90",
         "Attack": "130",
@@ -914,7 +871,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "410",
         "HP": "50",
         "Attack": "85",
@@ -925,7 +881,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "500",
         "HP": "65",
         "Attack": "100",
@@ -1024,7 +979,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "325",
         "HP": "65",
         "Attack": "45",
@@ -1046,7 +1000,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "325",
         "HP": "80",
         "Attack": "80",
@@ -1057,7 +1010,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "500",
         "HP": "105",
         "Attack": "105",
@@ -1068,7 +1020,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "305",
         "HP": "30",
         "Attack": "65",
@@ -1145,7 +1096,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "328",
         "HP": "60",
         "Attack": "48",
@@ -1156,7 +1106,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "483",
         "HP": "85",
         "Attack": "73",
@@ -1167,7 +1116,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "325",
         "HP": "30",
         "Attack": "105",
@@ -1178,7 +1126,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "475",
         "HP": "55",
         "Attack": "130",
@@ -1189,7 +1136,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "330",
         "HP": "40",
         "Attack": "30",
@@ -1200,7 +1146,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "480",
         "HP": "60",
         "Attack": "50",
@@ -1233,7 +1178,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "320",
         "HP": "50",
         "Attack": "50",
@@ -1244,7 +1188,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "425",
         "HP": "60",
         "Attack": "80",
@@ -1255,7 +1198,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "455",
         "HP": "50",
         "Attack": "120",
@@ -1266,7 +1208,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "455",
         "HP": "50",
         "Attack": "105",
@@ -1277,7 +1218,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "385",
         "HP": "90",
         "Attack": "55",
@@ -1288,7 +1228,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "340",
         "HP": "40",
         "Attack": "65",
@@ -1299,7 +1238,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "490",
         "HP": "65",
         "Attack": "90",
@@ -1332,7 +1270,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "450",
         "HP": "250",
         "Attack": "5",
@@ -1343,7 +1280,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "435",
         "HP": "65",
         "Attack": "55",
@@ -1354,7 +1290,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "490",
         "HP": "105",
         "Attack": "95",
@@ -1365,7 +1300,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "590",
         "HP": "105",
         "Attack": "125",
@@ -1376,7 +1310,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "295",
         "HP": "30",
         "Attack": "40",
@@ -1387,7 +1320,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "440",
         "HP": "55",
         "Attack": "65",
@@ -1398,7 +1330,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "320",
         "HP": "45",
         "Attack": "67",
@@ -1409,7 +1340,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "450",
         "HP": "80",
         "Attack": "92",
@@ -1420,7 +1350,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "340",
         "HP": "30",
         "Attack": "45",
@@ -1475,7 +1404,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "490",
         "HP": "65",
         "Attack": "83",
@@ -1486,7 +1414,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "495",
         "HP": "65",
         "Attack": "95",
@@ -1497,7 +1424,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "500",
         "HP": "65",
         "Attack": "125",
@@ -1519,7 +1445,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "490",
         "HP": "75",
         "Attack": "100",
@@ -1530,7 +1455,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "200",
         "HP": "20",
         "Attack": "10",
@@ -1574,7 +1498,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "288",
         "HP": "48",
         "Attack": "48",
@@ -1585,7 +1508,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "325",
         "HP": "55",
         "Attack": "55",
@@ -1596,7 +1518,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "525",
         "HP": "130",
         "Attack": "65",
@@ -1607,7 +1528,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "525",
         "HP": "65",
         "Attack": "65",
@@ -1618,7 +1538,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "525",
         "HP": "65",
         "Attack": "130",
@@ -1629,7 +1548,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "395",
         "HP": "65",
         "Attack": "60",
@@ -1706,7 +1624,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "540",
         "HP": "160",
         "Attack": "110",
@@ -1750,7 +1667,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "300",
         "HP": "41",
         "Attack": "64",
@@ -1761,7 +1677,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "420",
         "HP": "61",
         "Attack": "84",
@@ -1783,7 +1698,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "680",
         "HP": "106",
         "Attack": "110",
@@ -1805,7 +1719,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "780",
         "HP": "106",
         "Attack": "150",
@@ -1816,7 +1729,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "600",
         "HP": "100",
         "Attack": "100",
@@ -1827,7 +1739,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "318",
         "HP": "45",
         "Attack": "49",
@@ -1838,7 +1749,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "405",
         "HP": "60",
         "Attack": "62",
@@ -1849,7 +1759,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "525",
         "HP": "80",
         "Attack": "82",
@@ -1860,7 +1769,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "309",
         "HP": "39",
         "Attack": "52",
@@ -1871,7 +1779,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "405",
         "HP": "58",
         "Attack": "64",
@@ -1882,7 +1789,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "534",
         "HP": "78",
         "Attack": "84",
@@ -1893,7 +1799,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "314",
         "HP": "50",
         "Attack": "65",
@@ -1904,7 +1809,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "405",
         "HP": "65",
         "Attack": "80",
@@ -1915,7 +1819,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "530",
         "HP": "85",
         "Attack": "105",
@@ -1926,7 +1829,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "215",
         "HP": "35",
         "Attack": "46",
@@ -1937,7 +1839,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "415",
         "HP": "85",
         "Attack": "76",
@@ -2047,7 +1948,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "205",
         "HP": "20",
         "Attack": "40",
@@ -2058,7 +1958,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "218",
         "HP": "50",
         "Attack": "25",
@@ -2080,7 +1979,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "245",
         "HP": "35",
         "Attack": "20",
@@ -2124,7 +2022,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "280",
         "HP": "55",
         "Attack": "40",
@@ -2135,7 +2032,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "365",
         "HP": "70",
         "Attack": "55",
@@ -2146,7 +2042,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "510",
         "HP": "90",
         "Attack": "75",
@@ -2168,7 +2063,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "490",
         "HP": "75",
         "Attack": "80",
@@ -2201,7 +2095,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "410",
         "HP": "70",
         "Attack": "100",
@@ -2212,7 +2105,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "500",
         "HP": "90",
         "Attack": "75",
@@ -2256,7 +2148,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "360",
         "HP": "55",
         "Attack": "70",
@@ -2267,7 +2158,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "180",
         "HP": "30",
         "Attack": "30",
@@ -2278,7 +2168,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "425",
         "HP": "75",
         "Attack": "75",
@@ -2322,7 +2211,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "525",
         "HP": "65",
         "Attack": "65",
@@ -2333,7 +2221,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "525",
         "HP": "95",
         "Attack": "65",
@@ -2366,7 +2253,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "435",
         "HP": "60",
         "Attack": "60",
@@ -2377,7 +2263,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "336",
         "HP": "48",
         "Attack": "72",
@@ -2388,7 +2273,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "405",
         "HP": "190",
         "Attack": "33",
@@ -2410,7 +2294,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "290",
         "HP": "50",
         "Attack": "65",
@@ -2432,7 +2315,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "415",
         "HP": "100",
         "Attack": "70",
@@ -2476,7 +2358,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "300",
         "HP": "60",
         "Attack": "80",
@@ -2487,7 +2368,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "450",
         "HP": "90",
         "Attack": "120",
@@ -2575,7 +2455,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "330",
         "HP": "60",
         "Attack": "80",
@@ -2586,7 +2465,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "500",
         "HP": "90",
         "Attack": "130",
@@ -2597,7 +2475,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "250",
         "HP": "40",
         "Attack": "40",
@@ -2652,7 +2529,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "300",
         "HP": "35",
         "Attack": "65",
@@ -2663,7 +2539,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "480",
         "HP": "75",
         "Attack": "105",
@@ -2751,7 +2626,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "330",
         "HP": "90",
         "Attack": "60",
@@ -2762,7 +2636,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "500",
         "HP": "90",
         "Attack": "120",
@@ -2773,7 +2646,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "515",
         "HP": "85",
         "Attack": "80",
@@ -2784,7 +2656,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "465",
         "HP": "73",
         "Attack": "95",
@@ -2795,7 +2666,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "250",
         "HP": "55",
         "Attack": "20",
@@ -2806,7 +2676,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "210",
         "HP": "35",
         "Attack": "35",
@@ -2817,7 +2686,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "455",
         "HP": "50",
         "Attack": "95",
@@ -2839,7 +2707,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "360",
         "HP": "45",
         "Attack": "63",
@@ -2850,7 +2717,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "365",
         "HP": "45",
         "Attack": "75",
@@ -2861,7 +2727,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "490",
         "HP": "95",
         "Attack": "80",
@@ -2872,7 +2737,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "540",
         "HP": "255",
         "Attack": "10",
@@ -2883,7 +2747,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "580",
         "HP": "90",
         "Attack": "85",
@@ -2894,7 +2757,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "580",
         "HP": "115",
         "Attack": "115",
@@ -2905,7 +2767,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "580",
         "HP": "100",
         "Attack": "75",
@@ -2993,7 +2854,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "310",
         "HP": "40",
         "Attack": "45",
@@ -3004,7 +2864,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "405",
         "HP": "50",
         "Attack": "65",
@@ -3015,7 +2874,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "530",
         "HP": "70",
         "Attack": "85",
@@ -3037,7 +2895,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "310",
         "HP": "45",
         "Attack": "60",
@@ -3081,7 +2938,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "310",
         "HP": "50",
         "Attack": "70",
@@ -3125,7 +2981,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "220",
         "HP": "35",
         "Attack": "55",
@@ -3136,7 +2991,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "420",
         "HP": "70",
         "Attack": "90",
@@ -3147,7 +3001,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "240",
         "HP": "38",
         "Attack": "30",
@@ -3158,7 +3011,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "420",
         "HP": "78",
         "Attack": "70",
@@ -3169,7 +3021,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "195",
         "HP": "45",
         "Attack": "45",
@@ -3180,7 +3031,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "205",
         "HP": "50",
         "Attack": "35",
@@ -3202,7 +3052,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "205",
         "HP": "50",
         "Attack": "35",
@@ -3257,7 +3106,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "220",
         "HP": "40",
         "Attack": "40",
@@ -3400,7 +3248,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "295",
         "HP": "60",
         "Attack": "40",
@@ -3422,7 +3269,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "280",
         "HP": "60",
         "Attack": "60",
@@ -3433,7 +3279,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "440",
         "HP": "80",
         "Attack": "80",
@@ -3444,7 +3289,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "670",
         "HP": "150",
         "Attack": "160",
@@ -3488,7 +3332,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "240",
         "HP": "64",
         "Attack": "51",
@@ -3499,7 +3342,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "360",
         "HP": "84",
         "Attack": "71",
@@ -3510,7 +3352,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "490",
         "HP": "104",
         "Attack": "91",
@@ -3521,7 +3362,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "237",
         "HP": "72",
         "Attack": "60",
@@ -3532,7 +3372,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "474",
         "HP": "144",
         "Attack": "120",
@@ -3554,7 +3393,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "375",
         "HP": "30",
         "Attack": "45",
@@ -3565,7 +3403,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "260",
         "HP": "50",
         "Attack": "45",
@@ -3576,7 +3413,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "380",
         "HP": "70",
         "Attack": "65",
@@ -3664,7 +3500,6 @@
     },
     {
         "Type1": "Steel",
-        "Type2": "",
         "Total": "630",
         "HP": "70",
         "Attack": "140",
@@ -3708,7 +3543,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "295",
         "HP": "40",
         "Attack": "45",
@@ -3719,7 +3553,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "475",
         "HP": "70",
         "Attack": "75",
@@ -3730,7 +3563,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "575",
         "HP": "70",
         "Attack": "75",
@@ -3741,7 +3573,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "405",
         "HP": "60",
         "Attack": "50",
@@ -3752,7 +3583,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "405",
         "HP": "60",
         "Attack": "40",
@@ -3763,7 +3593,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "400",
         "HP": "65",
         "Attack": "73",
@@ -3774,7 +3603,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "400",
         "HP": "65",
         "Attack": "47",
@@ -3796,7 +3624,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "302",
         "HP": "70",
         "Attack": "43",
@@ -3807,7 +3634,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "467",
         "HP": "100",
         "Attack": "73",
@@ -3851,7 +3677,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "400",
         "HP": "130",
         "Attack": "70",
@@ -3862,7 +3687,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "500",
         "HP": "170",
         "Attack": "90",
@@ -3906,7 +3730,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "470",
         "HP": "70",
         "Attack": "85",
@@ -3917,7 +3740,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "330",
         "HP": "60",
         "Attack": "25",
@@ -3928,7 +3750,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "470",
         "HP": "80",
         "Attack": "45",
@@ -3939,7 +3760,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "360",
         "HP": "60",
         "Attack": "60",
@@ -3950,7 +3770,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "290",
         "HP": "45",
         "Attack": "100",
@@ -3983,7 +3802,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "335",
         "HP": "50",
         "Attack": "85",
@@ -4038,7 +3856,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "458",
         "HP": "73",
         "Attack": "115",
@@ -4049,7 +3866,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "458",
         "HP": "73",
         "Attack": "100",
@@ -4104,7 +3920,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "308",
         "HP": "43",
         "Attack": "80",
@@ -4192,7 +4007,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "200",
         "HP": "20",
         "Attack": "15",
@@ -4203,7 +4017,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "540",
         "HP": "95",
         "Attack": "60",
@@ -4214,7 +4027,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "420",
         "HP": "70",
         "Attack": "70",
@@ -4225,7 +4037,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "440",
         "HP": "60",
         "Attack": "90",
@@ -4236,7 +4047,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "295",
         "HP": "44",
         "Attack": "75",
@@ -4247,7 +4057,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "455",
         "HP": "64",
         "Attack": "115",
@@ -4258,7 +4067,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "555",
         "HP": "64",
         "Attack": "165",
@@ -4269,7 +4077,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "295",
         "HP": "20",
         "Attack": "40",
@@ -4280,7 +4087,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "455",
         "HP": "40",
         "Attack": "70",
@@ -4302,7 +4108,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "425",
         "HP": "65",
         "Attack": "50",
@@ -4313,7 +4118,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "465",
         "HP": "65",
         "Attack": "130",
@@ -4324,7 +4128,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "565",
         "HP": "65",
         "Attack": "150",
@@ -4335,7 +4138,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "260",
         "HP": "95",
         "Attack": "23",
@@ -4346,7 +4148,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "300",
         "HP": "50",
         "Attack": "50",
@@ -4357,7 +4158,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "480",
         "HP": "80",
         "Attack": "80",
@@ -4368,7 +4168,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "580",
         "HP": "80",
         "Attack": "120",
@@ -4412,7 +4211,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "345",
         "HP": "35",
         "Attack": "64",
@@ -4423,7 +4221,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "485",
         "HP": "55",
         "Attack": "104",
@@ -4434,7 +4231,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "485",
         "HP": "55",
         "Attack": "84",
@@ -4456,7 +4252,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "330",
         "HP": "43",
         "Attack": "30",
@@ -4467,7 +4262,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "300",
         "HP": "45",
         "Attack": "75",
@@ -4478,7 +4272,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "420",
         "HP": "65",
         "Attack": "95",
@@ -4555,7 +4348,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "580",
         "HP": "80",
         "Attack": "100",
@@ -4566,7 +4358,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "580",
         "HP": "80",
         "Attack": "50",
@@ -4577,7 +4368,6 @@
     },
     {
         "Type1": "Steel",
-        "Type2": "",
         "Total": "580",
         "HP": "80",
         "Attack": "75",
@@ -4632,7 +4422,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "670",
         "HP": "100",
         "Attack": "100",
@@ -4643,7 +4432,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "770",
         "HP": "100",
         "Attack": "150",
@@ -4654,7 +4442,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "670",
         "HP": "100",
         "Attack": "150",
@@ -4709,7 +4496,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "600",
         "HP": "50",
         "Attack": "150",
@@ -4720,7 +4506,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "600",
         "HP": "50",
         "Attack": "180",
@@ -4731,7 +4516,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "600",
         "HP": "50",
         "Attack": "70",
@@ -4742,7 +4526,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "600",
         "HP": "50",
         "Attack": "95",
@@ -4753,7 +4536,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "318",
         "HP": "55",
         "Attack": "68",
@@ -4764,7 +4546,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "405",
         "HP": "75",
         "Attack": "89",
@@ -4786,7 +4567,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "309",
         "HP": "44",
         "Attack": "58",
@@ -4819,7 +4599,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "314",
         "HP": "53",
         "Attack": "51",
@@ -4830,7 +4609,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "405",
         "HP": "64",
         "Attack": "66",
@@ -4885,7 +4663,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "250",
         "HP": "59",
         "Attack": "45",
@@ -4907,7 +4684,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "194",
         "HP": "37",
         "Attack": "25",
@@ -4918,7 +4694,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "384",
         "HP": "77",
         "Attack": "85",
@@ -4929,7 +4704,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "263",
         "HP": "45",
         "Attack": "65",
@@ -4940,7 +4714,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "363",
         "HP": "60",
         "Attack": "85",
@@ -4951,7 +4724,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "523",
         "HP": "80",
         "Attack": "120",
@@ -4984,7 +4756,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "350",
         "HP": "67",
         "Attack": "125",
@@ -4995,7 +4766,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "495",
         "HP": "97",
         "Attack": "165",
@@ -5028,7 +4798,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "224",
         "HP": "40",
         "Attack": "29",
@@ -5105,7 +4874,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "405",
         "HP": "60",
         "Attack": "45",
@@ -5116,7 +4884,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "330",
         "HP": "55",
         "Attack": "65",
@@ -5127,7 +4894,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "495",
         "HP": "85",
         "Attack": "105",
@@ -5138,7 +4904,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "275",
         "HP": "45",
         "Attack": "35",
@@ -5149,7 +4914,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "450",
         "HP": "70",
         "Attack": "60",
@@ -5160,7 +4924,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "325",
         "HP": "76",
         "Attack": "48",
@@ -5182,7 +4945,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "482",
         "HP": "75",
         "Attack": "100",
@@ -5215,7 +4977,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "350",
         "HP": "55",
         "Attack": "66",
@@ -5226,7 +4987,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "480",
         "HP": "65",
         "Attack": "76",
@@ -5248,7 +5008,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "495",
         "HP": "60",
         "Attack": "60",
@@ -5270,7 +5029,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "310",
         "HP": "49",
         "Attack": "55",
@@ -5281,7 +5039,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "452",
         "HP": "71",
         "Attack": "82",
@@ -5292,7 +5049,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "285",
         "HP": "45",
         "Attack": "30",
@@ -5347,7 +5103,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "290",
         "HP": "50",
         "Attack": "80",
@@ -5369,7 +5124,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "220",
         "HP": "100",
         "Attack": "5",
@@ -5446,7 +5200,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "390",
         "HP": "135",
         "Attack": "85",
@@ -5457,7 +5210,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "285",
         "HP": "40",
         "Attack": "70",
@@ -5490,7 +5242,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "330",
         "HP": "68",
         "Attack": "72",
@@ -5501,7 +5252,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "525",
         "HP": "108",
         "Attack": "112",
@@ -5556,7 +5306,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "454",
         "HP": "74",
         "Attack": "100",
@@ -5567,7 +5316,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "330",
         "HP": "49",
         "Attack": "49",
@@ -5578,7 +5326,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "460",
         "HP": "69",
         "Attack": "69",
@@ -5655,7 +5402,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "515",
         "HP": "110",
         "Attack": "85",
@@ -5677,7 +5423,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "535",
         "HP": "100",
         "Attack": "100",
@@ -5688,7 +5433,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "540",
         "HP": "75",
         "Attack": "123",
@@ -5699,7 +5443,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "540",
         "HP": "75",
         "Attack": "95",
@@ -5732,7 +5475,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "525",
         "HP": "65",
         "Attack": "110",
@@ -5743,7 +5485,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "525",
         "HP": "65",
         "Attack": "60",
@@ -5776,7 +5517,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "535",
         "HP": "85",
         "Attack": "80",
@@ -5820,7 +5560,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "525",
         "HP": "45",
         "Attack": "100",
@@ -5908,7 +5647,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "580",
         "HP": "75",
         "Attack": "75",
@@ -5919,7 +5657,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "580",
         "HP": "80",
         "Attack": "105",
@@ -5930,7 +5667,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "580",
         "HP": "75",
         "Attack": "125",
@@ -5974,7 +5710,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "670",
         "HP": "110",
         "Attack": "160",
@@ -6007,7 +5742,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "600",
         "HP": "120",
         "Attack": "70",
@@ -6018,7 +5752,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "480",
         "HP": "80",
         "Attack": "80",
@@ -6029,7 +5762,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "600",
         "HP": "100",
         "Attack": "100",
@@ -6040,7 +5772,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "600",
         "HP": "70",
         "Attack": "90",
@@ -6051,7 +5782,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "600",
         "HP": "100",
         "Attack": "100",
@@ -6073,7 +5803,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "720",
         "HP": "120",
         "Attack": "120",
@@ -6095,7 +5824,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "308",
         "HP": "45",
         "Attack": "45",
@@ -6106,7 +5834,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "413",
         "HP": "60",
         "Attack": "60",
@@ -6117,7 +5844,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "528",
         "HP": "75",
         "Attack": "75",
@@ -6128,7 +5854,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "308",
         "HP": "65",
         "Attack": "63",
@@ -6161,7 +5886,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "308",
         "HP": "55",
         "Attack": "55",
@@ -6172,7 +5896,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "413",
         "HP": "75",
         "Attack": "75",
@@ -6183,7 +5906,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "528",
         "HP": "95",
         "Attack": "100",
@@ -6194,7 +5916,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "255",
         "HP": "45",
         "Attack": "55",
@@ -6205,7 +5926,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "420",
         "HP": "60",
         "Attack": "85",
@@ -6216,7 +5936,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "275",
         "HP": "45",
         "Attack": "60",
@@ -6227,7 +5946,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "370",
         "HP": "65",
         "Attack": "80",
@@ -6238,7 +5956,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "500",
         "HP": "85",
         "Attack": "110",
@@ -6249,7 +5966,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "281",
         "HP": "41",
         "Attack": "50",
@@ -6260,7 +5976,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "446",
         "HP": "64",
         "Attack": "88",
@@ -6271,7 +5986,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "316",
         "HP": "50",
         "Attack": "53",
@@ -6282,7 +5996,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "498",
         "HP": "75",
         "Attack": "98",
@@ -6293,7 +6006,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "316",
         "HP": "50",
         "Attack": "53",
@@ -6304,7 +6016,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "498",
         "HP": "75",
         "Attack": "98",
@@ -6315,7 +6026,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "316",
         "HP": "50",
         "Attack": "53",
@@ -6326,7 +6036,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "498",
         "HP": "75",
         "Attack": "98",
@@ -6337,7 +6046,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "292",
         "HP": "76",
         "Attack": "25",
@@ -6348,7 +6056,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "487",
         "HP": "116",
         "Attack": "55",
@@ -6392,7 +6099,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "295",
         "HP": "45",
         "Attack": "60",
@@ -6403,7 +6109,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "497",
         "HP": "75",
         "Attack": "100",
@@ -6414,7 +6119,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "280",
         "HP": "55",
         "Attack": "75",
@@ -6425,7 +6129,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "390",
         "HP": "70",
         "Attack": "105",
@@ -6436,7 +6139,6 @@
     },
     {
         "Type1": "Rock",
-        "Type2": "",
         "Total": "515",
         "HP": "85",
         "Attack": "135",
@@ -6469,7 +6171,6 @@
     },
     {
         "Type1": "Ground",
-        "Type2": "",
         "Total": "328",
         "HP": "60",
         "Attack": "85",
@@ -6491,7 +6192,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "445",
         "HP": "103",
         "Attack": "60",
@@ -6513,7 +6213,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "305",
         "HP": "75",
         "Attack": "80",
@@ -6524,7 +6223,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "405",
         "HP": "85",
         "Attack": "105",
@@ -6535,7 +6233,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "505",
         "HP": "105",
         "Attack": "140",
@@ -6546,7 +6243,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "294",
         "HP": "50",
         "Attack": "50",
@@ -6579,7 +6275,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "465",
         "HP": "120",
         "Attack": "100",
@@ -6590,7 +6285,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "465",
         "HP": "75",
         "Attack": "125",
@@ -6689,7 +6383,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "280",
         "HP": "45",
         "Attack": "35",
@@ -6700,7 +6393,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "480",
         "HP": "70",
         "Attack": "60",
@@ -6711,7 +6403,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "460",
         "HP": "70",
         "Attack": "92",
@@ -6755,7 +6446,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "315",
         "HP": "70",
         "Attack": "90",
@@ -6766,7 +6456,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "480",
         "HP": "105",
         "Attack": "140",
@@ -6788,7 +6477,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "461",
         "HP": "75",
         "Attack": "86",
@@ -6854,7 +6542,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "303",
         "HP": "38",
         "Attack": "30",
@@ -6865,7 +6552,6 @@
     },
     {
         "Type1": "Ghost",
-        "Type2": "",
         "Total": "483",
         "HP": "58",
         "Attack": "50",
@@ -6920,7 +6606,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "329",
         "HP": "50",
         "Attack": "50",
@@ -6931,7 +6616,6 @@
     },
     {
         "Type1": "Poison",
-        "Type2": "",
         "Total": "474",
         "HP": "80",
         "Attack": "95",
@@ -6942,7 +6626,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "330",
         "HP": "40",
         "Attack": "65",
@@ -6953,7 +6636,6 @@
     },
     {
         "Type1": "Dark",
-        "Type2": "",
         "Total": "510",
         "HP": "60",
         "Attack": "105",
@@ -6964,7 +6646,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "300",
         "HP": "55",
         "Attack": "50",
@@ -6975,7 +6656,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "470",
         "HP": "75",
         "Attack": "95",
@@ -6986,7 +6666,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "290",
         "HP": "45",
         "Attack": "30",
@@ -6997,7 +6676,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "390",
         "HP": "60",
         "Attack": "45",
@@ -7008,7 +6686,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "490",
         "HP": "70",
         "Attack": "55",
@@ -7019,7 +6696,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "290",
         "HP": "45",
         "Attack": "30",
@@ -7030,7 +6706,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "370",
         "HP": "65",
         "Attack": "40",
@@ -7041,7 +6716,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "490",
         "HP": "110",
         "Attack": "65",
@@ -7074,7 +6748,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "305",
         "HP": "36",
         "Attack": "50",
@@ -7085,7 +6758,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "395",
         "HP": "51",
         "Attack": "65",
@@ -7096,7 +6768,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "535",
         "HP": "71",
         "Attack": "95",
@@ -7140,7 +6811,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "315",
         "HP": "50",
         "Attack": "75",
@@ -7206,7 +6876,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "470",
         "HP": "165",
         "Attack": "75",
@@ -7261,7 +6930,6 @@
     },
     {
         "Type1": "Steel",
-        "Type2": "",
         "Total": "300",
         "HP": "40",
         "Attack": "55",
@@ -7272,7 +6940,6 @@
     },
     {
         "Type1": "Steel",
-        "Type2": "",
         "Total": "440",
         "HP": "60",
         "Attack": "80",
@@ -7283,7 +6950,6 @@
     },
     {
         "Type1": "Steel",
-        "Type2": "",
         "Total": "520",
         "HP": "60",
         "Attack": "100",
@@ -7294,7 +6960,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "275",
         "HP": "35",
         "Attack": "55",
@@ -7305,7 +6970,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "405",
         "HP": "65",
         "Attack": "85",
@@ -7316,7 +6980,6 @@
     },
     {
         "Type1": "Electric",
-        "Type2": "",
         "Total": "515",
         "HP": "85",
         "Attack": "115",
@@ -7327,7 +6990,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "335",
         "HP": "55",
         "Attack": "55",
@@ -7338,7 +7000,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "485",
         "HP": "75",
         "Attack": "75",
@@ -7382,7 +7043,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "320",
         "HP": "46",
         "Attack": "87",
@@ -7393,7 +7053,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "410",
         "HP": "66",
         "Attack": "117",
@@ -7404,7 +7063,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "540",
         "HP": "76",
         "Attack": "147",
@@ -7415,7 +7073,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "305",
         "HP": "55",
         "Attack": "70",
@@ -7426,7 +7083,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "485",
         "HP": "95",
         "Attack": "110",
@@ -7437,7 +7093,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "485",
         "HP": "70",
         "Attack": "50",
@@ -7448,7 +7103,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "305",
         "HP": "50",
         "Attack": "40",
@@ -7459,7 +7113,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "495",
         "HP": "80",
         "Attack": "70",
@@ -7481,7 +7134,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "350",
         "HP": "45",
         "Attack": "85",
@@ -7492,7 +7144,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "510",
         "HP": "65",
         "Attack": "125",
@@ -7503,7 +7154,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "485",
         "HP": "77",
         "Attack": "120",
@@ -7558,7 +7208,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "490",
         "HP": "95",
         "Attack": "110",
@@ -7613,7 +7262,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "484",
         "HP": "85",
         "Attack": "97",
@@ -7723,7 +7371,6 @@
     },
     {
         "Type1": "Flying",
-        "Type2": "",
         "Total": "580",
         "HP": "79",
         "Attack": "115",
@@ -7734,7 +7381,6 @@
     },
     {
         "Type1": "Flying",
-        "Type2": "",
         "Total": "580",
         "HP": "79",
         "Attack": "100",
@@ -7899,7 +7545,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "313",
         "HP": "56",
         "Attack": "61",
@@ -7910,7 +7555,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "405",
         "HP": "61",
         "Attack": "78",
@@ -7932,7 +7576,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "307",
         "HP": "40",
         "Attack": "45",
@@ -7943,7 +7586,6 @@
     },
     {
         "Type1": "Fire",
-        "Type2": "",
         "Total": "409",
         "HP": "59",
         "Attack": "59",
@@ -7965,7 +7607,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "314",
         "HP": "41",
         "Attack": "56",
@@ -7976,7 +7617,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "405",
         "HP": "54",
         "Attack": "63",
@@ -7998,7 +7638,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "237",
         "HP": "38",
         "Attack": "36",
@@ -8053,7 +7692,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "200",
         "HP": "38",
         "Attack": "35",
@@ -8064,7 +7702,6 @@
     },
     {
         "Type1": "Bug",
-        "Type2": "",
         "Total": "213",
         "HP": "45",
         "Attack": "22",
@@ -8108,7 +7745,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "303",
         "HP": "44",
         "Attack": "38",
@@ -8119,7 +7755,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "371",
         "HP": "54",
         "Attack": "45",
@@ -8130,7 +7765,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "552",
         "HP": "78",
         "Attack": "65",
@@ -8141,7 +7775,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "350",
         "HP": "66",
         "Attack": "65",
@@ -8152,7 +7785,6 @@
     },
     {
         "Type1": "Grass",
-        "Type2": "",
         "Total": "531",
         "HP": "123",
         "Attack": "100",
@@ -8163,7 +7795,6 @@
     },
     {
         "Type1": "Fighting",
-        "Type2": "",
         "Total": "348",
         "HP": "67",
         "Attack": "82",
@@ -8185,7 +7816,6 @@
     },
     {
         "Type1": "Normal",
-        "Type2": "",
         "Total": "472",
         "HP": "75",
         "Attack": "80",
@@ -8196,7 +7826,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "355",
         "HP": "62",
         "Attack": "48",
@@ -8207,7 +7836,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "466",
         "HP": "74",
         "Attack": "48",
@@ -8218,7 +7846,6 @@
     },
     {
         "Type1": "Psychic",
-        "Type2": "",
         "Total": "466",
         "HP": "74",
         "Attack": "48",
@@ -8273,7 +7900,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "341",
         "HP": "78",
         "Attack": "52",
@@ -8284,7 +7910,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "462",
         "HP": "101",
         "Attack": "72",
@@ -8295,7 +7920,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "341",
         "HP": "62",
         "Attack": "48",
@@ -8306,7 +7930,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "480",
         "HP": "82",
         "Attack": "80",
@@ -8383,7 +8006,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "330",
         "HP": "50",
         "Attack": "53",
@@ -8394,7 +8016,6 @@
     },
     {
         "Type1": "Water",
-        "Type2": "",
         "Total": "500",
         "HP": "71",
         "Attack": "73",
@@ -8471,7 +8092,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "525",
         "HP": "95",
         "Attack": "65",
@@ -8515,7 +8135,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "300",
         "HP": "45",
         "Attack": "50",
@@ -8526,7 +8145,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "452",
         "HP": "68",
         "Attack": "75",
@@ -8537,7 +8155,6 @@
     },
     {
         "Type1": "Dragon",
-        "Type2": "",
         "Total": "600",
         "HP": "90",
         "Attack": "100",
@@ -8669,7 +8286,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "304",
         "HP": "55",
         "Attack": "69",
@@ -8680,7 +8296,6 @@
     },
     {
         "Type1": "Ice",
-        "Type2": "",
         "Total": "514",
         "HP": "95",
         "Attack": "117",
@@ -8713,7 +8328,6 @@
     },
     {
         "Type1": "Fairy",
-        "Type2": "",
         "Total": "680",
         "HP": "126",
         "Attack": "131",

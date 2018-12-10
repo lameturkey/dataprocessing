@@ -17,7 +17,8 @@ def reader(filename):
             newitem = {}
             for key in item:
                 if key in keys:
-                    newitem[key.replace(' ', '')] = item[key]
+                    if item[key] != '':
+                        newitem[key.replace(' ', '')] = item[key]
             dicts.append(newitem)
     # return this list
     return dicts

@@ -66,7 +66,7 @@ function colorfunction(d)
     "Rock": "SaddleBrown",
     "Ghost": "RebeccaPurple",
     "Dark": "Black",
-    "Dragon": "MediumVioletRed",
+    "Dragon": "LightSeaGreen ",
     "Steel": "gray",
     "Fairy": "Pink",
   }

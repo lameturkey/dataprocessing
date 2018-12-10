@@ -16,6 +16,7 @@ window.onload = function() {
     g = svg.append("g").attr("transform", "translate(" + WIDTH / 2 +","+ HEIGHT / 2 + ")")
     g.append("text").attr("class", "middletext")
     var structured = d3.nest()
+                      .key(function(d) { return d.Generation})
                       .key(function(d) { return d.Type1})
                       .key(function(d) { return d.Type2})
                       .rollup(function(d) {return d.length})
@@ -87,7 +88,7 @@ function hover(d)
 {
   console.log(d)
   d3.select(this).style("fill", "black")
-  d3.select(".middletext").text("" + d.value + d.data.key + " Pokemon")
+  d3.select(".middletext").text( d.value + " " +  d.data.key + " Pokemon")
 }
 function off(d)
 {

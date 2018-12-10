@@ -1,1 +1,5 @@
 /* Koen van der Kamp 12466573 */
+.middletext {
+  text-align: center;
+  text-anchor: middle;
+}

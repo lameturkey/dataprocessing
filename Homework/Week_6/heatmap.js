@@ -14,8 +14,8 @@ window.onload = function() {
   d3.json("output.json").then(function(data) {
     svg = d3.select("body").append("svg").attr("width", WIDTH).attr("height", HEIGHT)
     g = svg.append("g").attr("transform", "translate(" + WIDTH / 2 +","+ HEIGHT / 2 + ")")
+    g.append("text").attr("class", "middletext")
     var structured = d3.nest()
-                      .key(function(d) { return d.Generation})
                       .key(function(d) { return d.Type1})
                       .key(function(d) { return d.Type2})
                       .rollup(function(d) {return d.length})
@@ -45,7 +45,9 @@ window.onload = function() {
         .attr("display", function (d) {return d.depth ? null : "none"; })  // <-- 5
         .attr("d", arc)  // <-- 6
         .style('stroke', '#fff')  // <-- 7
-        .style("fill", function(d){ return colorfunction(d) });  // <-- 8
+        .style("fill", function(d){ return colorfunction(d) }) // <-- 8
+        .on("mouseover", hover)
+        .on("mouseleave", off);
   })
 }
 
@@ -74,12 +76,21 @@ function colorfunction(d)
 
   if (d.data.key != "undefined")
   {
-    console.log(d.data.key)
-    console.log(colordict[d.data.key])
     return colordict[d.data.key]
   }
   else
   {
     return "white"
   }
+}
+function hover(d)
+{
+  console.log(d)
+  d3.select(this).style("fill", "black")
+  d3.select(".middletext").text("" + d.value + d.data.key + " Pokemon")
+}
+function off(d)
+{
+  d3.select(this).style("fill", colorfunction(d))
+  d3.select(".middletext").text("")
 }

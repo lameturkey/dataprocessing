@@ -3,3 +3,8 @@
   text-align: center;
   text-anchor: middle;
 }
+.barchart
+{
+  position: absolute;
+  left: 800px;
+}

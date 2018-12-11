@@ -42,12 +42,16 @@ function loadbar(data)
   xScale = d3.scaleBand().domain(keys).range([PADDING, BARWIDTH]).padding(0.1)
   xAxis = barsvg.append("g").attr("transform", "translate(0, " + (BARHEIGHT - PADDING) + ")")
                             .call(d3.axisBottom(xScale));
-  yScale = d3.scaleLinear().domain([0, 160]).range([BARHEIGHT - PADDING, 0]).nice()
+  yScale = d3.scaleLinear().domain([0, 160]).range([BARHEIGHT - PADDING, PADDING]).nice()
   yAxis = barsvg.append("g").attr("transform", "translate("+ PADDING + ", 0)")
                             .call(d3.axisLeft(yScale));
+  bartext = barsvg.append("text").attr("class", "bartext")
+                  .attr("x", 100).attr("y", 50)
+  barsvg.append("line").attr("class", "averageline").style("stroke", "rgb(255,0,0)")
 
   return function(types)
   {
+    text = "Maintype: " + types.type1
     d3.selectAll(".bars").remove()
     attributes = {}
     keys.forEach(function(key)
@@ -72,6 +76,7 @@ function loadbar(data)
     }
     else
     {
+      text += " Subtype: " + types.type2
       data.forEach(function(datapoint)
       {
         if (datapoint.Type1 === types.type1 && datapoint.Type2 === types.type2)
@@ -90,8 +95,6 @@ function loadbar(data)
     {
       attributes[key] = average(attributes[key])
     }
-    console.log(attributes)
-    console.log(xScale(Object.keys(attributes)[0]))
     bars = barsvg.append("g").attr("class", "bars")
                  .attr("fill", "steelblue")
                  .selectAll("rect").data(Object.values(attributes)).enter().append("rect")
@@ -99,7 +102,11 @@ function loadbar(data)
                  .attr("x", function(d, i) { return xScale(Object.keys(attributes)[i])})
                  .attr("y", d => yScale(d))
                  .attr("height", d => yScale(0) - yScale(d))
-
+    d3.select(".bartext").text(text)
+    averagestats = average(Object.values(attributes))
+    d3.select(".averageline")
+                        .attr("x1", PADDING).attr("x2", BARWIDTH)
+                        .attr("y1", yScale(averagestats)).attr("y2", yScale(averagestats))
   }
 }
 
@@ -150,13 +157,13 @@ function click(d)
 {
   if (d.depth == 2)
   {
-    type2 = d.data.key
-    type1 = d.parent.data.key
+    type2 = d.data.key;
+    type1 = d.parent.data.key;
   }
-  else (d.depth == 1)
+  else if (d.depth == 1)
   {
-    type1 = d.data.key
-    type2 = undefined
+    type1 = d.data.key;
+    type2 = undefined;
   }
   updatebar({type1: type1, type2: type2})
   return
@@ -196,19 +203,19 @@ function loadsun(data)
                           })
   partition(root);
 
-  var arc = d3.arc()  // <-- 2
+  var arc = d3.arc()
       .startAngle(function (d) { return d.x0 })
       .endAngle(function (d) { return d.x1 })
       .innerRadius(function (d) { return d.y0 })
       .outerRadius(function (d) { return d.y1 });
-  g.selectAll('path')  // <-- 1
-      .data(root.descendants())  // <-- 2
-      .enter()  // <-- 3
-      .append('path')  // <-- 4
-      .attr("display", function (d) {return (d.depth && d.data.key != "undefined" ) ? null : "none"; })  // <-- 5
-      .attr("d", arc)  // <-- 6
-      .style('stroke', '#fff')  // <-- 7
-      .style("fill", function(d){ return colorfunction(d) }) // <-- 8
+  g.selectAll('path')
+      .data(root.descendants())
+      .enter()
+      .append('path')
+      .attr("display", function (d) {return (d.depth && d.data.key != "undefined" ) ? null : "none"; })
+      .attr("d", arc)
+      .style('stroke', '#fff')
+      .style("fill", function(d){ return colorfunction(d) })
       .on("mouseover", hover)
       .on("mouseleave", off)
       .on("click", click);

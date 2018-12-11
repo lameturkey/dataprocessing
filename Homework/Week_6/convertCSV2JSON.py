@@ -5,7 +5,7 @@ def reader(filename):
     dicts = []
 
     #isolate the values i want to use
-    keys = ["Type 1","Type 2",  "Total", "HP", "Attack", "Defense", "Sp Atk", "Sp. Def", "Speed", "Generation"]
+    keys = ["Type 1","Type 2",  "Total", "HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed", "Generation"]
     with open(filename, 'r') as csvfile:
 
         # read the file
@@ -18,7 +18,7 @@ def reader(filename):
             for key in item:
                 if key in keys:
                     if item[key] != '':
-                        newitem[key.replace(' ', '')] = item[key]
+                        newitem[key.replace(' ', '').replace(".", "")] = item[key]
             dicts.append(newitem)
     # return this list
     return dicts

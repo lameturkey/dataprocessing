@@ -6,7 +6,8 @@
         "HP": "45",
         "Attack": "49",
         "Defense": "49",
-        "Sp.Def": "65",
+        "SpAtk": "65",
+        "SpDef": "65",
         "Speed": "45",
         "Generation": "1"
     },
@@ -17,7 +18,8 @@
         "HP": "60",
         "Attack": "62",
         "Defense": "63",
-        "Sp.Def": "80",
+        "SpAtk": "80",
+        "SpDef": "80",
         "Speed": "60",
         "Generation": "1"
     },
@@ -28,7 +30,8 @@
         "HP": "80",
         "Attack": "82",
         "Defense": "83",
-        "Sp.Def": "100",
+        "SpAtk": "100",
+        "SpDef": "100",
         "Speed": "80",
         "Generation": "1"
     },
@@ -39,7 +42,8 @@
         "HP": "80",
         "Attack": "100",
         "Defense": "123",
-        "Sp.Def": "120",
+        "SpAtk": "122",
+        "SpDef": "120",
         "Speed": "80",
         "Generation": "1"
     },
@@ -49,7 +53,8 @@
         "HP": "39",
         "Attack": "52",
         "Defense": "43",
-        "Sp.Def": "50",
+        "SpAtk": "60",
+        "SpDef": "50",
         "Speed": "65",
         "Generation": "1"
     },
@@ -59,7 +64,8 @@
         "HP": "58",
         "Attack": "64",
         "Defense": "58",
-        "Sp.Def": "65",
+        "SpAtk": "80",
+        "SpDef": "65",
         "Speed": "80",
         "Generation": "1"
     },
@@ -70,7 +76,8 @@
         "HP": "78",
         "Attack": "84",
         "Defense": "78",
-        "Sp.Def": "85",
+        "SpAtk": "109",
+        "SpDef": "85",
         "Speed": "100",
         "Generation": "1"
     },
@@ -81,7 +88,8 @@
         "HP": "78",
         "Attack": "130",
         "Defense": "111",
-        "Sp.Def": "85",
+        "SpAtk": "130",
+        "SpDef": "85",
         "Speed": "100",
         "Generation": "1"
     },
@@ -92,7 +100,8 @@
         "HP": "78",
         "Attack": "104",
         "Defense": "78",
-        "Sp.Def": "115",
+        "SpAtk": "159",
+        "SpDef": "115",
         "Speed": "100",
         "Generation": "1"
     },
@@ -102,7 +111,8 @@
         "HP": "44",
         "Attack": "48",
         "Defense": "65",
-        "Sp.Def": "64",
+        "SpAtk": "50",
+        "SpDef": "64",
         "Speed": "43",
         "Generation": "1"
     },
@@ -112,7 +122,8 @@
         "HP": "59",
         "Attack": "63",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "65",
+        "SpDef": "80",
         "Speed": "58",
         "Generation": "1"
     },
@@ -122,7 +133,8 @@
         "HP": "79",
         "Attack": "83",
         "Defense": "100",
-        "Sp.Def": "105",
+        "SpAtk": "85",
+        "SpDef": "105",
         "Speed": "78",
         "Generation": "1"
     },
@@ -132,7 +144,8 @@
         "HP": "79",
         "Attack": "103",
         "Defense": "120",
-        "Sp.Def": "115",
+        "SpAtk": "135",
+        "SpDef": "115",
         "Speed": "78",
         "Generation": "1"
     },
@@ -142,7 +155,8 @@
         "HP": "45",
         "Attack": "30",
         "Defense": "35",
-        "Sp.Def": "20",
+        "SpAtk": "20",
+        "SpDef": "20",
         "Speed": "45",
         "Generation": "1"
     },
@@ -152,7 +166,8 @@
         "HP": "50",
         "Attack": "20",
         "Defense": "55",
-        "Sp.Def": "25",
+        "SpAtk": "25",
+        "SpDef": "25",
         "Speed": "30",
         "Generation": "1"
     },
@@ -163,7 +178,8 @@
         "HP": "60",
         "Attack": "45",
         "Defense": "50",
-        "Sp.Def": "80",
+        "SpAtk": "90",
+        "SpDef": "80",
         "Speed": "70",
         "Generation": "1"
     },
@@ -174,7 +190,8 @@
         "HP": "40",
         "Attack": "35",
         "Defense": "30",
-        "Sp.Def": "20",
+        "SpAtk": "20",
+        "SpDef": "20",
         "Speed": "50",
         "Generation": "1"
     },
@@ -185,7 +202,8 @@
         "HP": "45",
         "Attack": "25",
         "Defense": "50",
-        "Sp.Def": "25",
+        "SpAtk": "25",
+        "SpDef": "25",
         "Speed": "35",
         "Generation": "1"
     },
@@ -196,7 +214,8 @@
         "HP": "65",
         "Attack": "90",
         "Defense": "40",
-        "Sp.Def": "80",
+        "SpAtk": "45",
+        "SpDef": "80",
         "Speed": "75",
         "Generation": "1"
     },
@@ -207,7 +226,8 @@
         "HP": "65",
         "Attack": "150",
         "Defense": "40",
-        "Sp.Def": "80",
+        "SpAtk": "15",
+        "SpDef": "80",
         "Speed": "145",
         "Generation": "1"
     },
@@ -218,7 +238,8 @@
         "HP": "40",
         "Attack": "45",
         "Defense": "40",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "56",
         "Generation": "1"
     },
@@ -229,7 +250,8 @@
         "HP": "63",
         "Attack": "60",
         "Defense": "55",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "71",
         "Generation": "1"
     },
@@ -240,7 +262,8 @@
         "HP": "83",
         "Attack": "80",
         "Defense": "75",
-        "Sp.Def": "70",
+        "SpAtk": "70",
+        "SpDef": "70",
         "Speed": "101",
         "Generation": "1"
     },
@@ -251,7 +274,8 @@
         "HP": "83",
         "Attack": "80",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "135",
+        "SpDef": "80",
         "Speed": "121",
         "Generation": "1"
     },
@@ -261,7 +285,8 @@
         "HP": "30",
         "Attack": "56",
         "Defense": "35",
-        "Sp.Def": "35",
+        "SpAtk": "25",
+        "SpDef": "35",
         "Speed": "72",
         "Generation": "1"
     },
@@ -271,7 +296,8 @@
         "HP": "55",
         "Attack": "81",
         "Defense": "60",
-        "Sp.Def": "70",
+        "SpAtk": "50",
+        "SpDef": "70",
         "Speed": "97",
         "Generation": "1"
     },
@@ -282,7 +308,8 @@
         "HP": "40",
         "Attack": "60",
         "Defense": "30",
-        "Sp.Def": "31",
+        "SpAtk": "31",
+        "SpDef": "31",
         "Speed": "70",
         "Generation": "1"
     },
@@ -293,7 +320,8 @@
         "HP": "65",
         "Attack": "90",
         "Defense": "65",
-        "Sp.Def": "61",
+        "SpAtk": "61",
+        "SpDef": "61",
         "Speed": "100",
         "Generation": "1"
     },
@@ -303,7 +331,8 @@
         "HP": "35",
         "Attack": "60",
         "Defense": "44",
-        "Sp.Def": "54",
+        "SpAtk": "40",
+        "SpDef": "54",
         "Speed": "55",
         "Generation": "1"
     },
@@ -313,7 +342,8 @@
         "HP": "60",
         "Attack": "85",
         "Defense": "69",
-        "Sp.Def": "79",
+        "SpAtk": "65",
+        "SpDef": "79",
         "Speed": "80",
         "Generation": "1"
     },
@@ -323,7 +353,8 @@
         "HP": "35",
         "Attack": "55",
         "Defense": "40",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "90",
         "Generation": "1"
     },
@@ -333,7 +364,8 @@
         "HP": "60",
         "Attack": "90",
         "Defense": "55",
-        "Sp.Def": "80",
+        "SpAtk": "90",
+        "SpDef": "80",
         "Speed": "110",
         "Generation": "1"
     },
@@ -343,7 +375,8 @@
         "HP": "50",
         "Attack": "75",
         "Defense": "85",
-        "Sp.Def": "30",
+        "SpAtk": "20",
+        "SpDef": "30",
         "Speed": "40",
         "Generation": "1"
     },
@@ -353,7 +386,8 @@
         "HP": "75",
         "Attack": "100",
         "Defense": "110",
-        "Sp.Def": "55",
+        "SpAtk": "45",
+        "SpDef": "55",
         "Speed": "65",
         "Generation": "1"
     },
@@ -363,7 +397,8 @@
         "HP": "55",
         "Attack": "47",
         "Defense": "52",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "41",
         "Generation": "1"
     },
@@ -373,7 +408,8 @@
         "HP": "70",
         "Attack": "62",
         "Defense": "67",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "56",
         "Generation": "1"
     },
@@ -384,7 +420,8 @@
         "HP": "90",
         "Attack": "92",
         "Defense": "87",
-        "Sp.Def": "85",
+        "SpAtk": "75",
+        "SpDef": "85",
         "Speed": "76",
         "Generation": "1"
     },
@@ -394,7 +431,8 @@
         "HP": "46",
         "Attack": "57",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "50",
         "Generation": "1"
     },
@@ -404,7 +442,8 @@
         "HP": "61",
         "Attack": "72",
         "Defense": "57",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "65",
         "Generation": "1"
     },
@@ -415,7 +454,8 @@
         "HP": "81",
         "Attack": "102",
         "Defense": "77",
-        "Sp.Def": "75",
+        "SpAtk": "85",
+        "SpDef": "75",
         "Speed": "85",
         "Generation": "1"
     },
@@ -425,7 +465,8 @@
         "HP": "70",
         "Attack": "45",
         "Defense": "48",
-        "Sp.Def": "65",
+        "SpAtk": "60",
+        "SpDef": "65",
         "Speed": "35",
         "Generation": "1"
     },
@@ -435,7 +476,8 @@
         "HP": "95",
         "Attack": "70",
         "Defense": "73",
-        "Sp.Def": "90",
+        "SpAtk": "95",
+        "SpDef": "90",
         "Speed": "60",
         "Generation": "1"
     },
@@ -445,7 +487,8 @@
         "HP": "38",
         "Attack": "41",
         "Defense": "40",
-        "Sp.Def": "65",
+        "SpAtk": "50",
+        "SpDef": "65",
         "Speed": "65",
         "Generation": "1"
     },
@@ -455,7 +498,8 @@
         "HP": "73",
         "Attack": "76",
         "Defense": "75",
-        "Sp.Def": "100",
+        "SpAtk": "81",
+        "SpDef": "100",
         "Speed": "100",
         "Generation": "1"
     },
@@ -466,7 +510,8 @@
         "HP": "115",
         "Attack": "45",
         "Defense": "20",
-        "Sp.Def": "25",
+        "SpAtk": "45",
+        "SpDef": "25",
         "Speed": "20",
         "Generation": "1"
     },
@@ -477,7 +522,8 @@
         "HP": "140",
         "Attack": "70",
         "Defense": "45",
-        "Sp.Def": "50",
+        "SpAtk": "85",
+        "SpDef": "50",
         "Speed": "45",
         "Generation": "1"
     },
@@ -488,7 +534,8 @@
         "HP": "40",
         "Attack": "45",
         "Defense": "35",
-        "Sp.Def": "40",
+        "SpAtk": "30",
+        "SpDef": "40",
         "Speed": "55",
         "Generation": "1"
     },
@@ -499,7 +546,8 @@
         "HP": "75",
         "Attack": "80",
         "Defense": "70",
-        "Sp.Def": "75",
+        "SpAtk": "65",
+        "SpDef": "75",
         "Speed": "90",
         "Generation": "1"
     },
@@ -510,7 +558,8 @@
         "HP": "45",
         "Attack": "50",
         "Defense": "55",
-        "Sp.Def": "65",
+        "SpAtk": "75",
+        "SpDef": "65",
         "Speed": "30",
         "Generation": "1"
     },
@@ -521,7 +570,8 @@
         "HP": "60",
         "Attack": "65",
         "Defense": "70",
-        "Sp.Def": "75",
+        "SpAtk": "85",
+        "SpDef": "75",
         "Speed": "40",
         "Generation": "1"
     },
@@ -532,7 +582,8 @@
         "HP": "75",
         "Attack": "80",
         "Defense": "85",
-        "Sp.Def": "90",
+        "SpAtk": "110",
+        "SpDef": "90",
         "Speed": "50",
         "Generation": "1"
     },
@@ -543,7 +594,8 @@
         "HP": "35",
         "Attack": "70",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "45",
+        "SpDef": "55",
         "Speed": "25",
         "Generation": "1"
     },
@@ -554,7 +606,8 @@
         "HP": "60",
         "Attack": "95",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "60",
+        "SpDef": "80",
         "Speed": "30",
         "Generation": "1"
     },
@@ -565,7 +618,8 @@
         "HP": "60",
         "Attack": "55",
         "Defense": "50",
-        "Sp.Def": "55",
+        "SpAtk": "40",
+        "SpDef": "55",
         "Speed": "45",
         "Generation": "1"
     },
@@ -576,7 +630,8 @@
         "HP": "70",
         "Attack": "65",
         "Defense": "60",
-        "Sp.Def": "75",
+        "SpAtk": "90",
+        "SpDef": "75",
         "Speed": "90",
         "Generation": "1"
     },
@@ -586,7 +641,8 @@
         "HP": "10",
         "Attack": "55",
         "Defense": "25",
-        "Sp.Def": "45",
+        "SpAtk": "35",
+        "SpDef": "45",
         "Speed": "95",
         "Generation": "1"
     },
@@ -596,7 +652,8 @@
         "HP": "35",
         "Attack": "80",
         "Defense": "50",
-        "Sp.Def": "70",
+        "SpAtk": "50",
+        "SpDef": "70",
         "Speed": "120",
         "Generation": "1"
     },
@@ -606,7 +663,8 @@
         "HP": "40",
         "Attack": "45",
         "Defense": "35",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "90",
         "Generation": "1"
     },
@@ -616,7 +674,8 @@
         "HP": "65",
         "Attack": "70",
         "Defense": "60",
-        "Sp.Def": "65",
+        "SpAtk": "65",
+        "SpDef": "65",
         "Speed": "115",
         "Generation": "1"
     },
@@ -626,7 +685,8 @@
         "HP": "50",
         "Attack": "52",
         "Defense": "48",
-        "Sp.Def": "50",
+        "SpAtk": "65",
+        "SpDef": "50",
         "Speed": "55",
         "Generation": "1"
     },
@@ -636,7 +696,8 @@
         "HP": "80",
         "Attack": "82",
         "Defense": "78",
-        "Sp.Def": "80",
+        "SpAtk": "95",
+        "SpDef": "80",
         "Speed": "85",
         "Generation": "1"
     },
@@ -646,7 +707,8 @@
         "HP": "40",
         "Attack": "80",
         "Defense": "35",
-        "Sp.Def": "45",
+        "SpAtk": "35",
+        "SpDef": "45",
         "Speed": "70",
         "Generation": "1"
     },
@@ -656,7 +718,8 @@
         "HP": "65",
         "Attack": "105",
         "Defense": "60",
-        "Sp.Def": "70",
+        "SpAtk": "60",
+        "SpDef": "70",
         "Speed": "95",
         "Generation": "1"
     },
@@ -666,7 +729,8 @@
         "HP": "55",
         "Attack": "70",
         "Defense": "45",
-        "Sp.Def": "50",
+        "SpAtk": "70",
+        "SpDef": "50",
         "Speed": "60",
         "Generation": "1"
     },
@@ -676,7 +740,8 @@
         "HP": "90",
         "Attack": "110",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "100",
+        "SpDef": "80",
         "Speed": "95",
         "Generation": "1"
     },
@@ -686,7 +751,8 @@
         "HP": "40",
         "Attack": "50",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "90",
         "Generation": "1"
     },
@@ -696,7 +762,8 @@
         "HP": "65",
         "Attack": "65",
         "Defense": "65",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "90",
         "Generation": "1"
     },
@@ -707,7 +774,8 @@
         "HP": "90",
         "Attack": "95",
         "Defense": "95",
-        "Sp.Def": "90",
+        "SpAtk": "70",
+        "SpDef": "90",
         "Speed": "70",
         "Generation": "1"
     },
@@ -717,7 +785,8 @@
         "HP": "25",
         "Attack": "20",
         "Defense": "15",
-        "Sp.Def": "55",
+        "SpAtk": "105",
+        "SpDef": "55",
         "Speed": "90",
         "Generation": "1"
     },
@@ -727,7 +796,8 @@
         "HP": "40",
         "Attack": "35",
         "Defense": "30",
-        "Sp.Def": "70",
+        "SpAtk": "120",
+        "SpDef": "70",
         "Speed": "105",
         "Generation": "1"
     },
@@ -737,7 +807,8 @@
         "HP": "55",
         "Attack": "50",
         "Defense": "45",
-        "Sp.Def": "95",
+        "SpAtk": "135",
+        "SpDef": "95",
         "Speed": "120",
         "Generation": "1"
     },
@@ -747,7 +818,8 @@
         "HP": "55",
         "Attack": "50",
         "Defense": "65",
-        "Sp.Def": "95",
+        "SpAtk": "175",
+        "SpDef": "95",
         "Speed": "150",
         "Generation": "1"
     },
@@ -757,7 +829,8 @@
         "HP": "70",
         "Attack": "80",
         "Defense": "50",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "35",
         "Generation": "1"
     },
@@ -767,7 +840,8 @@
         "HP": "80",
         "Attack": "100",
         "Defense": "70",
-        "Sp.Def": "60",
+        "SpAtk": "50",
+        "SpDef": "60",
         "Speed": "45",
         "Generation": "1"
     },
@@ -777,7 +851,8 @@
         "HP": "90",
         "Attack": "130",
         "Defense": "80",
-        "Sp.Def": "85",
+        "SpAtk": "65",
+        "SpDef": "85",
         "Speed": "55",
         "Generation": "1"
     },
@@ -788,7 +863,8 @@
         "HP": "50",
         "Attack": "75",
         "Defense": "35",
-        "Sp.Def": "30",
+        "SpAtk": "70",
+        "SpDef": "30",
         "Speed": "40",
         "Generation": "1"
     },
@@ -799,7 +875,8 @@
         "HP": "65",
         "Attack": "90",
         "Defense": "50",
-        "Sp.Def": "45",
+        "SpAtk": "85",
+        "SpDef": "45",
         "Speed": "55",
         "Generation": "1"
     },
@@ -810,7 +887,8 @@
         "HP": "80",
         "Attack": "105",
         "Defense": "65",
-        "Sp.Def": "70",
+        "SpAtk": "100",
+        "SpDef": "70",
         "Speed": "70",
         "Generation": "1"
     },
@@ -821,7 +899,8 @@
         "HP": "40",
         "Attack": "40",
         "Defense": "35",
-        "Sp.Def": "100",
+        "SpAtk": "50",
+        "SpDef": "100",
         "Speed": "70",
         "Generation": "1"
     },
@@ -832,7 +911,8 @@
         "HP": "80",
         "Attack": "70",
         "Defense": "65",
-        "Sp.Def": "120",
+        "SpAtk": "80",
+        "SpDef": "120",
         "Speed": "100",
         "Generation": "1"
     },
@@ -843,7 +923,8 @@
         "HP": "40",
         "Attack": "80",
         "Defense": "100",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "20",
         "Generation": "1"
     },
@@ -854,7 +935,8 @@
         "HP": "55",
         "Attack": "95",
         "Defense": "115",
-        "Sp.Def": "45",
+        "SpAtk": "45",
+        "SpDef": "45",
         "Speed": "35",
         "Generation": "1"
     },
@@ -865,7 +947,8 @@
         "HP": "80",
         "Attack": "120",
         "Defense": "130",
-        "Sp.Def": "65",
+        "SpAtk": "55",
+        "SpDef": "65",
         "Speed": "45",
         "Generation": "1"
     },
@@ -875,7 +958,8 @@
         "HP": "50",
         "Attack": "85",
         "Defense": "55",
-        "Sp.Def": "65",
+        "SpAtk": "65",
+        "SpDef": "65",
         "Speed": "90",
         "Generation": "1"
     },
@@ -885,7 +969,8 @@
         "HP": "65",
         "Attack": "100",
         "Defense": "70",
-        "Sp.Def": "80",
+        "SpAtk": "80",
+        "SpDef": "80",
         "Speed": "105",
         "Generation": "1"
     },
@@ -896,7 +981,8 @@
         "HP": "90",
         "Attack": "65",
         "Defense": "65",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "15",
         "Generation": "1"
     },
@@ -907,7 +993,8 @@
         "HP": "95",
         "Attack": "75",
         "Defense": "110",
-        "Sp.Def": "80",
+        "SpAtk": "100",
+        "SpDef": "80",
         "Speed": "30",
         "Generation": "1"
     },
@@ -918,7 +1005,8 @@
         "HP": "95",
         "Attack": "75",
         "Defense": "180",
-        "Sp.Def": "80",
+        "SpAtk": "130",
+        "SpDef": "80",
         "Speed": "30",
         "Generation": "1"
     },
@@ -929,7 +1017,8 @@
         "HP": "25",
         "Attack": "35",
         "Defense": "70",
-        "Sp.Def": "55",
+        "SpAtk": "95",
+        "SpDef": "55",
         "Speed": "45",
         "Generation": "1"
     },
@@ -940,7 +1029,8 @@
         "HP": "50",
         "Attack": "60",
         "Defense": "95",
-        "Sp.Def": "70",
+        "SpAtk": "120",
+        "SpDef": "70",
         "Speed": "70",
         "Generation": "1"
     },
@@ -951,7 +1041,8 @@
         "HP": "52",
         "Attack": "65",
         "Defense": "55",
-        "Sp.Def": "62",
+        "SpAtk": "58",
+        "SpDef": "62",
         "Speed": "60",
         "Generation": "1"
     },
@@ -962,7 +1053,8 @@
         "HP": "35",
         "Attack": "85",
         "Defense": "45",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "75",
         "Generation": "1"
     },
@@ -973,7 +1065,8 @@
         "HP": "60",
         "Attack": "110",
         "Defense": "70",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "100",
         "Generation": "1"
     },
@@ -983,7 +1076,8 @@
         "HP": "65",
         "Attack": "45",
         "Defense": "55",
-        "Sp.Def": "70",
+        "SpAtk": "45",
+        "SpDef": "70",
         "Speed": "45",
         "Generation": "1"
     },
@@ -994,7 +1088,8 @@
         "HP": "90",
         "Attack": "70",
         "Defense": "80",
-        "Sp.Def": "95",
+        "SpAtk": "70",
+        "SpDef": "95",
         "Speed": "70",
         "Generation": "1"
     },
@@ -1004,7 +1099,8 @@
         "HP": "80",
         "Attack": "80",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "40",
+        "SpDef": "50",
         "Speed": "25",
         "Generation": "1"
     },
@@ -1014,7 +1110,8 @@
         "HP": "105",
         "Attack": "105",
         "Defense": "75",
-        "Sp.Def": "100",
+        "SpAtk": "65",
+        "SpDef": "100",
         "Speed": "50",
         "Generation": "1"
     },
@@ -1024,7 +1121,8 @@
         "HP": "30",
         "Attack": "65",
         "Defense": "100",
-        "Sp.Def": "25",
+        "SpAtk": "45",
+        "SpDef": "25",
         "Speed": "40",
         "Generation": "1"
     },
@@ -1035,7 +1133,8 @@
         "HP": "50",
         "Attack": "95",
         "Defense": "180",
-        "Sp.Def": "45",
+        "SpAtk": "85",
+        "SpDef": "45",
         "Speed": "70",
         "Generation": "1"
     },
@@ -1046,7 +1145,8 @@
         "HP": "30",
         "Attack": "35",
         "Defense": "30",
-        "Sp.Def": "35",
+        "SpAtk": "100",
+        "SpDef": "35",
         "Speed": "80",
         "Generation": "1"
     },
@@ -1057,7 +1157,8 @@
         "HP": "45",
         "Attack": "50",
         "Defense": "45",
-        "Sp.Def": "55",
+        "SpAtk": "115",
+        "SpDef": "55",
         "Speed": "95",
         "Generation": "1"
     },
@@ -1068,7 +1169,8 @@
         "HP": "60",
         "Attack": "65",
         "Defense": "60",
-        "Sp.Def": "75",
+        "SpAtk": "130",
+        "SpDef": "75",
         "Speed": "110",
         "Generation": "1"
     },
@@ -1079,7 +1181,8 @@
         "HP": "60",
         "Attack": "65",
         "Defense": "80",
-        "Sp.Def": "95",
+        "SpAtk": "170",
+        "SpDef": "95",
         "Speed": "130",
         "Generation": "1"
     },
@@ -1090,7 +1193,8 @@
         "HP": "35",
         "Attack": "45",
         "Defense": "160",
-        "Sp.Def": "45",
+        "SpAtk": "30",
+        "SpDef": "45",
         "Speed": "70",
         "Generation": "1"
     },
@@ -1100,7 +1204,8 @@
         "HP": "60",
         "Attack": "48",
         "Defense": "45",
-        "Sp.Def": "90",
+        "SpAtk": "43",
+        "SpDef": "90",
         "Speed": "42",
         "Generation": "1"
     },
@@ -1110,7 +1215,8 @@
         "HP": "85",
         "Attack": "73",
         "Defense": "70",
-        "Sp.Def": "115",
+        "SpAtk": "73",
+        "SpDef": "115",
         "Speed": "67",
         "Generation": "1"
     },
@@ -1120,7 +1226,8 @@
         "HP": "30",
         "Attack": "105",
         "Defense": "90",
-        "Sp.Def": "25",
+        "SpAtk": "25",
+        "SpDef": "25",
         "Speed": "50",
         "Generation": "1"
     },
@@ -1130,7 +1237,8 @@
         "HP": "55",
         "Attack": "130",
         "Defense": "115",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "75",
         "Generation": "1"
     },
@@ -1140,7 +1248,8 @@
         "HP": "40",
         "Attack": "30",
         "Defense": "50",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "100",
         "Generation": "1"
     },
@@ -1150,7 +1259,8 @@
         "HP": "60",
         "Attack": "50",
         "Defense": "70",
-        "Sp.Def": "80",
+        "SpAtk": "80",
+        "SpDef": "80",
         "Speed": "140",
         "Generation": "1"
     },
@@ -1161,7 +1271,8 @@
         "HP": "60",
         "Attack": "40",
         "Defense": "80",
-        "Sp.Def": "45",
+        "SpAtk": "60",
+        "SpDef": "45",
         "Speed": "40",
         "Generation": "1"
     },
@@ -1172,7 +1283,8 @@
         "HP": "95",
         "Attack": "95",
         "Defense": "85",
-        "Sp.Def": "65",
+        "SpAtk": "125",
+        "SpDef": "65",
         "Speed": "55",
         "Generation": "1"
     },
@@ -1182,7 +1294,8 @@
         "HP": "50",
         "Attack": "50",
         "Defense": "95",
-        "Sp.Def": "50",
+        "SpAtk": "40",
+        "SpDef": "50",
         "Speed": "35",
         "Generation": "1"
     },
@@ -1192,7 +1305,8 @@
         "HP": "60",
         "Attack": "80",
         "Defense": "110",
-        "Sp.Def": "80",
+        "SpAtk": "50",
+        "SpDef": "80",
         "Speed": "45",
         "Generation": "1"
     },
@@ -1202,7 +1316,8 @@
         "HP": "50",
         "Attack": "120",
         "Defense": "53",
-        "Sp.Def": "110",
+        "SpAtk": "35",
+        "SpDef": "110",
         "Speed": "87",
         "Generation": "1"
     },
@@ -1212,7 +1327,8 @@
         "HP": "50",
         "Attack": "105",
         "Defense": "79",
-        "Sp.Def": "110",
+        "SpAtk": "35",
+        "SpDef": "110",
         "Speed": "76",
         "Generation": "1"
     },
@@ -1222,7 +1338,8 @@
         "HP": "90",
         "Attack": "55",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "60",
+        "SpDef": "75",
         "Speed": "30",
         "Generation": "1"
     },
@@ -1232,7 +1349,8 @@
         "HP": "40",
         "Attack": "65",
         "Defense": "95",
-        "Sp.Def": "45",
+        "SpAtk": "60",
+        "SpDef": "45",
         "Speed": "35",
         "Generation": "1"
     },
@@ -1242,7 +1360,8 @@
         "HP": "65",
         "Attack": "90",
         "Defense": "120",
-        "Sp.Def": "70",
+        "SpAtk": "85",
+        "SpDef": "70",
         "Speed": "60",
         "Generation": "1"
     },
@@ -1253,7 +1372,8 @@
         "HP": "80",
         "Attack": "85",
         "Defense": "95",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "25",
         "Generation": "1"
     },
@@ -1264,7 +1384,8 @@
         "HP": "105",
         "Attack": "130",
         "Defense": "120",
-        "Sp.Def": "45",
+        "SpAtk": "45",
+        "SpDef": "45",
         "Speed": "40",
         "Generation": "1"
     },
@@ -1274,7 +1395,8 @@
         "HP": "250",
         "Attack": "5",
         "Defense": "5",
-        "Sp.Def": "105",
+        "SpAtk": "35",
+        "SpDef": "105",
         "Speed": "50",
         "Generation": "1"
     },
@@ -1284,7 +1406,8 @@
         "HP": "65",
         "Attack": "55",
         "Defense": "115",
-        "Sp.Def": "40",
+        "SpAtk": "100",
+        "SpDef": "40",
         "Speed": "60",
         "Generation": "1"
     },
@@ -1294,7 +1417,8 @@
         "HP": "105",
         "Attack": "95",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "40",
+        "SpDef": "80",
         "Speed": "90",
         "Generation": "1"
     },
@@ -1304,7 +1428,8 @@
         "HP": "105",
         "Attack": "125",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "60",
+        "SpDef": "100",
         "Speed": "100",
         "Generation": "1"
     },
@@ -1314,7 +1439,8 @@
         "HP": "30",
         "Attack": "40",
         "Defense": "70",
-        "Sp.Def": "25",
+        "SpAtk": "70",
+        "SpDef": "25",
         "Speed": "60",
         "Generation": "1"
     },
@@ -1324,7 +1450,8 @@
         "HP": "55",
         "Attack": "65",
         "Defense": "95",
-        "Sp.Def": "45",
+        "SpAtk": "95",
+        "SpDef": "45",
         "Speed": "85",
         "Generation": "1"
     },
@@ -1334,7 +1461,8 @@
         "HP": "45",
         "Attack": "67",
         "Defense": "60",
-        "Sp.Def": "50",
+        "SpAtk": "35",
+        "SpDef": "50",
         "Speed": "63",
         "Generation": "1"
     },
@@ -1344,7 +1472,8 @@
         "HP": "80",
         "Attack": "92",
         "Defense": "65",
-        "Sp.Def": "80",
+        "SpAtk": "65",
+        "SpDef": "80",
         "Speed": "68",
         "Generation": "1"
     },
@@ -1354,7 +1483,8 @@
         "HP": "30",
         "Attack": "45",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "70",
+        "SpDef": "55",
         "Speed": "85",
         "Generation": "1"
     },
@@ -1365,7 +1495,8 @@
         "HP": "60",
         "Attack": "75",
         "Defense": "85",
-        "Sp.Def": "85",
+        "SpAtk": "100",
+        "SpDef": "85",
         "Speed": "115",
         "Generation": "1"
     },
@@ -1376,7 +1507,8 @@
         "HP": "40",
         "Attack": "45",
         "Defense": "65",
-        "Sp.Def": "120",
+        "SpAtk": "100",
+        "SpDef": "120",
         "Speed": "90",
         "Generation": "1"
     },
@@ -1387,7 +1519,8 @@
         "HP": "70",
         "Attack": "110",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "55",
+        "SpDef": "80",
         "Speed": "105",
         "Generation": "1"
     },
@@ -1398,7 +1531,8 @@
         "HP": "65",
         "Attack": "50",
         "Defense": "35",
-        "Sp.Def": "95",
+        "SpAtk": "115",
+        "SpDef": "95",
         "Speed": "95",
         "Generation": "1"
     },
@@ -1408,7 +1542,8 @@
         "HP": "65",
         "Attack": "83",
         "Defense": "57",
-        "Sp.Def": "85",
+        "SpAtk": "95",
+        "SpDef": "85",
         "Speed": "105",
         "Generation": "1"
     },
@@ -1418,7 +1553,8 @@
         "HP": "65",
         "Attack": "95",
         "Defense": "57",
-        "Sp.Def": "85",
+        "SpAtk": "100",
+        "SpDef": "85",
         "Speed": "93",
         "Generation": "1"
     },
@@ -1428,7 +1564,8 @@
         "HP": "65",
         "Attack": "125",
         "Defense": "100",
-        "Sp.Def": "70",
+        "SpAtk": "55",
+        "SpDef": "70",
         "Speed": "85",
         "Generation": "1"
     },
@@ -1439,7 +1576,8 @@
         "HP": "65",
         "Attack": "155",
         "Defense": "120",
-        "Sp.Def": "90",
+        "SpAtk": "65",
+        "SpDef": "90",
         "Speed": "105",
         "Generation": "1"
     },
@@ -1449,7 +1587,8 @@
         "HP": "75",
         "Attack": "100",
         "Defense": "95",
-        "Sp.Def": "70",
+        "SpAtk": "40",
+        "SpDef": "70",
         "Speed": "110",
         "Generation": "1"
     },
@@ -1459,7 +1598,8 @@
         "HP": "20",
         "Attack": "10",
         "Defense": "55",
-        "Sp.Def": "20",
+        "SpAtk": "15",
+        "SpDef": "20",
         "Speed": "80",
         "Generation": "1"
     },
@@ -1470,7 +1610,8 @@
         "HP": "95",
         "Attack": "125",
         "Defense": "79",
-        "Sp.Def": "100",
+        "SpAtk": "60",
+        "SpDef": "100",
         "Speed": "81",
         "Generation": "1"
     },
@@ -1481,7 +1622,8 @@
         "HP": "95",
         "Attack": "155",
         "Defense": "109",
-        "Sp.Def": "130",
+        "SpAtk": "70",
+        "SpDef": "130",
         "Speed": "81",
         "Generation": "1"
     },
@@ -1492,7 +1634,8 @@
         "HP": "130",
         "Attack": "85",
         "Defense": "80",
-        "Sp.Def": "95",
+        "SpAtk": "85",
+        "SpDef": "95",
         "Speed": "60",
         "Generation": "1"
     },
@@ -1502,7 +1645,8 @@
         "HP": "48",
         "Attack": "48",
         "Defense": "48",
-        "Sp.Def": "48",
+        "SpAtk": "48",
+        "SpDef": "48",
         "Speed": "48",
         "Generation": "1"
     },
@@ -1512,7 +1656,8 @@
         "HP": "55",
         "Attack": "55",
         "Defense": "50",
-        "Sp.Def": "65",
+        "SpAtk": "45",
+        "SpDef": "65",
         "Speed": "55",
         "Generation": "1"
     },
@@ -1522,7 +1667,8 @@
         "HP": "130",
         "Attack": "65",
         "Defense": "60",
-        "Sp.Def": "95",
+        "SpAtk": "110",
+        "SpDef": "95",
         "Speed": "65",
         "Generation": "1"
     },
@@ -1532,7 +1678,8 @@
         "HP": "65",
         "Attack": "65",
         "Defense": "60",
-        "Sp.Def": "95",
+        "SpAtk": "110",
+        "SpDef": "95",
         "Speed": "130",
         "Generation": "1"
     },
@@ -1542,7 +1689,8 @@
         "HP": "65",
         "Attack": "130",
         "Defense": "60",
-        "Sp.Def": "110",
+        "SpAtk": "95",
+        "SpDef": "110",
         "Speed": "65",
         "Generation": "1"
     },
@@ -1552,7 +1700,8 @@
         "HP": "65",
         "Attack": "60",
         "Defense": "70",
-        "Sp.Def": "75",
+        "SpAtk": "85",
+        "SpDef": "75",
         "Speed": "40",
         "Generation": "1"
     },
@@ -1563,7 +1712,8 @@
         "HP": "35",
         "Attack": "40",
         "Defense": "100",
-        "Sp.Def": "55",
+        "SpAtk": "90",
+        "SpDef": "55",
         "Speed": "35",
         "Generation": "1"
     },
@@ -1574,7 +1724,8 @@
         "HP": "70",
         "Attack": "60",
         "Defense": "125",
-        "Sp.Def": "70",
+        "SpAtk": "115",
+        "SpDef": "70",
         "Speed": "55",
         "Generation": "1"
     },
@@ -1585,7 +1736,8 @@
         "HP": "30",
         "Attack": "80",
         "Defense": "90",
-        "Sp.Def": "45",
+        "SpAtk": "55",
+        "SpDef": "45",
         "Speed": "55",
         "Generation": "1"
     },
@@ -1596,7 +1748,8 @@
         "HP": "60",
         "Attack": "115",
         "Defense": "105",
-        "Sp.Def": "70",
+        "SpAtk": "65",
+        "SpDef": "70",
         "Speed": "80",
         "Generation": "1"
     },
@@ -1607,7 +1760,8 @@
         "HP": "80",
         "Attack": "105",
         "Defense": "65",
-        "Sp.Def": "75",
+        "SpAtk": "60",
+        "SpDef": "75",
         "Speed": "130",
         "Generation": "1"
     },
@@ -1618,7 +1772,8 @@
         "HP": "80",
         "Attack": "135",
         "Defense": "85",
-        "Sp.Def": "95",
+        "SpAtk": "70",
+        "SpDef": "95",
         "Speed": "150",
         "Generation": "1"
     },
@@ -1628,7 +1783,8 @@
         "HP": "160",
         "Attack": "110",
         "Defense": "65",
-        "Sp.Def": "110",
+        "SpAtk": "65",
+        "SpDef": "110",
         "Speed": "30",
         "Generation": "1"
     },
@@ -1639,7 +1795,8 @@
         "HP": "90",
         "Attack": "85",
         "Defense": "100",
-        "Sp.Def": "125",
+        "SpAtk": "95",
+        "SpDef": "125",
         "Speed": "85",
         "Generation": "1"
     },
@@ -1650,7 +1807,8 @@
         "HP": "90",
         "Attack": "90",
         "Defense": "85",
-        "Sp.Def": "90",
+        "SpAtk": "125",
+        "SpDef": "90",
         "Speed": "100",
         "Generation": "1"
     },
@@ -1661,7 +1819,8 @@
         "HP": "90",
         "Attack": "100",
         "Defense": "90",
-        "Sp.Def": "85",
+        "SpAtk": "125",
+        "SpDef": "85",
         "Speed": "90",
         "Generation": "1"
     },
@@ -1671,7 +1830,8 @@
         "HP": "41",
         "Attack": "64",
         "Defense": "45",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "50",
         "Generation": "1"
     },
@@ -1681,7 +1841,8 @@
         "HP": "61",
         "Attack": "84",
         "Defense": "65",
-        "Sp.Def": "70",
+        "SpAtk": "70",
+        "SpDef": "70",
         "Speed": "70",
         "Generation": "1"
     },
@@ -1692,7 +1853,8 @@
         "HP": "91",
         "Attack": "134",
         "Defense": "95",
-        "Sp.Def": "100",
+        "SpAtk": "100",
+        "SpDef": "100",
         "Speed": "80",
         "Generation": "1"
     },
@@ -1702,7 +1864,8 @@
         "HP": "106",
         "Attack": "110",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "154",
+        "SpDef": "90",
         "Speed": "130",
         "Generation": "1"
     },
@@ -1713,7 +1876,8 @@
         "HP": "106",
         "Attack": "190",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "154",
+        "SpDef": "100",
         "Speed": "130",
         "Generation": "1"
     },
@@ -1723,7 +1887,8 @@
         "HP": "106",
         "Attack": "150",
         "Defense": "70",
-        "Sp.Def": "120",
+        "SpAtk": "194",
+        "SpDef": "120",
         "Speed": "140",
         "Generation": "1"
     },
@@ -1733,7 +1898,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "100",
+        "SpDef": "100",
         "Speed": "100",
         "Generation": "1"
     },
@@ -1743,7 +1909,8 @@
         "HP": "45",
         "Attack": "49",
         "Defense": "65",
-        "Sp.Def": "65",
+        "SpAtk": "49",
+        "SpDef": "65",
         "Speed": "45",
         "Generation": "2"
     },
@@ -1753,7 +1920,8 @@
         "HP": "60",
         "Attack": "62",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "63",
+        "SpDef": "80",
         "Speed": "60",
         "Generation": "2"
     },
@@ -1763,7 +1931,8 @@
         "HP": "80",
         "Attack": "82",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "83",
+        "SpDef": "100",
         "Speed": "80",
         "Generation": "2"
     },
@@ -1773,7 +1942,8 @@
         "HP": "39",
         "Attack": "52",
         "Defense": "43",
-        "Sp.Def": "50",
+        "SpAtk": "60",
+        "SpDef": "50",
         "Speed": "65",
         "Generation": "2"
     },
@@ -1783,7 +1953,8 @@
         "HP": "58",
         "Attack": "64",
         "Defense": "58",
-        "Sp.Def": "65",
+        "SpAtk": "80",
+        "SpDef": "65",
         "Speed": "80",
         "Generation": "2"
     },
@@ -1793,7 +1964,8 @@
         "HP": "78",
         "Attack": "84",
         "Defense": "78",
-        "Sp.Def": "85",
+        "SpAtk": "109",
+        "SpDef": "85",
         "Speed": "100",
         "Generation": "2"
     },
@@ -1803,7 +1975,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "64",
-        "Sp.Def": "48",
+        "SpAtk": "44",
+        "SpDef": "48",
         "Speed": "43",
         "Generation": "2"
     },
@@ -1813,7 +1986,8 @@
         "HP": "65",
         "Attack": "80",
         "Defense": "80",
-        "Sp.Def": "63",
+        "SpAtk": "59",
+        "SpDef": "63",
         "Speed": "58",
         "Generation": "2"
     },
@@ -1823,7 +1997,8 @@
         "HP": "85",
         "Attack": "105",
         "Defense": "100",
-        "Sp.Def": "83",
+        "SpAtk": "79",
+        "SpDef": "83",
         "Speed": "78",
         "Generation": "2"
     },
@@ -1833,7 +2008,8 @@
         "HP": "35",
         "Attack": "46",
         "Defense": "34",
-        "Sp.Def": "45",
+        "SpAtk": "35",
+        "SpDef": "45",
         "Speed": "20",
         "Generation": "2"
     },
@@ -1843,7 +2019,8 @@
         "HP": "85",
         "Attack": "76",
         "Defense": "64",
-        "Sp.Def": "55",
+        "SpAtk": "45",
+        "SpDef": "55",
         "Speed": "90",
         "Generation": "2"
     },
@@ -1854,7 +2031,8 @@
         "HP": "60",
         "Attack": "30",
         "Defense": "30",
-        "Sp.Def": "56",
+        "SpAtk": "36",
+        "SpDef": "56",
         "Speed": "50",
         "Generation": "2"
     },
@@ -1865,7 +2043,8 @@
         "HP": "100",
         "Attack": "50",
         "Defense": "50",
-        "Sp.Def": "96",
+        "SpAtk": "76",
+        "SpDef": "96",
         "Speed": "70",
         "Generation": "2"
     },
@@ -1876,7 +2055,8 @@
         "HP": "40",
         "Attack": "20",
         "Defense": "30",
-        "Sp.Def": "80",
+        "SpAtk": "40",
+        "SpDef": "80",
         "Speed": "55",
         "Generation": "2"
     },
@@ -1887,7 +2067,8 @@
         "HP": "55",
         "Attack": "35",
         "Defense": "50",
-        "Sp.Def": "110",
+        "SpAtk": "55",
+        "SpDef": "110",
         "Speed": "85",
         "Generation": "2"
     },
@@ -1898,7 +2079,8 @@
         "HP": "40",
         "Attack": "60",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "30",
         "Generation": "2"
     },
@@ -1909,7 +2091,8 @@
         "HP": "70",
         "Attack": "90",
         "Defense": "70",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "40",
         "Generation": "2"
     },
@@ -1920,7 +2103,8 @@
         "HP": "85",
         "Attack": "90",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "70",
+        "SpDef": "80",
         "Speed": "130",
         "Generation": "2"
     },
@@ -1931,7 +2115,8 @@
         "HP": "75",
         "Attack": "38",
         "Defense": "38",
-        "Sp.Def": "56",
+        "SpAtk": "56",
+        "SpDef": "56",
         "Speed": "67",
         "Generation": "2"
     },
@@ -1942,7 +2127,8 @@
         "HP": "125",
         "Attack": "58",
         "Defense": "58",
-        "Sp.Def": "76",
+        "SpAtk": "76",
+        "SpDef": "76",
         "Speed": "67",
         "Generation": "2"
     },
@@ -1952,7 +2138,8 @@
         "HP": "20",
         "Attack": "40",
         "Defense": "15",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "60",
         "Generation": "2"
     },
@@ -1962,7 +2149,8 @@
         "HP": "50",
         "Attack": "25",
         "Defense": "28",
-        "Sp.Def": "55",
+        "SpAtk": "45",
+        "SpDef": "55",
         "Speed": "15",
         "Generation": "2"
     },
@@ -1973,7 +2161,8 @@
         "HP": "90",
         "Attack": "30",
         "Defense": "15",
-        "Sp.Def": "20",
+        "SpAtk": "40",
+        "SpDef": "20",
         "Speed": "15",
         "Generation": "2"
     },
@@ -1983,7 +2172,8 @@
         "HP": "35",
         "Attack": "20",
         "Defense": "65",
-        "Sp.Def": "65",
+        "SpAtk": "40",
+        "SpDef": "65",
         "Speed": "20",
         "Generation": "2"
     },
@@ -1994,7 +2184,8 @@
         "HP": "55",
         "Attack": "40",
         "Defense": "85",
-        "Sp.Def": "105",
+        "SpAtk": "80",
+        "SpDef": "105",
         "Speed": "40",
         "Generation": "2"
     },
@@ -2005,7 +2196,8 @@
         "HP": "40",
         "Attack": "50",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "70",
+        "SpDef": "45",
         "Speed": "70",
         "Generation": "2"
     },
@@ -2016,7 +2208,8 @@
         "HP": "65",
         "Attack": "75",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "95",
+        "SpDef": "70",
         "Speed": "95",
         "Generation": "2"
     },
@@ -2026,7 +2219,8 @@
         "HP": "55",
         "Attack": "40",
         "Defense": "40",
-        "Sp.Def": "45",
+        "SpAtk": "65",
+        "SpDef": "45",
         "Speed": "35",
         "Generation": "2"
     },
@@ -2036,7 +2230,8 @@
         "HP": "70",
         "Attack": "55",
         "Defense": "55",
-        "Sp.Def": "60",
+        "SpAtk": "80",
+        "SpDef": "60",
         "Speed": "45",
         "Generation": "2"
     },
@@ -2046,7 +2241,8 @@
         "HP": "90",
         "Attack": "75",
         "Defense": "85",
-        "Sp.Def": "90",
+        "SpAtk": "115",
+        "SpDef": "90",
         "Speed": "55",
         "Generation": "2"
     },
@@ -2057,7 +2253,8 @@
         "HP": "90",
         "Attack": "95",
         "Defense": "105",
-        "Sp.Def": "110",
+        "SpAtk": "165",
+        "SpDef": "110",
         "Speed": "45",
         "Generation": "2"
     },
@@ -2067,7 +2264,8 @@
         "HP": "75",
         "Attack": "80",
         "Defense": "95",
-        "Sp.Def": "100",
+        "SpAtk": "90",
+        "SpDef": "100",
         "Speed": "50",
         "Generation": "2"
     },
@@ -2078,7 +2276,8 @@
         "HP": "70",
         "Attack": "20",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "20",
+        "SpDef": "50",
         "Speed": "40",
         "Generation": "2"
     },
@@ -2089,7 +2288,8 @@
         "HP": "100",
         "Attack": "50",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "60",
+        "SpDef": "80",
         "Speed": "50",
         "Generation": "2"
     },
@@ -2099,7 +2299,8 @@
         "HP": "70",
         "Attack": "100",
         "Defense": "115",
-        "Sp.Def": "65",
+        "SpAtk": "30",
+        "SpDef": "65",
         "Speed": "30",
         "Generation": "2"
     },
@@ -2109,7 +2310,8 @@
         "HP": "90",
         "Attack": "75",
         "Defense": "75",
-        "Sp.Def": "100",
+        "SpAtk": "90",
+        "SpDef": "100",
         "Speed": "70",
         "Generation": "2"
     },
@@ -2120,7 +2322,8 @@
         "HP": "35",
         "Attack": "35",
         "Defense": "40",
-        "Sp.Def": "55",
+        "SpAtk": "35",
+        "SpDef": "55",
         "Speed": "50",
         "Generation": "2"
     },
@@ -2131,7 +2334,8 @@
         "HP": "55",
         "Attack": "45",
         "Defense": "50",
-        "Sp.Def": "65",
+        "SpAtk": "45",
+        "SpDef": "65",
         "Speed": "80",
         "Generation": "2"
     },
@@ -2142,7 +2346,8 @@
         "HP": "75",
         "Attack": "55",
         "Defense": "70",
-        "Sp.Def": "95",
+        "SpAtk": "55",
+        "SpDef": "95",
         "Speed": "110",
         "Generation": "2"
     },
@@ -2152,7 +2357,8 @@
         "HP": "55",
         "Attack": "70",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "40",
+        "SpDef": "55",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2162,7 +2368,8 @@
         "HP": "30",
         "Attack": "30",
         "Defense": "30",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "30",
         "Generation": "2"
     },
@@ -2172,7 +2379,8 @@
         "HP": "75",
         "Attack": "75",
         "Defense": "55",
-        "Sp.Def": "85",
+        "SpAtk": "105",
+        "SpDef": "85",
         "Speed": "30",
         "Generation": "2"
     },
@@ -2183,7 +2391,8 @@
         "HP": "65",
         "Attack": "65",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "75",
+        "SpDef": "45",
         "Speed": "95",
         "Generation": "2"
     },
@@ -2194,7 +2403,8 @@
         "HP": "55",
         "Attack": "45",
         "Defense": "45",
-        "Sp.Def": "25",
+        "SpAtk": "25",
+        "SpDef": "25",
         "Speed": "15",
         "Generation": "2"
     },
@@ -2205,7 +2415,8 @@
         "HP": "95",
         "Attack": "85",
         "Defense": "85",
-        "Sp.Def": "65",
+        "SpAtk": "65",
+        "SpDef": "65",
         "Speed": "35",
         "Generation": "2"
     },
@@ -2215,7 +2426,8 @@
         "HP": "65",
         "Attack": "65",
         "Defense": "60",
-        "Sp.Def": "95",
+        "SpAtk": "130",
+        "SpDef": "95",
         "Speed": "110",
         "Generation": "2"
     },
@@ -2225,7 +2437,8 @@
         "HP": "95",
         "Attack": "65",
         "Defense": "110",
-        "Sp.Def": "130",
+        "SpAtk": "60",
+        "SpDef": "130",
         "Speed": "65",
         "Generation": "2"
     },
@@ -2236,7 +2449,8 @@
         "HP": "60",
         "Attack": "85",
         "Defense": "42",
-        "Sp.Def": "42",
+        "SpAtk": "85",
+        "SpDef": "42",
         "Speed": "91",
         "Generation": "2"
     },
@@ -2247,7 +2461,8 @@
         "HP": "95",
         "Attack": "75",
         "Defense": "80",
-        "Sp.Def": "110",
+        "SpAtk": "100",
+        "SpDef": "110",
         "Speed": "30",
         "Generation": "2"
     },
@@ -2257,7 +2472,8 @@
         "HP": "60",
         "Attack": "60",
         "Defense": "60",
-        "Sp.Def": "85",
+        "SpAtk": "85",
+        "SpDef": "85",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2267,7 +2483,8 @@
         "HP": "48",
         "Attack": "72",
         "Defense": "48",
-        "Sp.Def": "48",
+        "SpAtk": "72",
+        "SpDef": "48",
         "Speed": "48",
         "Generation": "2"
     },
@@ -2277,7 +2494,8 @@
         "HP": "190",
         "Attack": "33",
         "Defense": "58",
-        "Sp.Def": "58",
+        "SpAtk": "33",
+        "SpDef": "58",
         "Speed": "33",
         "Generation": "2"
     },
@@ -2288,7 +2506,8 @@
         "HP": "70",
         "Attack": "80",
         "Defense": "65",
-        "Sp.Def": "65",
+        "SpAtk": "90",
+        "SpDef": "65",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2298,7 +2517,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "90",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "15",
         "Generation": "2"
     },
@@ -2309,7 +2529,8 @@
         "HP": "75",
         "Attack": "90",
         "Defense": "140",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "40",
         "Generation": "2"
     },
@@ -2319,7 +2540,8 @@
         "HP": "100",
         "Attack": "70",
         "Defense": "70",
-        "Sp.Def": "65",
+        "SpAtk": "65",
+        "SpDef": "65",
         "Speed": "45",
         "Generation": "2"
     },
@@ -2330,7 +2552,8 @@
         "HP": "65",
         "Attack": "75",
         "Defense": "105",
-        "Sp.Def": "65",
+        "SpAtk": "35",
+        "SpDef": "65",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2341,7 +2564,8 @@
         "HP": "75",
         "Attack": "85",
         "Defense": "200",
-        "Sp.Def": "65",
+        "SpAtk": "55",
+        "SpDef": "65",
         "Speed": "30",
         "Generation": "2"
     },
@@ -2352,7 +2576,8 @@
         "HP": "75",
         "Attack": "125",
         "Defense": "230",
-        "Sp.Def": "95",
+        "SpAtk": "55",
+        "SpDef": "95",
         "Speed": "30",
         "Generation": "2"
     },
@@ -2362,7 +2587,8 @@
         "HP": "60",
         "Attack": "80",
         "Defense": "50",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "30",
         "Generation": "2"
     },
@@ -2372,7 +2598,8 @@
         "HP": "90",
         "Attack": "120",
         "Defense": "75",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "45",
         "Generation": "2"
     },
@@ -2383,7 +2610,8 @@
         "HP": "65",
         "Attack": "95",
         "Defense": "75",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2394,7 +2622,8 @@
         "HP": "70",
         "Attack": "130",
         "Defense": "100",
-        "Sp.Def": "80",
+        "SpAtk": "55",
+        "SpDef": "80",
         "Speed": "65",
         "Generation": "2"
     },
@@ -2405,7 +2634,8 @@
         "HP": "70",
         "Attack": "150",
         "Defense": "140",
-        "Sp.Def": "100",
+        "SpAtk": "65",
+        "SpDef": "100",
         "Speed": "75",
         "Generation": "2"
     },
@@ -2416,7 +2646,8 @@
         "HP": "20",
         "Attack": "10",
         "Defense": "230",
-        "Sp.Def": "230",
+        "SpAtk": "10",
+        "SpDef": "230",
         "Speed": "5",
         "Generation": "2"
     },
@@ -2427,7 +2658,8 @@
         "HP": "80",
         "Attack": "125",
         "Defense": "75",
-        "Sp.Def": "95",
+        "SpAtk": "40",
+        "SpDef": "95",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2438,7 +2670,8 @@
         "HP": "80",
         "Attack": "185",
         "Defense": "115",
-        "Sp.Def": "105",
+        "SpAtk": "40",
+        "SpDef": "105",
         "Speed": "75",
         "Generation": "2"
     },
@@ -2449,7 +2682,8 @@
         "HP": "55",
         "Attack": "95",
         "Defense": "55",
-        "Sp.Def": "75",
+        "SpAtk": "35",
+        "SpDef": "75",
         "Speed": "115",
         "Generation": "2"
     },
@@ -2459,7 +2693,8 @@
         "HP": "60",
         "Attack": "80",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "40",
         "Generation": "2"
     },
@@ -2469,7 +2704,8 @@
         "HP": "90",
         "Attack": "130",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "75",
+        "SpDef": "75",
         "Speed": "55",
         "Generation": "2"
     },
@@ -2479,7 +2715,8 @@
         "HP": "40",
         "Attack": "40",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "70",
+        "SpDef": "40",
         "Speed": "20",
         "Generation": "2"
     },
@@ -2490,7 +2727,8 @@
         "HP": "50",
         "Attack": "50",
         "Defense": "120",
-        "Sp.Def": "80",
+        "SpAtk": "80",
+        "SpDef": "80",
         "Speed": "30",
         "Generation": "2"
     },
@@ -2501,7 +2739,8 @@
         "HP": "50",
         "Attack": "50",
         "Defense": "40",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "50",
         "Generation": "2"
     },
@@ -2512,7 +2751,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "80",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "50",
         "Generation": "2"
     },
@@ -2523,7 +2763,8 @@
         "HP": "55",
         "Attack": "55",
         "Defense": "85",
-        "Sp.Def": "85",
+        "SpAtk": "65",
+        "SpDef": "85",
         "Speed": "35",
         "Generation": "2"
     },
@@ -2533,7 +2774,8 @@
         "HP": "35",
         "Attack": "65",
         "Defense": "35",
-        "Sp.Def": "35",
+        "SpAtk": "65",
+        "SpDef": "35",
         "Speed": "65",
         "Generation": "2"
     },
@@ -2543,7 +2785,8 @@
         "HP": "75",
         "Attack": "105",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "105",
+        "SpDef": "75",
         "Speed": "45",
         "Generation": "2"
     },
@@ -2554,7 +2797,8 @@
         "HP": "45",
         "Attack": "55",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "65",
+        "SpDef": "45",
         "Speed": "75",
         "Generation": "2"
     },
@@ -2565,7 +2809,8 @@
         "HP": "65",
         "Attack": "40",
         "Defense": "70",
-        "Sp.Def": "140",
+        "SpAtk": "80",
+        "SpDef": "140",
         "Speed": "70",
         "Generation": "2"
     },
@@ -2576,7 +2821,8 @@
         "HP": "65",
         "Attack": "80",
         "Defense": "140",
-        "Sp.Def": "70",
+        "SpAtk": "40",
+        "SpDef": "70",
         "Speed": "70",
         "Generation": "2"
     },
@@ -2587,7 +2833,8 @@
         "HP": "45",
         "Attack": "60",
         "Defense": "30",
-        "Sp.Def": "50",
+        "SpAtk": "80",
+        "SpDef": "50",
         "Speed": "65",
         "Generation": "2"
     },
@@ -2598,7 +2845,8 @@
         "HP": "75",
         "Attack": "90",
         "Defense": "50",
-        "Sp.Def": "80",
+        "SpAtk": "110",
+        "SpDef": "80",
         "Speed": "95",
         "Generation": "2"
     },
@@ -2609,7 +2857,8 @@
         "HP": "75",
         "Attack": "90",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "140",
+        "SpDef": "90",
         "Speed": "115",
         "Generation": "2"
     },
@@ -2620,7 +2869,8 @@
         "HP": "75",
         "Attack": "95",
         "Defense": "95",
-        "Sp.Def": "95",
+        "SpAtk": "95",
+        "SpDef": "95",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2630,7 +2880,8 @@
         "HP": "90",
         "Attack": "60",
         "Defense": "60",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "40",
         "Generation": "2"
     },
@@ -2640,7 +2891,8 @@
         "HP": "90",
         "Attack": "120",
         "Defense": "120",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "50",
         "Generation": "2"
     },
@@ -2650,7 +2902,8 @@
         "HP": "85",
         "Attack": "80",
         "Defense": "90",
-        "Sp.Def": "95",
+        "SpAtk": "105",
+        "SpDef": "95",
         "Speed": "60",
         "Generation": "2"
     },
@@ -2660,7 +2913,8 @@
         "HP": "73",
         "Attack": "95",
         "Defense": "62",
-        "Sp.Def": "65",
+        "SpAtk": "85",
+        "SpDef": "65",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2670,7 +2924,8 @@
         "HP": "55",
         "Attack": "20",
         "Defense": "35",
-        "Sp.Def": "45",
+        "SpAtk": "20",
+        "SpDef": "45",
         "Speed": "75",
         "Generation": "2"
     },
@@ -2680,7 +2935,8 @@
         "HP": "35",
         "Attack": "35",
         "Defense": "35",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "35",
         "Generation": "2"
     },
@@ -2690,7 +2946,8 @@
         "HP": "50",
         "Attack": "95",
         "Defense": "95",
-        "Sp.Def": "110",
+        "SpAtk": "35",
+        "SpDef": "110",
         "Speed": "70",
         "Generation": "2"
     },
@@ -2701,7 +2958,8 @@
         "HP": "45",
         "Attack": "30",
         "Defense": "15",
-        "Sp.Def": "65",
+        "SpAtk": "85",
+        "SpDef": "65",
         "Speed": "65",
         "Generation": "2"
     },
@@ -2711,7 +2969,8 @@
         "HP": "45",
         "Attack": "63",
         "Defense": "37",
-        "Sp.Def": "55",
+        "SpAtk": "65",
+        "SpDef": "55",
         "Speed": "95",
         "Generation": "2"
     },
@@ -2721,7 +2980,8 @@
         "HP": "45",
         "Attack": "75",
         "Defense": "37",
-        "Sp.Def": "55",
+        "SpAtk": "70",
+        "SpDef": "55",
         "Speed": "83",
         "Generation": "2"
     },
@@ -2731,7 +2991,8 @@
         "HP": "95",
         "Attack": "80",
         "Defense": "105",
-        "Sp.Def": "70",
+        "SpAtk": "40",
+        "SpDef": "70",
         "Speed": "100",
         "Generation": "2"
     },
@@ -2741,7 +3002,8 @@
         "HP": "255",
         "Attack": "10",
         "Defense": "10",
-        "Sp.Def": "135",
+        "SpAtk": "75",
+        "SpDef": "135",
         "Speed": "55",
         "Generation": "2"
     },
@@ -2751,7 +3013,8 @@
         "HP": "90",
         "Attack": "85",
         "Defense": "75",
-        "Sp.Def": "100",
+        "SpAtk": "115",
+        "SpDef": "100",
         "Speed": "115",
         "Generation": "2"
     },
@@ -2761,7 +3024,8 @@
         "HP": "115",
         "Attack": "115",
         "Defense": "85",
-        "Sp.Def": "75",
+        "SpAtk": "90",
+        "SpDef": "75",
         "Speed": "100",
         "Generation": "2"
     },
@@ -2771,7 +3035,8 @@
         "HP": "100",
         "Attack": "75",
         "Defense": "115",
-        "Sp.Def": "115",
+        "SpAtk": "90",
+        "SpDef": "115",
         "Speed": "85",
         "Generation": "2"
     },
@@ -2782,7 +3047,8 @@
         "HP": "50",
         "Attack": "64",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "45",
+        "SpDef": "50",
         "Speed": "41",
         "Generation": "2"
     },
@@ -2793,7 +3059,8 @@
         "HP": "70",
         "Attack": "84",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "65",
+        "SpDef": "70",
         "Speed": "51",
         "Generation": "2"
     },
@@ -2804,7 +3071,8 @@
         "HP": "100",
         "Attack": "134",
         "Defense": "110",
-        "Sp.Def": "100",
+        "SpAtk": "95",
+        "SpDef": "100",
         "Speed": "61",
         "Generation": "2"
     },
@@ -2815,7 +3083,8 @@
         "HP": "100",
         "Attack": "164",
         "Defense": "150",
-        "Sp.Def": "120",
+        "SpAtk": "95",
+        "SpDef": "120",
         "Speed": "71",
         "Generation": "2"
     },
@@ -2826,7 +3095,8 @@
         "HP": "106",
         "Attack": "90",
         "Defense": "130",
-        "Sp.Def": "154",
+        "SpAtk": "90",
+        "SpDef": "154",
         "Speed": "110",
         "Generation": "2"
     },
@@ -2837,7 +3107,8 @@
         "HP": "106",
         "Attack": "130",
         "Defense": "90",
-        "Sp.Def": "154",
+        "SpAtk": "110",
+        "SpDef": "154",
         "Speed": "90",
         "Generation": "2"
     },
@@ -2848,7 +3119,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "100",
+        "SpDef": "100",
         "Speed": "100",
         "Generation": "2"
     },
@@ -2858,7 +3130,8 @@
         "HP": "40",
         "Attack": "45",
         "Defense": "35",
-        "Sp.Def": "55",
+        "SpAtk": "65",
+        "SpDef": "55",
         "Speed": "70",
         "Generation": "3"
     },
@@ -2868,7 +3141,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "45",
-        "Sp.Def": "65",
+        "SpAtk": "85",
+        "SpDef": "65",
         "Speed": "95",
         "Generation": "3"
     },
@@ -2878,7 +3152,8 @@
         "HP": "70",
         "Attack": "85",
         "Defense": "65",
-        "Sp.Def": "85",
+        "SpAtk": "105",
+        "SpDef": "85",
         "Speed": "120",
         "Generation": "3"
     },
@@ -2889,7 +3164,8 @@
         "HP": "70",
         "Attack": "110",
         "Defense": "75",
-        "Sp.Def": "85",
+        "SpAtk": "145",
+        "SpDef": "85",
         "Speed": "145",
         "Generation": "3"
     },
@@ -2899,7 +3175,8 @@
         "HP": "45",
         "Attack": "60",
         "Defense": "40",
-        "Sp.Def": "50",
+        "SpAtk": "70",
+        "SpDef": "50",
         "Speed": "45",
         "Generation": "3"
     },
@@ -2910,7 +3187,8 @@
         "HP": "60",
         "Attack": "85",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "85",
+        "SpDef": "60",
         "Speed": "55",
         "Generation": "3"
     },
@@ -2921,7 +3199,8 @@
         "HP": "80",
         "Attack": "120",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "110",
+        "SpDef": "70",
         "Speed": "80",
         "Generation": "3"
     },
@@ -2932,7 +3211,8 @@
         "HP": "80",
         "Attack": "160",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "130",
+        "SpDef": "80",
         "Speed": "100",
         "Generation": "3"
     },
@@ -2942,7 +3222,8 @@
         "HP": "50",
         "Attack": "70",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "40",
         "Generation": "3"
     },
@@ -2953,7 +3234,8 @@
         "HP": "70",
         "Attack": "85",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "60",
+        "SpDef": "70",
         "Speed": "50",
         "Generation": "3"
     },
@@ -2964,7 +3246,8 @@
         "HP": "100",
         "Attack": "110",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "85",
+        "SpDef": "90",
         "Speed": "60",
         "Generation": "3"
     },
@@ -2975,7 +3258,8 @@
         "HP": "100",
         "Attack": "150",
         "Defense": "110",
-        "Sp.Def": "110",
+        "SpAtk": "95",
+        "SpDef": "110",
         "Speed": "70",
         "Generation": "3"
     },
@@ -2985,7 +3269,8 @@
         "HP": "35",
         "Attack": "55",
         "Defense": "35",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "35",
         "Generation": "3"
     },
@@ -2995,7 +3280,8 @@
         "HP": "70",
         "Attack": "90",
         "Defense": "70",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "70",
         "Generation": "3"
     },
@@ -3005,7 +3291,8 @@
         "HP": "38",
         "Attack": "30",
         "Defense": "41",
-        "Sp.Def": "41",
+        "SpAtk": "30",
+        "SpDef": "41",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3015,7 +3302,8 @@
         "HP": "78",
         "Attack": "70",
         "Defense": "61",
-        "Sp.Def": "61",
+        "SpAtk": "50",
+        "SpDef": "61",
         "Speed": "100",
         "Generation": "3"
     },
@@ -3025,7 +3313,8 @@
         "HP": "45",
         "Attack": "45",
         "Defense": "35",
-        "Sp.Def": "30",
+        "SpAtk": "20",
+        "SpDef": "30",
         "Speed": "20",
         "Generation": "3"
     },
@@ -3035,7 +3324,8 @@
         "HP": "50",
         "Attack": "35",
         "Defense": "55",
-        "Sp.Def": "25",
+        "SpAtk": "25",
+        "SpDef": "25",
         "Speed": "15",
         "Generation": "3"
     },
@@ -3046,7 +3336,8 @@
         "HP": "60",
         "Attack": "70",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "100",
+        "SpDef": "50",
         "Speed": "65",
         "Generation": "3"
     },
@@ -3056,7 +3347,8 @@
         "HP": "50",
         "Attack": "35",
         "Defense": "55",
-        "Sp.Def": "25",
+        "SpAtk": "25",
+        "SpDef": "25",
         "Speed": "15",
         "Generation": "3"
     },
@@ -3067,7 +3359,8 @@
         "HP": "60",
         "Attack": "50",
         "Defense": "70",
-        "Sp.Def": "90",
+        "SpAtk": "50",
+        "SpDef": "90",
         "Speed": "65",
         "Generation": "3"
     },
@@ -3078,7 +3371,8 @@
         "HP": "40",
         "Attack": "30",
         "Defense": "30",
-        "Sp.Def": "50",
+        "SpAtk": "40",
+        "SpDef": "50",
         "Speed": "30",
         "Generation": "3"
     },
@@ -3089,7 +3383,8 @@
         "HP": "60",
         "Attack": "50",
         "Defense": "50",
-        "Sp.Def": "70",
+        "SpAtk": "60",
+        "SpDef": "70",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3100,7 +3395,8 @@
         "HP": "80",
         "Attack": "70",
         "Defense": "70",
-        "Sp.Def": "100",
+        "SpAtk": "90",
+        "SpDef": "100",
         "Speed": "70",
         "Generation": "3"
     },
@@ -3110,7 +3406,8 @@
         "HP": "40",
         "Attack": "40",
         "Defense": "50",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "30",
         "Generation": "3"
     },
@@ -3121,7 +3418,8 @@
         "HP": "70",
         "Attack": "70",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "60",
+        "SpDef": "40",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3132,7 +3430,8 @@
         "HP": "90",
         "Attack": "100",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "90",
+        "SpDef": "60",
         "Speed": "80",
         "Generation": "3"
     },
@@ -3143,7 +3442,8 @@
         "HP": "40",
         "Attack": "55",
         "Defense": "30",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "85",
         "Generation": "3"
     },
@@ -3154,7 +3454,8 @@
         "HP": "60",
         "Attack": "85",
         "Defense": "60",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "125",
         "Generation": "3"
     },
@@ -3165,7 +3466,8 @@
         "HP": "40",
         "Attack": "30",
         "Defense": "30",
-        "Sp.Def": "30",
+        "SpAtk": "55",
+        "SpDef": "30",
         "Speed": "85",
         "Generation": "3"
     },
@@ -3176,7 +3478,8 @@
         "HP": "60",
         "Attack": "50",
         "Defense": "100",
-        "Sp.Def": "70",
+        "SpAtk": "85",
+        "SpDef": "70",
         "Speed": "65",
         "Generation": "3"
     },
@@ -3187,7 +3490,8 @@
         "HP": "28",
         "Attack": "25",
         "Defense": "25",
-        "Sp.Def": "35",
+        "SpAtk": "45",
+        "SpDef": "35",
         "Speed": "40",
         "Generation": "3"
     },
@@ -3198,7 +3502,8 @@
         "HP": "38",
         "Attack": "35",
         "Defense": "35",
-        "Sp.Def": "55",
+        "SpAtk": "65",
+        "SpDef": "55",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3209,7 +3514,8 @@
         "HP": "68",
         "Attack": "65",
         "Defense": "65",
-        "Sp.Def": "115",
+        "SpAtk": "125",
+        "SpDef": "115",
         "Speed": "80",
         "Generation": "3"
     },
@@ -3220,7 +3526,8 @@
         "HP": "68",
         "Attack": "85",
         "Defense": "65",
-        "Sp.Def": "135",
+        "SpAtk": "165",
+        "SpDef": "135",
         "Speed": "100",
         "Generation": "3"
     },
@@ -3231,7 +3538,8 @@
         "HP": "40",
         "Attack": "30",
         "Defense": "32",
-        "Sp.Def": "52",
+        "SpAtk": "50",
+        "SpDef": "52",
         "Speed": "65",
         "Generation": "3"
     },
@@ -3242,7 +3550,8 @@
         "HP": "70",
         "Attack": "60",
         "Defense": "62",
-        "Sp.Def": "82",
+        "SpAtk": "80",
+        "SpDef": "82",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3252,7 +3561,8 @@
         "HP": "60",
         "Attack": "40",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "40",
+        "SpDef": "60",
         "Speed": "35",
         "Generation": "3"
     },
@@ -3263,7 +3573,8 @@
         "HP": "60",
         "Attack": "130",
         "Defense": "80",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "70",
         "Generation": "3"
     },
@@ -3273,7 +3584,8 @@
         "HP": "60",
         "Attack": "60",
         "Defense": "60",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "30",
         "Generation": "3"
     },
@@ -3283,7 +3595,8 @@
         "HP": "80",
         "Attack": "80",
         "Defense": "80",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "90",
         "Generation": "3"
     },
@@ -3293,7 +3606,8 @@
         "HP": "150",
         "Attack": "160",
         "Defense": "100",
-        "Sp.Def": "65",
+        "SpAtk": "95",
+        "SpDef": "65",
         "Speed": "100",
         "Generation": "3"
     },
@@ -3304,7 +3618,8 @@
         "HP": "31",
         "Attack": "45",
         "Defense": "90",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "40",
         "Generation": "3"
     },
@@ -3315,7 +3630,8 @@
         "HP": "61",
         "Attack": "90",
         "Defense": "45",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "160",
         "Generation": "3"
     },
@@ -3326,7 +3642,8 @@
         "HP": "1",
         "Attack": "90",
         "Defense": "45",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "40",
         "Generation": "3"
     },
@@ -3336,7 +3653,8 @@
         "HP": "64",
         "Attack": "51",
         "Defense": "23",
-        "Sp.Def": "23",
+        "SpAtk": "51",
+        "SpDef": "23",
         "Speed": "28",
         "Generation": "3"
     },
@@ -3346,7 +3664,8 @@
         "HP": "84",
         "Attack": "71",
         "Defense": "43",
-        "Sp.Def": "43",
+        "SpAtk": "71",
+        "SpDef": "43",
         "Speed": "48",
         "Generation": "3"
     },
@@ -3356,7 +3675,8 @@
         "HP": "104",
         "Attack": "91",
         "Defense": "63",
-        "Sp.Def": "73",
+        "SpAtk": "91",
+        "SpDef": "73",
         "Speed": "68",
         "Generation": "3"
     },
@@ -3366,7 +3686,8 @@
         "HP": "72",
         "Attack": "60",
         "Defense": "30",
-        "Sp.Def": "30",
+        "SpAtk": "20",
+        "SpDef": "30",
         "Speed": "25",
         "Generation": "3"
     },
@@ -3376,7 +3697,8 @@
         "HP": "144",
         "Attack": "120",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "40",
+        "SpDef": "60",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3387,7 +3709,8 @@
         "HP": "50",
         "Attack": "20",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "20",
+        "SpDef": "40",
         "Speed": "20",
         "Generation": "3"
     },
@@ -3397,7 +3720,8 @@
         "HP": "30",
         "Attack": "45",
         "Defense": "135",
-        "Sp.Def": "90",
+        "SpAtk": "45",
+        "SpDef": "90",
         "Speed": "30",
         "Generation": "3"
     },
@@ -3407,7 +3731,8 @@
         "HP": "50",
         "Attack": "45",
         "Defense": "45",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3417,7 +3742,8 @@
         "HP": "70",
         "Attack": "65",
         "Defense": "65",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "70",
         "Generation": "3"
     },
@@ -3428,7 +3754,8 @@
         "HP": "50",
         "Attack": "75",
         "Defense": "75",
-        "Sp.Def": "65",
+        "SpAtk": "65",
+        "SpDef": "65",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3439,7 +3766,8 @@
         "HP": "50",
         "Attack": "85",
         "Defense": "125",
-        "Sp.Def": "115",
+        "SpAtk": "85",
+        "SpDef": "115",
         "Speed": "20",
         "Generation": "3"
     },
@@ -3450,7 +3778,8 @@
         "HP": "50",
         "Attack": "85",
         "Defense": "85",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3461,7 +3790,8 @@
         "HP": "50",
         "Attack": "105",
         "Defense": "125",
-        "Sp.Def": "95",
+        "SpAtk": "55",
+        "SpDef": "95",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3472,7 +3802,8 @@
         "HP": "50",
         "Attack": "70",
         "Defense": "100",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "30",
         "Generation": "3"
     },
@@ -3483,7 +3814,8 @@
         "HP": "60",
         "Attack": "90",
         "Defense": "140",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "40",
         "Generation": "3"
     },
@@ -3494,7 +3826,8 @@
         "HP": "70",
         "Attack": "110",
         "Defense": "180",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3504,7 +3837,8 @@
         "HP": "70",
         "Attack": "140",
         "Defense": "230",
-        "Sp.Def": "80",
+        "SpAtk": "60",
+        "SpDef": "80",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3515,7 +3849,8 @@
         "HP": "30",
         "Attack": "40",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "40",
+        "SpDef": "55",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3526,7 +3861,8 @@
         "HP": "60",
         "Attack": "60",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "60",
+        "SpDef": "75",
         "Speed": "80",
         "Generation": "3"
     },
@@ -3537,7 +3873,8 @@
         "HP": "60",
         "Attack": "100",
         "Defense": "85",
-        "Sp.Def": "85",
+        "SpAtk": "80",
+        "SpDef": "85",
         "Speed": "100",
         "Generation": "3"
     },
@@ -3547,7 +3884,8 @@
         "HP": "40",
         "Attack": "45",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "65",
+        "SpDef": "40",
         "Speed": "65",
         "Generation": "3"
     },
@@ -3557,7 +3895,8 @@
         "HP": "70",
         "Attack": "75",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "105",
+        "SpDef": "60",
         "Speed": "105",
         "Generation": "3"
     },
@@ -3567,7 +3906,8 @@
         "HP": "70",
         "Attack": "75",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "135",
+        "SpDef": "80",
         "Speed": "135",
         "Generation": "3"
     },
@@ -3577,7 +3917,8 @@
         "HP": "60",
         "Attack": "50",
         "Defense": "40",
-        "Sp.Def": "75",
+        "SpAtk": "85",
+        "SpDef": "75",
         "Speed": "95",
         "Generation": "3"
     },
@@ -3587,7 +3928,8 @@
         "HP": "60",
         "Attack": "40",
         "Defense": "50",
-        "Sp.Def": "85",
+        "SpAtk": "75",
+        "SpDef": "85",
         "Speed": "95",
         "Generation": "3"
     },
@@ -3597,7 +3939,8 @@
         "HP": "65",
         "Attack": "73",
         "Defense": "55",
-        "Sp.Def": "75",
+        "SpAtk": "47",
+        "SpDef": "75",
         "Speed": "85",
         "Generation": "3"
     },
@@ -3607,7 +3950,8 @@
         "HP": "65",
         "Attack": "47",
         "Defense": "55",
-        "Sp.Def": "75",
+        "SpAtk": "73",
+        "SpDef": "75",
         "Speed": "85",
         "Generation": "3"
     },
@@ -3618,7 +3962,8 @@
         "HP": "50",
         "Attack": "60",
         "Defense": "45",
-        "Sp.Def": "80",
+        "SpAtk": "100",
+        "SpDef": "80",
         "Speed": "65",
         "Generation": "3"
     },
@@ -3628,7 +3973,8 @@
         "HP": "70",
         "Attack": "43",
         "Defense": "53",
-        "Sp.Def": "53",
+        "SpAtk": "43",
+        "SpDef": "53",
         "Speed": "40",
         "Generation": "3"
     },
@@ -3638,7 +3984,8 @@
         "HP": "100",
         "Attack": "73",
         "Defense": "83",
-        "Sp.Def": "83",
+        "SpAtk": "73",
+        "SpDef": "83",
         "Speed": "55",
         "Generation": "3"
     },
@@ -3649,7 +3996,8 @@
         "HP": "45",
         "Attack": "90",
         "Defense": "20",
-        "Sp.Def": "20",
+        "SpAtk": "65",
+        "SpDef": "20",
         "Speed": "65",
         "Generation": "3"
     },
@@ -3660,7 +4008,8 @@
         "HP": "70",
         "Attack": "120",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "95",
+        "SpDef": "40",
         "Speed": "95",
         "Generation": "3"
     },
@@ -3671,7 +4020,8 @@
         "HP": "70",
         "Attack": "140",
         "Defense": "70",
-        "Sp.Def": "65",
+        "SpAtk": "110",
+        "SpDef": "65",
         "Speed": "105",
         "Generation": "3"
     },
@@ -3681,7 +4031,8 @@
         "HP": "130",
         "Attack": "70",
         "Defense": "35",
-        "Sp.Def": "35",
+        "SpAtk": "70",
+        "SpDef": "35",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3691,7 +4042,8 @@
         "HP": "170",
         "Attack": "90",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "90",
+        "SpDef": "45",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3702,7 +4054,8 @@
         "HP": "60",
         "Attack": "60",
         "Defense": "40",
-        "Sp.Def": "45",
+        "SpAtk": "65",
+        "SpDef": "45",
         "Speed": "35",
         "Generation": "3"
     },
@@ -3713,7 +4066,8 @@
         "HP": "70",
         "Attack": "100",
         "Defense": "70",
-        "Sp.Def": "75",
+        "SpAtk": "105",
+        "SpDef": "75",
         "Speed": "40",
         "Generation": "3"
     },
@@ -3724,7 +4078,8 @@
         "HP": "70",
         "Attack": "120",
         "Defense": "100",
-        "Sp.Def": "105",
+        "SpAtk": "145",
+        "SpDef": "105",
         "Speed": "20",
         "Generation": "3"
     },
@@ -3734,7 +4089,8 @@
         "HP": "70",
         "Attack": "85",
         "Defense": "140",
-        "Sp.Def": "70",
+        "SpAtk": "85",
+        "SpDef": "70",
         "Speed": "20",
         "Generation": "3"
     },
@@ -3744,7 +4100,8 @@
         "HP": "60",
         "Attack": "25",
         "Defense": "35",
-        "Sp.Def": "80",
+        "SpAtk": "70",
+        "SpDef": "80",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3754,7 +4111,8 @@
         "HP": "80",
         "Attack": "45",
         "Defense": "65",
-        "Sp.Def": "110",
+        "SpAtk": "90",
+        "SpDef": "110",
         "Speed": "80",
         "Generation": "3"
     },
@@ -3764,7 +4122,8 @@
         "HP": "60",
         "Attack": "60",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3774,7 +4133,8 @@
         "HP": "45",
         "Attack": "100",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "45",
+        "SpDef": "45",
         "Speed": "10",
         "Generation": "3"
     },
@@ -3785,7 +4145,8 @@
         "HP": "50",
         "Attack": "70",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "70",
         "Generation": "3"
     },
@@ -3796,7 +4157,8 @@
         "HP": "80",
         "Attack": "100",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "80",
+        "SpDef": "80",
         "Speed": "100",
         "Generation": "3"
     },
@@ -3806,7 +4168,8 @@
         "HP": "50",
         "Attack": "85",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "85",
+        "SpDef": "40",
         "Speed": "35",
         "Generation": "3"
     },
@@ -3817,7 +4180,8 @@
         "HP": "70",
         "Attack": "115",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "115",
+        "SpDef": "60",
         "Speed": "55",
         "Generation": "3"
     },
@@ -3828,7 +4192,8 @@
         "HP": "45",
         "Attack": "40",
         "Defense": "60",
-        "Sp.Def": "75",
+        "SpAtk": "40",
+        "SpDef": "75",
         "Speed": "50",
         "Generation": "3"
     },
@@ -3839,7 +4204,8 @@
         "HP": "75",
         "Attack": "70",
         "Defense": "90",
-        "Sp.Def": "105",
+        "SpAtk": "70",
+        "SpDef": "105",
         "Speed": "80",
         "Generation": "3"
     },
@@ -3850,7 +4216,8 @@
         "HP": "75",
         "Attack": "110",
         "Defense": "110",
-        "Sp.Def": "105",
+        "SpAtk": "110",
+        "SpDef": "105",
         "Speed": "80",
         "Generation": "3"
     },
@@ -3860,7 +4227,8 @@
         "HP": "73",
         "Attack": "115",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "90",
         "Generation": "3"
     },
@@ -3870,7 +4238,8 @@
         "HP": "73",
         "Attack": "100",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "100",
+        "SpDef": "60",
         "Speed": "65",
         "Generation": "3"
     },
@@ -3881,7 +4250,8 @@
         "HP": "70",
         "Attack": "55",
         "Defense": "65",
-        "Sp.Def": "85",
+        "SpAtk": "95",
+        "SpDef": "85",
         "Speed": "70",
         "Generation": "3"
     },
@@ -3892,7 +4262,8 @@
         "HP": "70",
         "Attack": "95",
         "Defense": "85",
-        "Sp.Def": "65",
+        "SpAtk": "55",
+        "SpDef": "65",
         "Speed": "70",
         "Generation": "3"
     },
@@ -3903,7 +4274,8 @@
         "HP": "50",
         "Attack": "48",
         "Defense": "43",
-        "Sp.Def": "41",
+        "SpAtk": "46",
+        "SpDef": "41",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3914,7 +4286,8 @@
         "HP": "110",
         "Attack": "78",
         "Defense": "73",
-        "Sp.Def": "71",
+        "SpAtk": "76",
+        "SpDef": "71",
         "Speed": "60",
         "Generation": "3"
     },
@@ -3924,7 +4297,8 @@
         "HP": "43",
         "Attack": "80",
         "Defense": "65",
-        "Sp.Def": "35",
+        "SpAtk": "50",
+        "SpDef": "35",
         "Speed": "35",
         "Generation": "3"
     },
@@ -3935,7 +4309,8 @@
         "HP": "63",
         "Attack": "120",
         "Defense": "85",
-        "Sp.Def": "55",
+        "SpAtk": "90",
+        "SpDef": "55",
         "Speed": "55",
         "Generation": "3"
     },
@@ -3946,7 +4321,8 @@
         "HP": "40",
         "Attack": "40",
         "Defense": "55",
-        "Sp.Def": "70",
+        "SpAtk": "40",
+        "SpDef": "70",
         "Speed": "55",
         "Generation": "3"
     },
@@ -3957,7 +4333,8 @@
         "HP": "60",
         "Attack": "70",
         "Defense": "105",
-        "Sp.Def": "120",
+        "SpAtk": "70",
+        "SpDef": "120",
         "Speed": "75",
         "Generation": "3"
     },
@@ -3968,7 +4345,8 @@
         "HP": "66",
         "Attack": "41",
         "Defense": "77",
-        "Sp.Def": "87",
+        "SpAtk": "61",
+        "SpDef": "87",
         "Speed": "23",
         "Generation": "3"
     },
@@ -3979,7 +4357,8 @@
         "HP": "86",
         "Attack": "81",
         "Defense": "97",
-        "Sp.Def": "107",
+        "SpAtk": "81",
+        "SpDef": "107",
         "Speed": "43",
         "Generation": "3"
     },
@@ -3990,7 +4369,8 @@
         "HP": "45",
         "Attack": "95",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "40",
+        "SpDef": "50",
         "Speed": "75",
         "Generation": "3"
     },
@@ -4001,7 +4381,8 @@
         "HP": "75",
         "Attack": "125",
         "Defense": "100",
-        "Sp.Def": "80",
+        "SpAtk": "70",
+        "SpDef": "80",
         "Speed": "45",
         "Generation": "3"
     },
@@ -4011,7 +4392,8 @@
         "HP": "20",
         "Attack": "15",
         "Defense": "20",
-        "Sp.Def": "55",
+        "SpAtk": "10",
+        "SpDef": "55",
         "Speed": "80",
         "Generation": "3"
     },
@@ -4021,7 +4403,8 @@
         "HP": "95",
         "Attack": "60",
         "Defense": "79",
-        "Sp.Def": "125",
+        "SpAtk": "100",
+        "SpDef": "125",
         "Speed": "81",
         "Generation": "3"
     },
@@ -4031,7 +4414,8 @@
         "HP": "70",
         "Attack": "70",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "70",
+        "SpDef": "70",
         "Speed": "70",
         "Generation": "3"
     },
@@ -4041,7 +4425,8 @@
         "HP": "60",
         "Attack": "90",
         "Defense": "70",
-        "Sp.Def": "120",
+        "SpAtk": "60",
+        "SpDef": "120",
         "Speed": "40",
         "Generation": "3"
     },
@@ -4051,7 +4436,8 @@
         "HP": "44",
         "Attack": "75",
         "Defense": "35",
-        "Sp.Def": "33",
+        "SpAtk": "63",
+        "SpDef": "33",
         "Speed": "45",
         "Generation": "3"
     },
@@ -4061,7 +4447,8 @@
         "HP": "64",
         "Attack": "115",
         "Defense": "65",
-        "Sp.Def": "63",
+        "SpAtk": "83",
+        "SpDef": "63",
         "Speed": "65",
         "Generation": "3"
     },
@@ -4071,7 +4458,8 @@
         "HP": "64",
         "Attack": "165",
         "Defense": "75",
-        "Sp.Def": "83",
+        "SpAtk": "93",
+        "SpDef": "83",
         "Speed": "75",
         "Generation": "3"
     },
@@ -4081,7 +4469,8 @@
         "HP": "20",
         "Attack": "40",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "30",
+        "SpDef": "90",
         "Speed": "25",
         "Generation": "3"
     },
@@ -4091,7 +4480,8 @@
         "HP": "40",
         "Attack": "70",
         "Defense": "130",
-        "Sp.Def": "130",
+        "SpAtk": "60",
+        "SpDef": "130",
         "Speed": "25",
         "Generation": "3"
     },
@@ -4102,7 +4492,8 @@
         "HP": "99",
         "Attack": "68",
         "Defense": "83",
-        "Sp.Def": "87",
+        "SpAtk": "72",
+        "SpDef": "87",
         "Speed": "51",
         "Generation": "3"
     },
@@ -4112,7 +4503,8 @@
         "HP": "65",
         "Attack": "50",
         "Defense": "70",
-        "Sp.Def": "80",
+        "SpAtk": "95",
+        "SpDef": "80",
         "Speed": "65",
         "Generation": "3"
     },
@@ -4122,7 +4514,8 @@
         "HP": "65",
         "Attack": "130",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "75",
+        "SpDef": "60",
         "Speed": "75",
         "Generation": "3"
     },
@@ -4132,7 +4525,8 @@
         "HP": "65",
         "Attack": "150",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "115",
+        "SpDef": "60",
         "Speed": "115",
         "Generation": "3"
     },
@@ -4142,7 +4536,8 @@
         "HP": "95",
         "Attack": "23",
         "Defense": "48",
-        "Sp.Def": "48",
+        "SpAtk": "23",
+        "SpDef": "48",
         "Speed": "23",
         "Generation": "3"
     },
@@ -4152,7 +4547,8 @@
         "HP": "50",
         "Attack": "50",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "50",
+        "SpDef": "50",
         "Speed": "50",
         "Generation": "3"
     },
@@ -4162,7 +4558,8 @@
         "HP": "80",
         "Attack": "80",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "80",
+        "SpDef": "80",
         "Speed": "80",
         "Generation": "3"
     },
@@ -4172,7 +4569,8 @@
         "HP": "80",
         "Attack": "120",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "120",
+        "SpDef": "80",
         "Speed": "100",
         "Generation": "3"
     },
@@ -4183,7 +4581,8 @@
         "HP": "70",
         "Attack": "40",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "55",
+        "SpDef": "50",
         "Speed": "25",
         "Generation": "3"
     },
@@ -4194,7 +4593,8 @@
         "HP": "90",
         "Attack": "60",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "75",
+        "SpDef": "70",
         "Speed": "45",
         "Generation": "3"
     },
@@ -4205,7 +4605,8 @@
         "HP": "110",
         "Attack": "80",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "95",
+        "SpDef": "90",
         "Speed": "65",
         "Generation": "3"
     },
@@ -4215,7 +4616,8 @@
         "HP": "35",
         "Attack": "64",
         "Defense": "85",
-        "Sp.Def": "55",
+        "SpAtk": "74",
+        "SpDef": "55",
         "Speed": "32",
         "Generation": "3"
     },
@@ -4225,7 +4627,8 @@
         "HP": "55",
         "Attack": "104",
         "Defense": "105",
-        "Sp.Def": "75",
+        "SpAtk": "94",
+        "SpDef": "75",
         "Speed": "52",
         "Generation": "3"
     },
@@ -4235,7 +4638,8 @@
         "HP": "55",
         "Attack": "84",
         "Defense": "105",
-        "Sp.Def": "75",
+        "SpAtk": "114",
+        "SpDef": "75",
         "Speed": "52",
         "Generation": "3"
     },
@@ -4246,7 +4650,8 @@
         "HP": "100",
         "Attack": "90",
         "Defense": "130",
-        "Sp.Def": "65",
+        "SpAtk": "45",
+        "SpDef": "65",
         "Speed": "55",
         "Generation": "3"
     },
@@ -4256,7 +4661,8 @@
         "HP": "43",
         "Attack": "30",
         "Defense": "55",
-        "Sp.Def": "65",
+        "SpAtk": "40",
+        "SpDef": "65",
         "Speed": "97",
         "Generation": "3"
     },
@@ -4266,7 +4672,8 @@
         "HP": "45",
         "Attack": "75",
         "Defense": "60",
-        "Sp.Def": "30",
+        "SpAtk": "40",
+        "SpDef": "30",
         "Speed": "50",
         "Generation": "3"
     },
@@ -4276,7 +4683,8 @@
         "HP": "65",
         "Attack": "95",
         "Defense": "100",
-        "Sp.Def": "50",
+        "SpAtk": "60",
+        "SpDef": "50",
         "Speed": "50",
         "Generation": "3"
     },
@@ -4287,7 +4695,8 @@
         "HP": "95",
         "Attack": "135",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "110",
+        "SpDef": "80",
         "Speed": "100",
         "Generation": "3"
     },
@@ -4298,7 +4707,8 @@
         "HP": "95",
         "Attack": "145",
         "Defense": "130",
-        "Sp.Def": "90",
+        "SpAtk": "120",
+        "SpDef": "90",
         "Speed": "120",
         "Generation": "3"
     },
@@ -4309,7 +4719,8 @@
         "HP": "40",
         "Attack": "55",
         "Defense": "80",
-        "Sp.Def": "60",
+        "SpAtk": "35",
+        "SpDef": "60",
         "Speed": "30",
         "Generation": "3"
     },
@@ -4320,7 +4731,8 @@
         "HP": "60",
         "Attack": "75",
         "Defense": "100",
-        "Sp.Def": "80",
+        "SpAtk": "55",
+        "SpDef": "80",
         "Speed": "50",
         "Generation": "3"
     },
@@ -4331,7 +4743,8 @@
         "HP": "80",
         "Attack": "135",
         "Defense": "130",
-        "Sp.Def": "90",
+        "SpAtk": "95",
+        "SpDef": "90",
         "Speed": "70",
         "Generation": "3"
     },
@@ -4342,7 +4755,8 @@
         "HP": "80",
         "Attack": "145",
         "Defense": "150",
-        "Sp.Def": "110",
+        "SpAtk": "105",
+        "SpDef": "110",
         "Speed": "110",
         "Generation": "3"
     },
@@ -4352,7 +4766,8 @@
         "HP": "80",
         "Attack": "100",
         "Defense": "200",
-        "Sp.Def": "100",
+        "SpAtk": "50",
+        "SpDef": "100",
         "Speed": "50",
         "Generation": "3"
     },
@@ -4362,7 +4777,8 @@
         "HP": "80",
         "Attack": "50",
         "Defense": "100",
-        "Sp.Def": "200",
+        "SpAtk": "100",
+        "SpDef": "200",
         "Speed": "50",
         "Generation": "3"
     },
@@ -4372,7 +4788,8 @@
         "HP": "80",
         "Attack": "75",
         "Defense": "150",
-        "Sp.Def": "150",
+        "SpAtk": "75",
+        "SpDef": "150",
         "Speed": "50",
         "Generation": "3"
     },
@@ -4383,7 +4800,8 @@
         "HP": "80",
         "Attack": "80",
         "Defense": "90",
-        "Sp.Def": "130",
+        "SpAtk": "110",
+        "SpDef": "130",
         "Speed": "110",
         "Generation": "3"
     },
@@ -4394,7 +4812,8 @@
         "HP": "80",
         "Attack": "100",
         "Defense": "120",
-        "Sp.Def": "150",
+        "SpAtk": "140",
+        "SpDef": "150",
         "Speed": "110",
         "Generation": "3"
     },
@@ -4405,7 +4824,8 @@
         "HP": "80",
         "Attack": "90",
         "Defense": "80",
-        "Sp.Def": "110",
+        "SpAtk": "130",
+        "SpDef": "110",
         "Speed": "110",
         "Generation": "3"
     },
@@ -4416,7 +4836,8 @@
         "HP": "80",
         "Attack": "130",
         "Defense": "100",
-        "Sp.Def": "120",
+        "SpAtk": "160",
+        "SpDef": "120",
         "Speed": "110",
         "Generation": "3"
     },
@@ -4426,7 +4847,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "90",
-        "Sp.Def": "140",
+        "SpAtk": "150",
+        "SpDef": "140",
         "Speed": "90",
         "Generation": "3"
     },
@@ -4436,7 +4858,8 @@
         "HP": "100",
         "Attack": "150",
         "Defense": "90",
-        "Sp.Def": "160",
+        "SpAtk": "180",
+        "SpDef": "160",
         "Speed": "90",
         "Generation": "3"
     },
@@ -4446,7 +4869,8 @@
         "HP": "100",
         "Attack": "150",
         "Defense": "140",
-        "Sp.Def": "90",
+        "SpAtk": "100",
+        "SpDef": "90",
         "Speed": "90",
         "Generation": "3"
     },
@@ -4457,7 +4881,8 @@
         "HP": "100",
         "Attack": "180",
         "Defense": "160",
-        "Sp.Def": "90",
+        "SpAtk": "150",
+        "SpDef": "90",
         "Speed": "90",
         "Generation": "3"
     },
@@ -4468,7 +4893,8 @@
         "HP": "105",
         "Attack": "150",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "150",
+        "SpDef": "90",
         "Speed": "95",
         "Generation": "3"
     },
@@ -4479,7 +4905,8 @@
         "HP": "105",
         "Attack": "180",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "180",
+        "SpDef": "100",
         "Speed": "115",
         "Generation": "3"
     },
@@ -4490,7 +4917,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "100",
+        "SpDef": "100",
         "Speed": "100",
         "Generation": "3"
     },
@@ -4500,7 +4928,8 @@
         "HP": "50",
         "Attack": "150",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "150",
+        "SpDef": "50",
         "Speed": "150",
         "Generation": "3"
     },
@@ -4510,7 +4939,8 @@
         "HP": "50",
         "Attack": "180",
         "Defense": "20",
-        "Sp.Def": "20",
+        "SpAtk": "180",
+        "SpDef": "20",
         "Speed": "150",
         "Generation": "3"
     },
@@ -4520,7 +4950,8 @@
         "HP": "50",
         "Attack": "70",
         "Defense": "160",
-        "Sp.Def": "160",
+        "SpAtk": "70",
+        "SpDef": "160",
         "Speed": "90",
         "Generation": "3"
     },
@@ -4530,7 +4961,8 @@
         "HP": "50",
         "Attack": "95",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "95",
+        "SpDef": "90",
         "Speed": "180",
         "Generation": "3"
     },
@@ -4540,7 +4972,8 @@
         "HP": "55",
         "Attack": "68",
         "Defense": "64",
-        "Sp.Def": "55",
+        "SpAtk": "45",
+        "SpDef": "55",
         "Speed": "31",
         "Generation": "4"
     },
@@ -4550,7 +4983,8 @@
         "HP": "75",
         "Attack": "89",
         "Defense": "85",
-        "Sp.Def": "65",
+        "SpAtk": "55",
+        "SpDef": "65",
         "Speed": "36",
         "Generation": "4"
     },
@@ -4561,7 +4995,8 @@
         "HP": "95",
         "Attack": "109",
         "Defense": "105",
-        "Sp.Def": "85",
+        "SpAtk": "75",
+        "SpDef": "85",
         "Speed": "56",
         "Generation": "4"
     },
@@ -4571,7 +5006,8 @@
         "HP": "44",
         "Attack": "58",
         "Defense": "44",
-        "Sp.Def": "44",
+        "SpAtk": "58",
+        "SpDef": "44",
         "Speed": "61",
         "Generation": "4"
     },
@@ -4582,7 +5018,8 @@
         "HP": "64",
         "Attack": "78",
         "Defense": "52",
-        "Sp.Def": "52",
+        "SpAtk": "78",
+        "SpDef": "52",
         "Speed": "81",
         "Generation": "4"
     },
@@ -4593,7 +5030,8 @@
         "HP": "76",
         "Attack": "104",
         "Defense": "71",
-        "Sp.Def": "71",
+        "SpAtk": "104",
+        "SpDef": "71",
         "Speed": "108",
         "Generation": "4"
     },
@@ -4603,7 +5041,8 @@
         "HP": "53",
         "Attack": "51",
         "Defense": "53",
-        "Sp.Def": "56",
+        "SpAtk": "61",
+        "SpDef": "56",
         "Speed": "40",
         "Generation": "4"
     },
@@ -4613,7 +5052,8 @@
         "HP": "64",
         "Attack": "66",
         "Defense": "68",
-        "Sp.Def": "76",
+        "SpAtk": "81",
+        "SpDef": "76",
         "Speed": "50",
         "Generation": "4"
     },
@@ -4624,7 +5064,8 @@
         "HP": "84",
         "Attack": "86",
         "Defense": "88",
-        "Sp.Def": "101",
+        "SpAtk": "111",
+        "SpDef": "101",
         "Speed": "60",
         "Generation": "4"
     },
@@ -4635,7 +5076,8 @@
         "HP": "40",
         "Attack": "55",
         "Defense": "30",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "60",
         "Generation": "4"
     },
@@ -4646,7 +5088,8 @@
         "HP": "55",
         "Attack": "75",
         "Defense": "50",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "80",
         "Generation": "4"
     },
@@ -4657,7 +5100,8 @@
         "HP": "85",
         "Attack": "120",
         "Defense": "70",
-        "Sp.Def": "60",
+        "SpAtk": "50",
+        "SpDef": "60",
         "Speed": "100",
         "Generation": "4"
     },
@@ -4667,7 +5111,8 @@
         "HP": "59",
         "Attack": "45",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "35",
+        "SpDef": "40",
         "Speed": "31",
         "Generation": "4"
     },
@@ -4678,7 +5123,8 @@
         "HP": "79",
         "Attack": "85",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "55",
+        "SpDef": "60",
         "Speed": "71",
         "Generation": "4"
     },
@@ -4688,7 +5134,8 @@
         "HP": "37",
         "Attack": "25",
         "Defense": "41",
-        "Sp.Def": "41",
+        "SpAtk": "25",
+        "SpDef": "41",
         "Speed": "25",
         "Generation": "4"
     },
@@ -4698,7 +5145,8 @@
         "HP": "77",
         "Attack": "85",
         "Defense": "51",
-        "Sp.Def": "51",
+        "SpAtk": "55",
+        "SpDef": "51",
         "Speed": "65",
         "Generation": "4"
     },
@@ -4708,7 +5156,8 @@
         "HP": "45",
         "Attack": "65",
         "Defense": "34",
-        "Sp.Def": "34",
+        "SpAtk": "40",
+        "SpDef": "34",
         "Speed": "45",
         "Generation": "4"
     },
@@ -4718,7 +5167,8 @@
         "HP": "60",
         "Attack": "85",
         "Defense": "49",
-        "Sp.Def": "49",
+        "SpAtk": "60",
+        "SpDef": "49",
         "Speed": "60",
         "Generation": "4"
     },
@@ -4728,7 +5178,8 @@
         "HP": "80",
         "Attack": "120",
         "Defense": "79",
-        "Sp.Def": "79",
+        "SpAtk": "95",
+        "SpDef": "79",
         "Speed": "70",
         "Generation": "4"
     },
@@ -4739,7 +5190,8 @@
         "HP": "40",
         "Attack": "30",
         "Defense": "35",
-        "Sp.Def": "70",
+        "SpAtk": "50",
+        "SpDef": "70",
         "Speed": "55",
         "Generation": "4"
     },
@@ -4750,7 +5202,8 @@
         "HP": "60",
         "Attack": "70",
         "Defense": "65",
-        "Sp.Def": "105",
+        "SpAtk": "125",
+        "SpDef": "105",
         "Speed": "90",
         "Generation": "4"
     },
@@ -4760,7 +5213,8 @@
         "HP": "67",
         "Attack": "125",
         "Defense": "40",
-        "Sp.Def": "30",
+        "SpAtk": "30",
+        "SpDef": "30",
         "Speed": "58",
         "Generation": "4"
     },
@@ -4770,7 +5224,8 @@
         "HP": "97",
         "Attack": "165",
         "Defense": "60",
-        "Sp.Def": "50",
+        "SpAtk": "65",
+        "SpDef": "50",
         "Speed": "58",
         "Generation": "4"
     },
@@ -4781,7 +5236,8 @@
         "HP": "30",
         "Attack": "42",
         "Defense": "118",
-        "Sp.Def": "88",
+        "SpAtk": "42",
+        "SpDef": "88",
         "Speed": "30",
         "Generation": "4"
     },
@@ -4792,7 +5248,8 @@
         "HP": "60",
         "Attack": "52",
         "Defense": "168",
-        "Sp.Def": "138",
+        "SpAtk": "47",
+        "SpDef": "138",
         "Speed": "30",
         "Generation": "4"
     },
@@ -4802,7 +5259,8 @@
         "HP": "40",
         "Attack": "29",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "29",
+        "SpDef": "45",
         "Speed": "36",
         "Generation": "4"
     },
@@ -4813,7 +5271,8 @@
         "HP": "60",
         "Attack": "59",
         "Defense": "85",
-        "Sp.Def": "105",
+        "SpAtk": "79",
+        "SpDef": "105",
         "Speed": "36",
         "Generation": "4"
     },
@@ -4824,7 +5283,8 @@
         "HP": "60",
         "Attack": "79",
         "Defense": "105",
-        "Sp.Def": "85",
+        "SpAtk": "59",
+        "SpDef": "85",
         "Speed": "36",
         "Generation": "4"
     },
@@ -4835,7 +5295,8 @@
         "HP": "60",
         "Attack": "69",
         "Defense": "95",
-        "Sp.Def": "95",
+        "SpAtk": "69",
+        "SpDef": "95",
         "Speed": "36",
         "Generation": "4"
     },
@@ -4846,7 +5307,8 @@
         "HP": "70",
         "Attack": "94",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "94",
+        "SpDef": "50",
         "Speed": "66",
         "Generation": "4"
     },
@@ -4857,7 +5319,8 @@
         "HP": "30",
         "Attack": "30",
         "Defense": "42",
-        "Sp.Def": "42",
+        "SpAtk": "30",
+        "SpDef": "42",
         "Speed": "70",
         "Generation": "4"
     },
@@ -4868,7 +5331,8 @@
         "HP": "70",
         "Attack": "80",
         "Defense": "102",
-        "Sp.Def": "102",
+        "SpAtk": "80",
+        "SpDef": "102",
         "Speed": "40",
         "Generation": "4"
     },
@@ -4878,7 +5342,8 @@
         "HP": "60",
         "Attack": "45",
         "Defense": "70",
-        "Sp.Def": "90",
+        "SpAtk": "45",
+        "SpDef": "90",
         "Speed": "95",
         "Generation": "4"
     },
@@ -4888,7 +5353,8 @@
         "HP": "55",
         "Attack": "65",
         "Defense": "35",
-        "Sp.Def": "30",
+        "SpAtk": "60",
+        "SpDef": "30",
         "Speed": "85",
         "Generation": "4"
     },
@@ -4898,7 +5364,8 @@
         "HP": "85",
         "Attack": "105",
         "Defense": "55",
-        "Sp.Def": "50",
+        "SpAtk": "85",
+        "SpDef": "50",
         "Speed": "115",
         "Generation": "4"
     },
@@ -4908,7 +5375,8 @@
         "HP": "45",
         "Attack": "35",
         "Defense": "45",
-        "Sp.Def": "53",
+        "SpAtk": "62",
+        "SpDef": "53",
         "Speed": "35",
         "Generation": "4"
     },
@@ -4918,7 +5386,8 @@
         "HP": "70",
         "Attack": "60",
         "Defense": "70",
-        "Sp.Def": "78",
+        "SpAtk": "87",
+        "SpDef": "78",
         "Speed": "85",
         "Generation": "4"
     },
@@ -4928,7 +5397,8 @@
         "HP": "76",
         "Attack": "48",
         "Defense": "48",
-        "Sp.Def": "62",
+        "SpAtk": "57",
+        "SpDef": "62",
         "Speed": "34",
         "Generation": "4"
     },
@@ -4939,7 +5409,8 @@
         "HP": "111",
         "Attack": "83",
         "Defense": "68",
-        "Sp.Def": "82",
+        "SpAtk": "92",
+        "SpDef": "82",
         "Speed": "39",
         "Generation": "4"
     },
@@ -4949,7 +5420,8 @@
         "HP": "75",
         "Attack": "100",
         "Defense": "66",
-        "Sp.Def": "66",
+        "SpAtk": "60",
+        "SpDef": "66",
         "Speed": "115",
         "Generation": "4"
     },
@@ -4960,7 +5432,8 @@
         "HP": "90",
         "Attack": "50",
         "Defense": "34",
-        "Sp.Def": "44",
+        "SpAtk": "60",
+        "SpDef": "44",
         "Speed": "70",
         "Generation": "4"
     },
@@ -4971,7 +5444,8 @@
         "HP": "150",
         "Attack": "80",
         "Defense": "44",
-        "Sp.Def": "54",
+        "SpAtk": "90",
+        "SpDef": "54",
         "Speed": "80",
         "Generation": "4"
     },
@@ -4981,7 +5455,8 @@
         "HP": "55",
         "Attack": "66",
         "Defense": "44",
-        "Sp.Def": "56",
+        "SpAtk": "44",
+        "SpDef": "56",
         "Speed": "85",
         "Generation": "4"
     },
@@ -4991,7 +5466,8 @@
         "HP": "65",
         "Attack": "76",
         "Defense": "84",
-        "Sp.Def": "96",
+        "SpAtk": "54",
+        "SpDef": "96",
         "Speed": "105",
         "Generation": "4"
     },
@@ -5002,7 +5478,8 @@
         "HP": "65",
         "Attack": "136",
         "Defense": "94",
-        "Sp.Def": "96",
+        "SpAtk": "54",
+        "SpDef": "96",
         "Speed": "135",
         "Generation": "4"
     },
@@ -5012,7 +5489,8 @@
         "HP": "60",
         "Attack": "60",
         "Defense": "60",
-        "Sp.Def": "105",
+        "SpAtk": "105",
+        "SpDef": "105",
         "Speed": "105",
         "Generation": "4"
     },
@@ -5023,7 +5501,8 @@
         "HP": "100",
         "Attack": "125",
         "Defense": "52",
-        "Sp.Def": "52",
+        "SpAtk": "105",
+        "SpDef": "52",
         "Speed": "71",
         "Generation": "4"
     },
@@ -5033,7 +5512,8 @@
         "HP": "49",
         "Attack": "55",
         "Defense": "42",
-        "Sp.Def": "37",
+        "SpAtk": "42",
+        "SpDef": "37",
         "Speed": "85",
         "Generation": "4"
     },
@@ -5043,7 +5523,8 @@
         "HP": "71",
         "Attack": "82",
         "Defense": "64",
-        "Sp.Def": "59",
+        "SpAtk": "64",
+        "SpDef": "59",
         "Speed": "112",
         "Generation": "4"
     },
@@ -5053,7 +5534,8 @@
         "HP": "45",
         "Attack": "30",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "65",
+        "SpDef": "50",
         "Speed": "45",
         "Generation": "4"
     },
@@ -5064,7 +5546,8 @@
         "HP": "63",
         "Attack": "63",
         "Defense": "47",
-        "Sp.Def": "41",
+        "SpAtk": "41",
+        "SpDef": "41",
         "Speed": "74",
         "Generation": "4"
     },
@@ -5075,7 +5558,8 @@
         "HP": "103",
         "Attack": "93",
         "Defense": "67",
-        "Sp.Def": "61",
+        "SpAtk": "71",
+        "SpDef": "61",
         "Speed": "84",
         "Generation": "4"
     },
@@ -5086,7 +5570,8 @@
         "HP": "57",
         "Attack": "24",
         "Defense": "86",
-        "Sp.Def": "86",
+        "SpAtk": "24",
+        "SpDef": "86",
         "Speed": "23",
         "Generation": "4"
     },
@@ -5097,7 +5582,8 @@
         "HP": "67",
         "Attack": "89",
         "Defense": "116",
-        "Sp.Def": "116",
+        "SpAtk": "79",
+        "SpDef": "116",
         "Speed": "33",
         "Generation": "4"
     },
@@ -5107,7 +5593,8 @@
         "HP": "50",
         "Attack": "80",
         "Defense": "95",
-        "Sp.Def": "45",
+        "SpAtk": "10",
+        "SpDef": "45",
         "Speed": "10",
         "Generation": "4"
     },
@@ -5118,7 +5605,8 @@
         "HP": "20",
         "Attack": "25",
         "Defense": "45",
-        "Sp.Def": "90",
+        "SpAtk": "70",
+        "SpDef": "90",
         "Speed": "60",
         "Generation": "4"
     },
@@ -5128,7 +5616,8 @@
         "HP": "100",
         "Attack": "5",
         "Defense": "5",
-        "Sp.Def": "65",
+        "SpAtk": "15",
+        "SpDef": "65",
         "Speed": "30",
         "Generation": "4"
     },
@@ -5139,7 +5628,8 @@
         "HP": "76",
         "Attack": "65",
         "Defense": "45",
-        "Sp.Def": "42",
+        "SpAtk": "92",
+        "SpDef": "42",
         "Speed": "91",
         "Generation": "4"
     },
@@ -5150,7 +5640,8 @@
         "HP": "50",
         "Attack": "92",
         "Defense": "108",
-        "Sp.Def": "108",
+        "SpAtk": "92",
+        "SpDef": "108",
         "Speed": "35",
         "Generation": "4"
     },
@@ -5161,7 +5652,8 @@
         "HP": "58",
         "Attack": "70",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "40",
+        "SpDef": "45",
         "Speed": "42",
         "Generation": "4"
     },
@@ -5172,7 +5664,8 @@
         "HP": "68",
         "Attack": "90",
         "Defense": "65",
-        "Sp.Def": "55",
+        "SpAtk": "50",
+        "SpDef": "55",
         "Speed": "82",
         "Generation": "4"
     },
@@ -5183,7 +5676,8 @@
         "HP": "108",
         "Attack": "130",
         "Defense": "95",
-        "Sp.Def": "85",
+        "SpAtk": "80",
+        "SpDef": "85",
         "Speed": "102",
         "Generation": "4"
     },
@@ -5194,7 +5688,8 @@
         "HP": "108",
         "Attack": "170",
         "Defense": "115",
-        "Sp.Def": "95",
+        "SpAtk": "120",
+        "SpDef": "95",
         "Speed": "92",
         "Generation": "4"
     },
@@ -5204,7 +5699,8 @@
         "HP": "135",
         "Attack": "85",
         "Defense": "40",
-        "Sp.Def": "85",
+        "SpAtk": "40",
+        "SpDef": "85",
         "Speed": "5",
         "Generation": "4"
     },
@@ -5214,7 +5710,8 @@
         "HP": "40",
         "Attack": "70",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "35",
+        "SpDef": "40",
         "Speed": "60",
         "Generation": "4"
     },
@@ -5225,7 +5722,8 @@
         "HP": "70",
         "Attack": "110",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "115",
+        "SpDef": "70",
         "Speed": "90",
         "Generation": "4"
     },
@@ -5236,7 +5734,8 @@
         "HP": "70",
         "Attack": "145",
         "Defense": "88",
-        "Sp.Def": "70",
+        "SpAtk": "140",
+        "SpDef": "70",
         "Speed": "112",
         "Generation": "4"
     },
@@ -5246,7 +5745,8 @@
         "HP": "68",
         "Attack": "72",
         "Defense": "78",
-        "Sp.Def": "42",
+        "SpAtk": "38",
+        "SpDef": "42",
         "Speed": "32",
         "Generation": "4"
     },
@@ -5256,7 +5756,8 @@
         "HP": "108",
         "Attack": "112",
         "Defense": "118",
-        "Sp.Def": "72",
+        "SpAtk": "68",
+        "SpDef": "72",
         "Speed": "47",
         "Generation": "4"
     },
@@ -5267,7 +5768,8 @@
         "HP": "40",
         "Attack": "50",
         "Defense": "90",
-        "Sp.Def": "55",
+        "SpAtk": "30",
+        "SpDef": "55",
         "Speed": "65",
         "Generation": "4"
     },
@@ -5278,7 +5780,8 @@
         "HP": "70",
         "Attack": "90",
         "Defense": "110",
-        "Sp.Def": "75",
+        "SpAtk": "60",
+        "SpDef": "75",
         "Speed": "95",
         "Generation": "4"
     },
@@ -5289,7 +5792,8 @@
         "HP": "48",
         "Attack": "61",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "61",
+        "SpDef": "40",
         "Speed": "50",
         "Generation": "4"
     },
@@ -5300,7 +5804,8 @@
         "HP": "83",
         "Attack": "106",
         "Defense": "65",
-        "Sp.Def": "65",
+        "SpAtk": "86",
+        "SpDef": "65",
         "Speed": "85",
         "Generation": "4"
     },
@@ -5310,7 +5815,8 @@
         "HP": "74",
         "Attack": "100",
         "Defense": "72",
-        "Sp.Def": "72",
+        "SpAtk": "90",
+        "SpDef": "72",
         "Speed": "46",
         "Generation": "4"
     },
@@ -5320,7 +5826,8 @@
         "HP": "49",
         "Attack": "49",
         "Defense": "56",
-        "Sp.Def": "61",
+        "SpAtk": "49",
+        "SpDef": "61",
         "Speed": "66",
         "Generation": "4"
     },
@@ -5330,7 +5837,8 @@
         "HP": "69",
         "Attack": "69",
         "Defense": "76",
-        "Sp.Def": "86",
+        "SpAtk": "69",
+        "SpDef": "86",
         "Speed": "91",
         "Generation": "4"
     },
@@ -5341,7 +5849,8 @@
         "HP": "45",
         "Attack": "20",
         "Defense": "50",
-        "Sp.Def": "120",
+        "SpAtk": "60",
+        "SpDef": "120",
         "Speed": "50",
         "Generation": "4"
     },
@@ -5352,7 +5861,8 @@
         "HP": "60",
         "Attack": "62",
         "Defense": "50",
-        "Sp.Def": "60",
+        "SpAtk": "62",
+        "SpDef": "60",
         "Speed": "40",
         "Generation": "4"
     },
@@ -5363,7 +5873,8 @@
         "HP": "90",
         "Attack": "92",
         "Defense": "75",
-        "Sp.Def": "85",
+        "SpAtk": "92",
+        "SpDef": "85",
         "Speed": "60",
         "Generation": "4"
     },
@@ -5374,7 +5885,8 @@
         "HP": "90",
         "Attack": "132",
         "Defense": "105",
-        "Sp.Def": "105",
+        "SpAtk": "132",
+        "SpDef": "105",
         "Speed": "30",
         "Generation": "4"
     },
@@ -5385,7 +5897,8 @@
         "HP": "70",
         "Attack": "120",
         "Defense": "65",
-        "Sp.Def": "85",
+        "SpAtk": "45",
+        "SpDef": "85",
         "Speed": "125",
         "Generation": "4"
     },
@@ -5396,7 +5909,8 @@
         "HP": "70",
         "Attack": "70",
         "Defense": "115",
-        "Sp.Def": "90",
+        "SpAtk": "130",
+        "SpDef": "90",
         "Speed": "60",
         "Generation": "4"
     },
@@ -5406,7 +5920,8 @@
         "HP": "110",
         "Attack": "85",
         "Defense": "95",
-        "Sp.Def": "95",
+        "SpAtk": "80",
+        "SpDef": "95",
         "Speed": "50",
         "Generation": "4"
     },
@@ -5417,7 +5932,8 @@
         "HP": "115",
         "Attack": "140",
         "Defense": "130",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "40",
         "Generation": "4"
     },
@@ -5427,7 +5943,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "125",
-        "Sp.Def": "50",
+        "SpAtk": "110",
+        "SpDef": "50",
         "Speed": "50",
         "Generation": "4"
     },
@@ -5437,7 +5954,8 @@
         "HP": "75",
         "Attack": "123",
         "Defense": "67",
-        "Sp.Def": "85",
+        "SpAtk": "95",
+        "SpDef": "85",
         "Speed": "95",
         "Generation": "4"
     },
@@ -5447,7 +5965,8 @@
         "HP": "75",
         "Attack": "95",
         "Defense": "67",
-        "Sp.Def": "95",
+        "SpAtk": "125",
+        "SpDef": "95",
         "Speed": "83",
         "Generation": "4"
     },
@@ -5458,7 +5977,8 @@
         "HP": "85",
         "Attack": "50",
         "Defense": "95",
-        "Sp.Def": "115",
+        "SpAtk": "120",
+        "SpDef": "115",
         "Speed": "80",
         "Generation": "4"
     },
@@ -5469,7 +5989,8 @@
         "HP": "86",
         "Attack": "76",
         "Defense": "86",
-        "Sp.Def": "56",
+        "SpAtk": "116",
+        "SpDef": "56",
         "Speed": "95",
         "Generation": "4"
     },
@@ -5479,7 +6000,8 @@
         "HP": "65",
         "Attack": "110",
         "Defense": "130",
-        "Sp.Def": "65",
+        "SpAtk": "60",
+        "SpDef": "65",
         "Speed": "95",
         "Generation": "4"
     },
@@ -5489,7 +6011,8 @@
         "HP": "65",
         "Attack": "60",
         "Defense": "110",
-        "Sp.Def": "95",
+        "SpAtk": "130",
+        "SpDef": "95",
         "Speed": "65",
         "Generation": "4"
     },
@@ -5500,7 +6023,8 @@
         "HP": "75",
         "Attack": "95",
         "Defense": "125",
-        "Sp.Def": "75",
+        "SpAtk": "45",
+        "SpDef": "75",
         "Speed": "95",
         "Generation": "4"
     },
@@ -5511,7 +6035,8 @@
         "HP": "110",
         "Attack": "130",
         "Defense": "80",
-        "Sp.Def": "60",
+        "SpAtk": "70",
+        "SpDef": "60",
         "Speed": "80",
         "Generation": "4"
     },
@@ -5521,7 +6046,8 @@
         "HP": "85",
         "Attack": "80",
         "Defense": "70",
-        "Sp.Def": "75",
+        "SpAtk": "135",
+        "SpDef": "75",
         "Speed": "90",
         "Generation": "4"
     },
@@ -5532,7 +6058,8 @@
         "HP": "68",
         "Attack": "125",
         "Defense": "65",
-        "Sp.Def": "115",
+        "SpAtk": "65",
+        "SpDef": "115",
         "Speed": "80",
         "Generation": "4"
     },
@@ -5543,7 +6070,8 @@
         "HP": "68",
         "Attack": "165",
         "Defense": "95",
-        "Sp.Def": "115",
+        "SpAtk": "65",
+        "SpDef": "115",
         "Speed": "110",
         "Generation": "4"
     },
@@ -5554,7 +6082,8 @@
         "HP": "60",
         "Attack": "55",
         "Defense": "145",
-        "Sp.Def": "150",
+        "SpAtk": "75",
+        "SpDef": "150",
         "Speed": "40",
         "Generation": "4"
     },
@@ -5564,7 +6093,8 @@
         "HP": "45",
         "Attack": "100",
         "Defense": "135",
-        "Sp.Def": "135",
+        "SpAtk": "65",
+        "SpDef": "135",
         "Speed": "45",
         "Generation": "4"
     },
@@ -5575,7 +6105,8 @@
         "HP": "70",
         "Attack": "80",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "80",
+        "SpDef": "70",
         "Speed": "110",
         "Generation": "4"
     },
@@ -5586,7 +6117,8 @@
         "HP": "50",
         "Attack": "50",
         "Defense": "77",
-        "Sp.Def": "77",
+        "SpAtk": "95",
+        "SpDef": "77",
         "Speed": "91",
         "Generation": "4"
     },
@@ -5597,7 +6129,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "107",
-        "Sp.Def": "107",
+        "SpAtk": "105",
+        "SpDef": "107",
         "Speed": "86",
         "Generation": "4"
     },
@@ -5608,7 +6141,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "107",
-        "Sp.Def": "107",
+        "SpAtk": "105",
+        "SpDef": "107",
         "Speed": "86",
         "Generation": "4"
     },
@@ -5619,7 +6153,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "107",
-        "Sp.Def": "107",
+        "SpAtk": "105",
+        "SpDef": "107",
         "Speed": "86",
         "Generation": "4"
     },
@@ -5630,7 +6165,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "107",
-        "Sp.Def": "107",
+        "SpAtk": "105",
+        "SpDef": "107",
         "Speed": "86",
         "Generation": "4"
     },
@@ -5641,7 +6177,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "107",
-        "Sp.Def": "107",
+        "SpAtk": "105",
+        "SpDef": "107",
         "Speed": "86",
         "Generation": "4"
     },
@@ -5651,7 +6188,8 @@
         "HP": "75",
         "Attack": "75",
         "Defense": "130",
-        "Sp.Def": "130",
+        "SpAtk": "75",
+        "SpDef": "130",
         "Speed": "95",
         "Generation": "4"
     },
@@ -5661,7 +6199,8 @@
         "HP": "80",
         "Attack": "105",
         "Defense": "105",
-        "Sp.Def": "105",
+        "SpAtk": "105",
+        "SpDef": "105",
         "Speed": "80",
         "Generation": "4"
     },
@@ -5671,7 +6210,8 @@
         "HP": "75",
         "Attack": "125",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "125",
+        "SpDef": "70",
         "Speed": "115",
         "Generation": "4"
     },
@@ -5682,7 +6222,8 @@
         "HP": "100",
         "Attack": "120",
         "Defense": "120",
-        "Sp.Def": "100",
+        "SpAtk": "150",
+        "SpDef": "100",
         "Speed": "90",
         "Generation": "4"
     },
@@ -5693,7 +6234,8 @@
         "HP": "90",
         "Attack": "120",
         "Defense": "100",
-        "Sp.Def": "120",
+        "SpAtk": "150",
+        "SpDef": "120",
         "Speed": "100",
         "Generation": "4"
     },
@@ -5704,7 +6246,8 @@
         "HP": "91",
         "Attack": "90",
         "Defense": "106",
-        "Sp.Def": "106",
+        "SpAtk": "130",
+        "SpDef": "106",
         "Speed": "77",
         "Generation": "4"
     },
@@ -5714,7 +6257,8 @@
         "HP": "110",
         "Attack": "160",
         "Defense": "110",
-        "Sp.Def": "110",
+        "SpAtk": "80",
+        "SpDef": "110",
         "Speed": "100",
         "Generation": "4"
     },
@@ -5725,7 +6269,8 @@
         "HP": "150",
         "Attack": "100",
         "Defense": "120",
-        "Sp.Def": "120",
+        "SpAtk": "100",
+        "SpDef": "120",
         "Speed": "90",
         "Generation": "4"
     },
@@ -5736,7 +6281,8 @@
         "HP": "150",
         "Attack": "120",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "120",
+        "SpDef": "100",
         "Speed": "90",
         "Generation": "4"
     },
@@ -5746,7 +6292,8 @@
         "HP": "120",
         "Attack": "70",
         "Defense": "120",
-        "Sp.Def": "130",
+        "SpAtk": "75",
+        "SpDef": "130",
         "Speed": "85",
         "Generation": "4"
     },
@@ -5756,7 +6303,8 @@
         "HP": "80",
         "Attack": "80",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "80",
+        "SpDef": "80",
         "Speed": "80",
         "Generation": "4"
     },
@@ -5766,7 +6314,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "100",
+        "SpDef": "100",
         "Speed": "100",
         "Generation": "4"
     },
@@ -5776,7 +6325,8 @@
         "HP": "70",
         "Attack": "90",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "135",
+        "SpDef": "90",
         "Speed": "125",
         "Generation": "4"
     },
@@ -5786,7 +6336,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "100",
+        "SpDef": "100",
         "Speed": "100",
         "Generation": "4"
     },
@@ -5797,7 +6348,8 @@
         "HP": "100",
         "Attack": "103",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "120",
+        "SpDef": "75",
         "Speed": "127",
         "Generation": "4"
     },
@@ -5807,7 +6359,8 @@
         "HP": "120",
         "Attack": "120",
         "Defense": "120",
-        "Sp.Def": "120",
+        "SpAtk": "120",
+        "SpDef": "120",
         "Speed": "120",
         "Generation": "4"
     },
@@ -5818,7 +6371,8 @@
         "HP": "100",
         "Attack": "100",
         "Defense": "100",
-        "Sp.Def": "100",
+        "SpAtk": "100",
+        "SpDef": "100",
         "Speed": "100",
         "Generation": "5"
     },
@@ -5828,7 +6382,8 @@
         "HP": "45",
         "Attack": "45",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "45",
+        "SpDef": "55",
         "Speed": "63",
         "Generation": "5"
     },
@@ -5838,7 +6393,8 @@
         "HP": "60",
         "Attack": "60",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "60",
+        "SpDef": "75",
         "Speed": "83",
         "Generation": "5"
     },
@@ -5848,7 +6404,8 @@
         "HP": "75",
         "Attack": "75",
         "Defense": "95",
-        "Sp.Def": "95",
+        "SpAtk": "75",
+        "SpDef": "95",
         "Speed": "113",
         "Generation": "5"
     },
@@ -5858,7 +6415,8 @@
         "HP": "65",
         "Attack": "63",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "45",
+        "SpDef": "45",
         "Speed": "45",
         "Generation": "5"
     },
@@ -5869,7 +6427,8 @@
         "HP": "90",
         "Attack": "93",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "70",
+        "SpDef": "55",
         "Speed": "55",
         "Generation": "5"
     },
@@ -5880,7 +6439,8 @@
         "HP": "110",
         "Attack": "123",
         "Defense": "65",
-        "Sp.Def": "65",
+        "SpAtk": "100",
+        "SpDef": "65",
         "Speed": "65",
         "Generation": "5"
     },
@@ -5890,7 +6450,8 @@
         "HP": "55",
         "Attack": "55",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "63",
+        "SpDef": "45",
         "Speed": "45",
         "Generation": "5"
     },
@@ -5900,7 +6461,8 @@
         "HP": "75",
         "Attack": "75",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "83",
+        "SpDef": "60",
         "Speed": "60",
         "Generation": "5"
     },
@@ -5910,7 +6472,8 @@
         "HP": "95",
         "Attack": "100",
         "Defense": "85",
-        "Sp.Def": "70",
+        "SpAtk": "108",
+        "SpDef": "70",
         "Speed": "70",
         "Generation": "5"
     },
@@ -5920,7 +6483,8 @@
         "HP": "45",
         "Attack": "55",
         "Defense": "39",
-        "Sp.Def": "39",
+        "SpAtk": "35",
+        "SpDef": "39",
         "Speed": "42",
         "Generation": "5"
     },
@@ -5930,7 +6494,8 @@
         "HP": "60",
         "Attack": "85",
         "Defense": "69",
-        "Sp.Def": "69",
+        "SpAtk": "60",
+        "SpDef": "69",
         "Speed": "77",
         "Generation": "5"
     },
@@ -5940,7 +6505,8 @@
         "HP": "45",
         "Attack": "60",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "25",
+        "SpDef": "45",
         "Speed": "55",
         "Generation": "5"
     },
@@ -5950,7 +6516,8 @@
         "HP": "65",
         "Attack": "80",
         "Defense": "65",
-        "Sp.Def": "65",
+        "SpAtk": "35",
+        "SpDef": "65",
         "Speed": "60",
         "Generation": "5"
     },
@@ -5960,7 +6527,8 @@
         "HP": "85",
         "Attack": "110",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "45",
+        "SpDef": "90",
         "Speed": "80",
         "Generation": "5"
     },
@@ -5970,7 +6538,8 @@
         "HP": "41",
         "Attack": "50",
         "Defense": "37",
-        "Sp.Def": "37",
+        "SpAtk": "50",
+        "SpDef": "37",
         "Speed": "66",
         "Generation": "5"
     },
@@ -5980,7 +6549,8 @@
         "HP": "64",
         "Attack": "88",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "88",
+        "SpDef": "50",
         "Speed": "106",
         "Generation": "5"
     },
@@ -5990,7 +6560,8 @@
         "HP": "50",
         "Attack": "53",
         "Defense": "48",
-        "Sp.Def": "48",
+        "SpAtk": "53",
+        "SpDef": "48",
         "Speed": "64",
         "Generation": "5"
     },
@@ -6000,7 +6571,8 @@
         "HP": "75",
         "Attack": "98",
         "Defense": "63",
-        "Sp.Def": "63",
+        "SpAtk": "98",
+        "SpDef": "63",
         "Speed": "101",
         "Generation": "5"
     },
@@ -6010,7 +6582,8 @@
         "HP": "50",
         "Attack": "53",
         "Defense": "48",
-        "Sp.Def": "48",
+        "SpAtk": "53",
+        "SpDef": "48",
         "Speed": "64",
         "Generation": "5"
     },
@@ -6020,7 +6593,8 @@
         "HP": "75",
         "Attack": "98",
         "Defense": "63",
-        "Sp.Def": "63",
+        "SpAtk": "98",
+        "SpDef": "63",
         "Speed": "101",
         "Generation": "5"
     },
@@ -6030,7 +6604,8 @@
         "HP": "50",
         "Attack": "53",
         "Defense": "48",
-        "Sp.Def": "48",
+        "SpAtk": "53",
+        "SpDef": "48",
         "Speed": "64",
         "Generation": "5"
     },
@@ -6040,7 +6615,8 @@
         "HP": "75",
         "Attack": "98",
         "Defense": "63",
-        "Sp.Def": "63",
+        "SpAtk": "98",
+        "SpDef": "63",
         "Speed": "101",
         "Generation": "5"
     },
@@ -6050,7 +6626,8 @@
         "HP": "76",
         "Attack": "25",
         "Defense": "45",
-        "Sp.Def": "55",
+        "SpAtk": "67",
+        "SpDef": "55",
         "Speed": "24",
         "Generation": "5"
     },
@@ -6060,7 +6637,8 @@
         "HP": "116",
         "Attack": "55",
         "Defense": "85",
-        "Sp.Def": "95",
+        "SpAtk": "107",
+        "SpDef": "95",
         "Speed": "29",
         "Generation": "5"
     },
@@ -6071,7 +6649,8 @@
         "HP": "50",
         "Attack": "55",
         "Defense": "50",
-        "Sp.Def": "30",
+        "SpAtk": "36",
+        "SpDef": "30",
         "Speed": "43",
         "Generation": "5"
     },
@@ -6082,7 +6661,8 @@
         "HP": "62",
         "Attack": "77",
         "Defense": "62",
-        "Sp.Def": "42",
+        "SpAtk": "50",
+        "SpDef": "42",
         "Speed": "65",
         "Generation": "5"
     },
@@ -6093,7 +6673,8 @@
         "HP": "80",
         "Attack": "115",
         "Defense": "80",
-        "Sp.Def": "55",
+        "SpAtk": "65",
+        "SpDef": "55",
         "Speed": "93",
         "Generation": "5"
     },
@@ -6103,7 +6684,8 @@
         "HP": "45",
         "Attack": "60",
         "Defense": "32",
-        "Sp.Def": "32",
+        "SpAtk": "50",
+        "SpDef": "32",
         "Speed": "76",
         "Generation": "5"
     },
@@ -6113,7 +6695,8 @@
         "HP": "75",
         "Attack": "100",
         "Defense": "63",
-        "Sp.Def": "63",
+        "SpAtk": "80",
+        "SpDef": "63",
         "Speed": "116",
         "Generation": "5"
     },
@@ -6123,7 +6706,8 @@
         "HP": "55",
         "Attack": "75",
         "Defense": "85",
-        "Sp.Def": "25",
+        "SpAtk": "25",
+        "SpDef": "25",
         "Speed": "15",
         "Generation": "5"
     },
@@ -6133,7 +6717,8 @@
         "HP": "70",
         "Attack": "105",
         "Defense": "105",
-        "Sp.Def": "40",
+        "SpAtk": "50",
+        "SpDef": "40",
         "Speed": "20",
         "Generation": "5"
     },
@@ -6143,7 +6728,8 @@
         "HP": "85",
         "Attack": "135",
         "Defense": "130",
-        "Sp.Def": "80",
+        "SpAtk": "60",
+        "SpDef": "80",
         "Speed": "25",
         "Generation": "5"
     },
@@ -6154,7 +6740,8 @@
         "HP": "55",
         "Attack": "45",
         "Defense": "43",
-        "Sp.Def": "43",
+        "SpAtk": "55",
+        "SpDef": "43",
         "Speed": "72",
         "Generation": "5"
     },
@@ -6165,7 +6752,8 @@
         "HP": "67",
         "Attack": "57",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "77",
+        "SpDef": "55",
         "Speed": "114",
         "Generation": "5"
     },
@@ -6175,7 +6763,8 @@
         "HP": "60",
         "Attack": "85",
         "Defense": "40",
-        "Sp.Def": "45",
+        "SpAtk": "30",
+        "SpDef": "45",
         "Speed": "68",
         "Generation": "5"
     },
@@ -6186,7 +6775,8 @@
         "HP": "110",
         "Attack": "135",
         "Defense": "60",
-        "Sp.Def": "65",
+        "SpAtk": "50",
+        "SpDef": "65",
         "Speed": "88",
         "Generation": "5"
     },
@@ -6196,7 +6786,8 @@
         "HP": "103",
         "Attack": "60",
         "Defense": "86",
-        "Sp.Def": "86",
+        "SpAtk": "60",
+        "SpDef": "86",
         "Speed": "50",
         "Generation": "5"
     },
@@ -6207,7 +6798,8 @@
         "HP": "103",
         "Attack": "60",
         "Defense": "126",
-        "Sp.Def": "126",
+        "SpAtk": "80",
+        "SpDef": "126",
         "Speed": "50",
         "Generation": "5"
     },
@@ -6217,7 +6809,8 @@
         "HP": "75",
         "Attack": "80",
         "Defense": "55",
-        "Sp.Def": "35",
+        "SpAtk": "25",
+        "SpDef": "35",
         "Speed": "35",
         "Generation": "5"
     },
@@ -6227,7 +6820,8 @@
         "HP": "85",
         "Attack": "105",
         "Defense": "85",
-        "Sp.Def": "50",
+        "SpAtk": "40",
+        "SpDef": "50",
         "Speed": "40",
         "Generation": "5"
     },
@@ -6237,7 +6831,8 @@
         "HP": "105",
         "Attack": "140",
         "Defense": "95",
-        "Sp.Def": "65",
+        "SpAtk": "55",
+        "SpDef": "65",
         "Speed": "45",
         "Generation": "5"
     },
@@ -6247,7 +6842,8 @@
         "HP": "50",
         "Attack": "50",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "50",
+        "SpDef": "40",
         "Speed": "64",
         "Generation": "5"
     },
@@ -6258,7 +6854,8 @@
         "HP": "75",
         "Attack": "65",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "65",
+        "SpDef": "55",
         "Speed": "69",
         "Generation": "5"
     },
@@ -6269,7 +6866,8 @@
         "HP": "105",
         "Attack": "95",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "85",
+        "SpDef": "75",
         "Speed": "74",
         "Generation": "5"
     },
@@ -6279,7 +6877,8 @@
         "HP": "120",
         "Attack": "100",
         "Defense": "85",
-        "Sp.Def": "85",
+        "SpAtk": "30",
+        "SpDef": "85",
         "Speed": "45",
         "Generation": "5"
     },
@@ -6289,7 +6888,8 @@
         "HP": "75",
         "Attack": "125",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "30",
+        "SpDef": "75",
         "Speed": "85",
         "Generation": "5"
     },
@@ -6300,7 +6900,8 @@
         "HP": "45",
         "Attack": "53",
         "Defense": "70",
-        "Sp.Def": "60",
+        "SpAtk": "40",
+        "SpDef": "60",
         "Speed": "42",
         "Generation": "5"
     },
@@ -6311,7 +6912,8 @@
         "HP": "55",
         "Attack": "63",
         "Defense": "90",
-        "Sp.Def": "80",
+        "SpAtk": "50",
+        "SpDef": "80",
         "Speed": "42",
         "Generation": "5"
     },
@@ -6322,7 +6924,8 @@
         "HP": "75",
         "Attack": "103",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "70",
+        "SpDef": "80",
         "Speed": "92",
         "Generation": "5"
     },
@@ -6333,7 +6936,8 @@
         "HP": "30",
         "Attack": "45",
         "Defense": "59",
-        "Sp.Def": "39",
+        "SpAtk": "30",
+        "SpDef": "39",
         "Speed": "57",
         "Generation": "5"
     },
@@ -6344,7 +6948,8 @@
         "HP": "40",
         "Attack": "55",
         "Defense": "99",
-        "Sp.Def": "79",
+        "SpAtk": "40",
+        "SpDef": "79",
         "Speed": "47",
         "Generation": "5"
     },
@@ -6355,7 +6960,8 @@
         "HP": "60",
         "Attack": "100",
         "Defense": "89",
-        "Sp.Def": "69",
+        "SpAtk": "55",
+        "SpDef": "69",
         "Speed": "112",
         "Generation": "5"
     },
@@ -6366,7 +6972,8 @@
         "HP": "40",
         "Attack": "27",
         "Defense": "60",
-        "Sp.Def": "50",
+        "SpAtk": "37",
+        "SpDef": "50",
         "Speed": "66",
         "Generation": "5"
     },
@@ -6377,7 +6984,8 @@
         "HP": "60",
         "Attack": "67",
         "Defense": "85",
-        "Sp.Def": "75",
+        "SpAtk": "77",
+        "SpDef": "75",
         "Speed": "116",
         "Generation": "5"
     },
@@ -6387,7 +6995,8 @@
         "HP": "45",
         "Attack": "35",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "70",
+        "SpDef": "50",
         "Speed": "30",
         "Generation": "5"
     },
@@ -6397,7 +7006,8 @@
         "HP": "70",
         "Attack": "60",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "110",
+        "SpDef": "75",
         "Speed": "90",
         "Generation": "5"
     },
@@ -6407,7 +7017,8 @@
         "HP": "70",
         "Attack": "92",
         "Defense": "65",
-        "Sp.Def": "55",
+        "SpAtk": "80",
+        "SpDef": "55",
         "Speed": "98",
         "Generation": "5"
     },
@@ -6418,7 +7029,8 @@
         "HP": "50",
         "Attack": "72",
         "Defense": "35",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "65",
         "Generation": "5"
     },
@@ -6429,7 +7041,8 @@
         "HP": "60",
         "Attack": "82",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "45",
+        "SpDef": "45",
         "Speed": "74",
         "Generation": "5"
     },
@@ -6440,7 +7053,8 @@
         "HP": "95",
         "Attack": "117",
         "Defense": "80",
-        "Sp.Def": "70",
+        "SpAtk": "65",
+        "SpDef": "70",
         "Speed": "92",
         "Generation": "5"
     },
@@ -6450,7 +7064,8 @@
         "HP": "70",
         "Attack": "90",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "15",
+        "SpDef": "45",
         "Speed": "50",
         "Generation": "5"
     },
@@ -6460,7 +7075,8 @@
         "HP": "105",
         "Attack": "140",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "30",
+        "SpDef": "55",
         "Speed": "95",
         "Generation": "5"
     },
@@ -6471,7 +7087,8 @@
         "HP": "105",
         "Attack": "30",
         "Defense": "105",
-        "Sp.Def": "105",
+        "SpAtk": "140",
+        "SpDef": "105",
         "Speed": "55",
         "Generation": "5"
     },
@@ -6481,7 +7098,8 @@
         "HP": "75",
         "Attack": "86",
         "Defense": "67",
-        "Sp.Def": "67",
+        "SpAtk": "106",
+        "SpDef": "67",
         "Speed": "60",
         "Generation": "5"
     },
@@ -6492,7 +7110,8 @@
         "HP": "50",
         "Attack": "65",
         "Defense": "85",
-        "Sp.Def": "35",
+        "SpAtk": "35",
+        "SpDef": "35",
         "Speed": "55",
         "Generation": "5"
     },
@@ -6503,7 +7122,8 @@
         "HP": "70",
         "Attack": "95",
         "Defense": "125",
-        "Sp.Def": "75",
+        "SpAtk": "65",
+        "SpDef": "75",
         "Speed": "45",
         "Generation": "5"
     },
@@ -6514,7 +7134,8 @@
         "HP": "50",
         "Attack": "75",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "35",
+        "SpDef": "70",
         "Speed": "48",
         "Generation": "5"
     },
@@ -6525,7 +7146,8 @@
         "HP": "65",
         "Attack": "90",
         "Defense": "115",
-        "Sp.Def": "115",
+        "SpAtk": "45",
+        "SpDef": "115",
         "Speed": "58",
         "Generation": "5"
     },
@@ -6536,7 +7158,8 @@
         "HP": "72",
         "Attack": "58",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "103",
+        "SpDef": "80",
         "Speed": "97",
         "Generation": "5"
     },
@@ -6546,7 +7169,8 @@
         "HP": "38",
         "Attack": "30",
         "Defense": "85",
-        "Sp.Def": "65",
+        "SpAtk": "55",
+        "SpDef": "65",
         "Speed": "30",
         "Generation": "5"
     },
@@ -6556,7 +7180,8 @@
         "HP": "58",
         "Attack": "50",
         "Defense": "145",
-        "Sp.Def": "105",
+        "SpAtk": "95",
+        "SpDef": "105",
         "Speed": "30",
         "Generation": "5"
     },
@@ -6567,7 +7192,8 @@
         "HP": "54",
         "Attack": "78",
         "Defense": "103",
-        "Sp.Def": "45",
+        "SpAtk": "53",
+        "SpDef": "45",
         "Speed": "22",
         "Generation": "5"
     },
@@ -6578,7 +7204,8 @@
         "HP": "74",
         "Attack": "108",
         "Defense": "133",
-        "Sp.Def": "65",
+        "SpAtk": "83",
+        "SpDef": "65",
         "Speed": "32",
         "Generation": "5"
     },
@@ -6589,7 +7216,8 @@
         "HP": "55",
         "Attack": "112",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "74",
+        "SpDef": "45",
         "Speed": "70",
         "Generation": "5"
     },
@@ -6600,7 +7228,8 @@
         "HP": "75",
         "Attack": "140",
         "Defense": "65",
-        "Sp.Def": "65",
+        "SpAtk": "112",
+        "SpDef": "65",
         "Speed": "110",
         "Generation": "5"
     },
@@ -6610,7 +7239,8 @@
         "HP": "50",
         "Attack": "50",
         "Defense": "62",
-        "Sp.Def": "62",
+        "SpAtk": "40",
+        "SpDef": "62",
         "Speed": "65",
         "Generation": "5"
     },
@@ -6620,7 +7250,8 @@
         "HP": "80",
         "Attack": "95",
         "Defense": "82",
-        "Sp.Def": "82",
+        "SpAtk": "60",
+        "SpDef": "82",
         "Speed": "75",
         "Generation": "5"
     },
@@ -6630,7 +7261,8 @@
         "HP": "40",
         "Attack": "65",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "80",
+        "SpDef": "40",
         "Speed": "65",
         "Generation": "5"
     },
@@ -6640,7 +7272,8 @@
         "HP": "60",
         "Attack": "105",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "120",
+        "SpDef": "60",
         "Speed": "105",
         "Generation": "5"
     },
@@ -6650,7 +7283,8 @@
         "HP": "55",
         "Attack": "50",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "75",
         "Generation": "5"
     },
@@ -6660,7 +7294,8 @@
         "HP": "75",
         "Attack": "95",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "65",
+        "SpDef": "60",
         "Speed": "115",
         "Generation": "5"
     },
@@ -6670,7 +7305,8 @@
         "HP": "45",
         "Attack": "30",
         "Defense": "50",
-        "Sp.Def": "65",
+        "SpAtk": "55",
+        "SpDef": "65",
         "Speed": "45",
         "Generation": "5"
     },
@@ -6680,7 +7316,8 @@
         "HP": "60",
         "Attack": "45",
         "Defense": "70",
-        "Sp.Def": "85",
+        "SpAtk": "75",
+        "SpDef": "85",
         "Speed": "55",
         "Generation": "5"
     },
@@ -6690,7 +7327,8 @@
         "HP": "70",
         "Attack": "55",
         "Defense": "95",
-        "Sp.Def": "110",
+        "SpAtk": "95",
+        "SpDef": "110",
         "Speed": "65",
         "Generation": "5"
     },
@@ -6700,7 +7338,8 @@
         "HP": "45",
         "Attack": "30",
         "Defense": "40",
-        "Sp.Def": "50",
+        "SpAtk": "105",
+        "SpDef": "50",
         "Speed": "20",
         "Generation": "5"
     },
@@ -6710,7 +7349,8 @@
         "HP": "65",
         "Attack": "40",
         "Defense": "50",
-        "Sp.Def": "60",
+        "SpAtk": "125",
+        "SpDef": "60",
         "Speed": "30",
         "Generation": "5"
     },
@@ -6720,7 +7360,8 @@
         "HP": "110",
         "Attack": "65",
         "Defense": "75",
-        "Sp.Def": "85",
+        "SpAtk": "125",
+        "SpDef": "85",
         "Speed": "30",
         "Generation": "5"
     },
@@ -6731,7 +7372,8 @@
         "HP": "62",
         "Attack": "44",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "44",
+        "SpDef": "50",
         "Speed": "55",
         "Generation": "5"
     },
@@ -6742,7 +7384,8 @@
         "HP": "75",
         "Attack": "87",
         "Defense": "63",
-        "Sp.Def": "63",
+        "SpAtk": "87",
+        "SpDef": "63",
         "Speed": "98",
         "Generation": "5"
     },
@@ -6752,7 +7395,8 @@
         "HP": "36",
         "Attack": "50",
         "Defense": "50",
-        "Sp.Def": "60",
+        "SpAtk": "65",
+        "SpDef": "60",
         "Speed": "44",
         "Generation": "5"
     },
@@ -6762,7 +7406,8 @@
         "HP": "51",
         "Attack": "65",
         "Defense": "65",
-        "Sp.Def": "75",
+        "SpAtk": "80",
+        "SpDef": "75",
         "Speed": "59",
         "Generation": "5"
     },
@@ -6772,7 +7417,8 @@
         "HP": "71",
         "Attack": "95",
         "Defense": "85",
-        "Sp.Def": "95",
+        "SpAtk": "110",
+        "SpDef": "95",
         "Speed": "79",
         "Generation": "5"
     },
@@ -6783,7 +7429,8 @@
         "HP": "60",
         "Attack": "60",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "40",
+        "SpDef": "50",
         "Speed": "75",
         "Generation": "5"
     },
@@ -6794,7 +7441,8 @@
         "HP": "80",
         "Attack": "100",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "60",
+        "SpDef": "70",
         "Speed": "95",
         "Generation": "5"
     },
@@ -6805,7 +7453,8 @@
         "HP": "55",
         "Attack": "75",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "75",
+        "SpDef": "60",
         "Speed": "103",
         "Generation": "5"
     },
@@ -6815,7 +7464,8 @@
         "HP": "50",
         "Attack": "75",
         "Defense": "45",
-        "Sp.Def": "45",
+        "SpAtk": "40",
+        "SpDef": "45",
         "Speed": "60",
         "Generation": "5"
     },
@@ -6826,7 +7476,8 @@
         "HP": "70",
         "Attack": "135",
         "Defense": "105",
-        "Sp.Def": "105",
+        "SpAtk": "60",
+        "SpDef": "105",
         "Speed": "20",
         "Generation": "5"
     },
@@ -6837,7 +7488,8 @@
         "HP": "69",
         "Attack": "55",
         "Defense": "45",
-        "Sp.Def": "55",
+        "SpAtk": "55",
+        "SpDef": "55",
         "Speed": "15",
         "Generation": "5"
     },
@@ -6848,7 +7500,8 @@
         "HP": "114",
         "Attack": "85",
         "Defense": "70",
-        "Sp.Def": "80",
+        "SpAtk": "85",
+        "SpDef": "80",
         "Speed": "30",
         "Generation": "5"
     },
@@ -6859,7 +7512,8 @@
         "HP": "55",
         "Attack": "40",
         "Defense": "50",
-        "Sp.Def": "85",
+        "SpAtk": "65",
+        "SpDef": "85",
         "Speed": "40",
         "Generation": "5"
     },
@@ -6870,7 +7524,8 @@
         "HP": "100",
         "Attack": "60",
         "Defense": "70",
-        "Sp.Def": "105",
+        "SpAtk": "85",
+        "SpDef": "105",
         "Speed": "60",
         "Generation": "5"
     },
@@ -6880,7 +7535,8 @@
         "HP": "165",
         "Attack": "75",
         "Defense": "80",
-        "Sp.Def": "45",
+        "SpAtk": "40",
+        "SpDef": "45",
         "Speed": "65",
         "Generation": "5"
     },
@@ -6891,7 +7547,8 @@
         "HP": "50",
         "Attack": "47",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "57",
+        "SpDef": "50",
         "Speed": "65",
         "Generation": "5"
     },
@@ -6902,7 +7559,8 @@
         "HP": "70",
         "Attack": "77",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "97",
+        "SpDef": "60",
         "Speed": "108",
         "Generation": "5"
     },
@@ -6913,7 +7571,8 @@
         "HP": "44",
         "Attack": "50",
         "Defense": "91",
-        "Sp.Def": "86",
+        "SpAtk": "24",
+        "SpDef": "86",
         "Speed": "10",
         "Generation": "5"
     },
@@ -6924,7 +7583,8 @@
         "HP": "74",
         "Attack": "94",
         "Defense": "131",
-        "Sp.Def": "116",
+        "SpAtk": "54",
+        "SpDef": "116",
         "Speed": "20",
         "Generation": "5"
     },
@@ -6934,7 +7594,8 @@
         "HP": "40",
         "Attack": "55",
         "Defense": "70",
-        "Sp.Def": "60",
+        "SpAtk": "45",
+        "SpDef": "60",
         "Speed": "30",
         "Generation": "5"
     },
@@ -6944,7 +7605,8 @@
         "HP": "60",
         "Attack": "80",
         "Defense": "95",
-        "Sp.Def": "85",
+        "SpAtk": "70",
+        "SpDef": "85",
         "Speed": "50",
         "Generation": "5"
     },
@@ -6954,7 +7616,8 @@
         "HP": "60",
         "Attack": "100",
         "Defense": "115",
-        "Sp.Def": "85",
+        "SpAtk": "70",
+        "SpDef": "85",
         "Speed": "90",
         "Generation": "5"
     },
@@ -6964,7 +7627,8 @@
         "HP": "35",
         "Attack": "55",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "45",
+        "SpDef": "40",
         "Speed": "60",
         "Generation": "5"
     },
@@ -6974,7 +7638,8 @@
         "HP": "65",
         "Attack": "85",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "75",
+        "SpDef": "70",
         "Speed": "40",
         "Generation": "5"
     },
@@ -6984,7 +7649,8 @@
         "HP": "85",
         "Attack": "115",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "105",
+        "SpDef": "80",
         "Speed": "50",
         "Generation": "5"
     },
@@ -6994,7 +7660,8 @@
         "HP": "55",
         "Attack": "55",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "85",
+        "SpDef": "55",
         "Speed": "30",
         "Generation": "5"
     },
@@ -7004,7 +7671,8 @@
         "HP": "75",
         "Attack": "75",
         "Defense": "75",
-        "Sp.Def": "95",
+        "SpAtk": "125",
+        "SpDef": "95",
         "Speed": "40",
         "Generation": "5"
     },
@@ -7015,7 +7683,8 @@
         "HP": "50",
         "Attack": "30",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "65",
+        "SpDef": "55",
         "Speed": "20",
         "Generation": "5"
     },
@@ -7026,7 +7695,8 @@
         "HP": "60",
         "Attack": "40",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "95",
+        "SpDef": "60",
         "Speed": "55",
         "Generation": "5"
     },
@@ -7037,7 +7707,8 @@
         "HP": "60",
         "Attack": "55",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "145",
+        "SpDef": "90",
         "Speed": "80",
         "Generation": "5"
     },
@@ -7047,7 +7718,8 @@
         "HP": "46",
         "Attack": "87",
         "Defense": "60",
-        "Sp.Def": "40",
+        "SpAtk": "30",
+        "SpDef": "40",
         "Speed": "57",
         "Generation": "5"
     },
@@ -7057,7 +7729,8 @@
         "HP": "66",
         "Attack": "117",
         "Defense": "70",
-        "Sp.Def": "50",
+        "SpAtk": "40",
+        "SpDef": "50",
         "Speed": "67",
         "Generation": "5"
     },
@@ -7067,7 +7740,8 @@
         "HP": "76",
         "Attack": "147",
         "Defense": "90",
-        "Sp.Def": "70",
+        "SpAtk": "60",
+        "SpDef": "70",
         "Speed": "97",
         "Generation": "5"
     },
@@ -7077,7 +7751,8 @@
         "HP": "55",
         "Attack": "70",
         "Defense": "40",
-        "Sp.Def": "40",
+        "SpAtk": "60",
+        "SpDef": "40",
         "Speed": "40",
         "Generation": "5"
     },
@@ -7087,7 +7762,8 @@
         "HP": "95",
         "Attack": "110",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "70",
+        "SpDef": "80",
         "Speed": "50",
         "Generation": "5"
     },
@@ -7097,7 +7773,8 @@
         "HP": "70",
         "Attack": "50",
         "Defense": "30",
-        "Sp.Def": "135",
+        "SpAtk": "95",
+        "SpDef": "135",
         "Speed": "105",
         "Generation": "5"
     },
@@ -7107,7 +7784,8 @@
         "HP": "50",
         "Attack": "40",
         "Defense": "85",
-        "Sp.Def": "65",
+        "SpAtk": "40",
+        "SpDef": "65",
         "Speed": "25",
         "Generation": "5"
     },
@@ -7117,7 +7795,8 @@
         "HP": "80",
         "Attack": "70",
         "Defense": "40",
-        "Sp.Def": "60",
+        "SpAtk": "100",
+        "SpDef": "60",
         "Speed": "145",
         "Generation": "5"
     },
@@ -7128,7 +7807,8 @@
         "HP": "109",
         "Attack": "66",
         "Defense": "84",
-        "Sp.Def": "99",
+        "SpAtk": "81",
+        "SpDef": "99",
         "Speed": "32",
         "Generation": "5"
     },
@@ -7138,7 +7818,8 @@
         "HP": "45",
         "Attack": "85",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "55",
+        "SpDef": "50",
         "Speed": "65",
         "Generation": "5"
     },
@@ -7148,7 +7829,8 @@
         "HP": "65",
         "Attack": "125",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "95",
+        "SpDef": "60",
         "Speed": "105",
         "Generation": "5"
     },
@@ -7158,7 +7840,8 @@
         "HP": "77",
         "Attack": "120",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "60",
+        "SpDef": "90",
         "Speed": "48",
         "Generation": "5"
     },
@@ -7169,7 +7852,8 @@
         "HP": "59",
         "Attack": "74",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "35",
+        "SpDef": "50",
         "Speed": "35",
         "Generation": "5"
     },
@@ -7180,7 +7864,8 @@
         "HP": "89",
         "Attack": "124",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "55",
+        "SpDef": "80",
         "Speed": "55",
         "Generation": "5"
     },
@@ -7191,7 +7876,8 @@
         "HP": "45",
         "Attack": "85",
         "Defense": "70",
-        "Sp.Def": "40",
+        "SpAtk": "40",
+        "SpDef": "40",
         "Speed": "60",
         "Generation": "5"
     },
@@ -7202,7 +7888,8 @@
         "HP": "65",
         "Attack": "125",
         "Defense": "100",
-        "Sp.Def": "70",
+        "SpAtk": "60",
+        "SpDef": "70",
         "Speed": "70",
         "Generation": "5"
     },
@@ -7212,7 +7899,8 @@
         "HP": "95",
         "Attack": "110",
         "Defense": "95",
-        "Sp.Def": "95",
+        "SpAtk": "40",
+        "SpDef": "95",
         "Speed": "55",
         "Generation": "5"
     },
@@ -7223,7 +7911,8 @@
         "HP": "70",
         "Attack": "83",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "37",
+        "SpDef": "50",
         "Speed": "60",
         "Generation": "5"
     },
@@ -7234,7 +7923,8 @@
         "HP": "100",
         "Attack": "123",
         "Defense": "75",
-        "Sp.Def": "75",
+        "SpAtk": "57",
+        "SpDef": "75",
         "Speed": "80",
         "Generation": "5"
     },
@@ -7245,7 +7935,8 @@
         "HP": "70",
         "Attack": "55",
         "Defense": "75",
-        "Sp.Def": "65",
+        "SpAtk": "45",
+        "SpDef": "65",
         "Speed": "60",
         "Generation": "5"
     },
@@ -7256,7 +7947,8 @@
         "HP": "110",
         "Attack": "65",
         "Defense": "105",
-        "Sp.Def": "95",
+        "SpAtk": "55",
+        "SpDef": "95",
         "Speed": "80",
         "Generation": "5"
     },
@@ -7266,7 +7958,8 @@
         "HP": "85",
         "Attack": "97",
         "Defense": "66",
-        "Sp.Def": "66",
+        "SpAtk": "105",
+        "SpDef": "66",
         "Speed": "65",
         "Generation": "5"
     },
@@ -7277,7 +7970,8 @@
         "HP": "58",
         "Attack": "109",
         "Defense": "112",
-        "Sp.Def": "48",
+        "SpAtk": "48",
+        "SpDef": "48",
         "Speed": "109",
         "Generation": "5"
     },
@@ -7288,7 +7982,8 @@
         "HP": "52",
         "Attack": "65",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "45",
+        "SpDef": "50",
         "Speed": "38",
         "Generation": "5"
     },
@@ -7299,7 +7994,8 @@
         "HP": "72",
         "Attack": "85",
         "Defense": "70",
-        "Sp.Def": "70",
+        "SpAtk": "65",
+        "SpDef": "70",
         "Speed": "58",
         "Generation": "5"
     },
@@ -7310,7 +8006,8 @@
         "HP": "92",
         "Attack": "105",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "125",
+        "SpDef": "90",
         "Speed": "98",
         "Generation": "5"
     },
@@ -7321,7 +8018,8 @@
         "HP": "55",
         "Attack": "85",
         "Defense": "55",
-        "Sp.Def": "55",
+        "SpAtk": "50",
+        "SpDef": "55",
         "Speed": "60",
         "Generation": "5"
     },
@@ -7332,7 +8030,8 @@
         "HP": "85",
         "Attack": "60",
         "Defense": "65",
-        "Sp.Def": "105",
+        "SpAtk": "135",
+        "SpDef": "105",
         "Speed": "100",
         "Generation": "5"
     },
@@ -7343,7 +8042,8 @@
         "HP": "91",
         "Attack": "90",
         "Defense": "129",
-        "Sp.Def": "72",
+        "SpAtk": "90",
+        "SpDef": "72",
         "Speed": "108",
         "Generation": "5"
     },
@@ -7354,7 +8054,8 @@
         "HP": "91",
         "Attack": "129",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "72",
+        "SpDef": "90",
         "Speed": "108",
         "Generation": "5"
     },
@@ -7365,7 +8066,8 @@
         "HP": "91",
         "Attack": "90",
         "Defense": "72",
-        "Sp.Def": "129",
+        "SpAtk": "90",
+        "SpDef": "129",
         "Speed": "108",
         "Generation": "5"
     },
@@ -7375,7 +8077,8 @@
         "HP": "79",
         "Attack": "115",
         "Defense": "70",
-        "Sp.Def": "80",
+        "SpAtk": "125",
+        "SpDef": "80",
         "Speed": "111",
         "Generation": "5"
     },
@@ -7385,7 +8088,8 @@
         "HP": "79",
         "Attack": "100",
         "Defense": "80",
-        "Sp.Def": "90",
+        "SpAtk": "110",
+        "SpDef": "90",
         "Speed": "121",
         "Generation": "5"
     },
@@ -7396,7 +8100,8 @@
         "HP": "79",
         "Attack": "115",
         "Defense": "70",
-        "Sp.Def": "80",
+        "SpAtk": "125",
+        "SpDef": "80",
         "Speed": "111",
         "Generation": "5"
     },
@@ -7407,7 +8112,8 @@
         "HP": "79",
         "Attack": "105",
         "Defense": "70",
-        "Sp.Def": "80",
+        "SpAtk": "145",
+        "SpDef": "80",
         "Speed": "101",
         "Generation": "5"
     },
@@ -7418,7 +8124,8 @@
         "HP": "100",
         "Attack": "120",
         "Defense": "100",
-        "Sp.Def": "120",
+        "SpAtk": "150",
+        "SpDef": "120",
         "Speed": "90",
         "Generation": "5"
     },
@@ -7429,7 +8136,8 @@
         "HP": "100",
         "Attack": "150",
         "Defense": "120",
-        "Sp.Def": "100",
+        "SpAtk": "120",
+        "SpDef": "100",
         "Speed": "90",
         "Generation": "5"
     },
@@ -7440,7 +8148,8 @@
         "HP": "89",
         "Attack": "125",
         "Defense": "90",
-        "Sp.Def": "80",
+        "SpAtk": "115",
+        "SpDef": "80",
         "Speed": "101",
         "Generation": "5"
     },
@@ -7451,7 +8160,8 @@
         "HP": "89",
         "Attack": "145",
         "Defense": "90",
-        "Sp.Def": "80",
+        "SpAtk": "105",
+        "SpDef": "80",
         "Speed": "91",
         "Generation": "5"
     },
@@ -7462,7 +8172,8 @@
         "HP": "125",
         "Attack": "130",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "130",
+        "SpDef": "90",
         "Speed": "95",
         "Generation": "5"
     },
@@ -7473,7 +8184,8 @@
         "HP": "125",
         "Attack": "170",
         "Defense": "100",
-        "Sp.Def": "90",
+        "SpAtk": "120",
+        "SpDef": "90",
         "Speed": "95",
         "Generation": "5"
     },
@@ -7484,7 +8196,8 @@
         "HP": "125",
         "Attack": "120",
         "Defense": "90",
-        "Sp.Def": "100",
+        "SpAtk": "170",
+        "SpDef": "100",
         "Speed": "95",
         "Generation": "5"
     },
@@ -7495,7 +8208,8 @@
         "HP": "91",
         "Attack": "72",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "129",
+        "SpDef": "90",
         "Speed": "108",
         "Generation": "5"
     },
@@ -7506,7 +8220,8 @@
         "HP": "91",
         "Attack": "72",
         "Defense": "90",
-        "Sp.Def": "90",
+        "SpAtk": "129",
+        "SpDef": "90",
         "Speed": "108",
         "Generation": "5"
     },
@@ -7517,7 +8232,8 @@
         "HP": "100",
         "Attack": "77",
         "Defense": "77",
-        "Sp.Def": "128",
+        "SpAtk": "128",
+        "SpDef": "128",
         "Speed": "90",
         "Generation": "5"
     },
@@ -7528,7 +8244,8 @@
         "HP": "100",
         "Attack": "128",
         "Defense": "90",
-        "Sp.Def": "77",
+        "SpAtk": "77",
+        "SpDef": "77",
         "Speed": "128",
         "Generation": "5"
     },
@@ -7539,7 +8256,8 @@
         "HP": "71",
         "Attack": "120",
         "Defense": "95",
-        "Sp.Def": "95",
+        "SpAtk": "120",
+        "SpDef": "95",
         "Speed": "99",
         "Generation": "5"
     },
@@ -7549,7 +8267,8 @@
         "HP": "56",
         "Attack": "61",
         "Defense": "65",
-        "Sp.Def": "45",
+        "SpAtk": "48",
+        "SpDef": "45",
         "Speed": "38",
         "Generation": "6"
     },
@@ -7559,7 +8278,8 @@
         "HP": "61",
         "Attack": "78",
         "Defense": "95",
-        "Sp.Def": "58",
+        "SpAtk": "56",
+        "SpDef": "58",
         "Speed": "57",
         "Generation": "6"
     },
@@ -7570,7 +8290,8 @@
         "HP": "88",
         "Attack": "107",
         "Defense": "122",
-        "Sp.Def": "75",
+        "SpAtk": "74",
+        "SpDef": "75",
         "Speed": "64",
         "Generation": "6"
     },
@@ -7580,7 +8301,8 @@
         "HP": "40",
         "Attack": "45",
         "Defense": "40",
-        "Sp.Def": "60",
+        "SpAtk": "62",
+        "SpDef": "60",
         "Speed": "60",
         "Generation": "6"
     },
@@ -7590,7 +8312,8 @@
         "HP": "59",
         "Attack": "59",
         "Defense": "58",
-        "Sp.Def": "70",
+        "SpAtk": "90",
+        "SpDef": "70",
         "Speed": "73",
         "Generation": "6"
     },
@@ -7601,7 +8324,8 @@
         "HP": "75",
         "Attack": "69",
         "Defense": "72",
-        "Sp.Def": "100",
+        "SpAtk": "114",
+        "SpDef": "100",
         "Speed": "104",
         "Generation": "6"
     },
@@ -7611,7 +8335,8 @@
         "HP": "41",
         "Attack": "56",
         "Defense": "40",
-        "Sp.Def": "44",
+        "SpAtk": "62",
+        "SpDef": "44",
         "Speed": "71",
         "Generation": "6"
     },
@@ -7621,7 +8346,8 @@
         "HP": "54",
         "Attack": "63",
         "Defense": "52",
-        "Sp.Def": "56",
+        "SpAtk": "83",
+        "SpDef": "56",
         "Speed": "97",
         "Generation": "6"
     },
@@ -7632,7 +8358,8 @@
         "HP": "72",
         "Attack": "95",
         "Defense": "67",
-        "Sp.Def": "71",
+        "SpAtk": "103",
+        "SpDef": "71",
         "Speed": "122",
         "Generation": "6"
     },
@@ -7642,7 +8369,8 @@
         "HP": "38",
         "Attack": "36",
         "Defense": "38",
-        "Sp.Def": "36",
+        "SpAtk": "32",
+        "SpDef": "36",
         "Speed": "57",
         "Generation": "6"
     },
@@ -7653,7 +8381,8 @@
         "HP": "85",
         "Attack": "56",
         "Defense": "77",
-        "Sp.Def": "77",
+        "SpAtk": "50",
+        "SpDef": "77",
         "Speed": "78",
         "Generation": "6"
     },
@@ -7664,7 +8393,8 @@
         "HP": "45",
         "Attack": "50",
         "Defense": "43",
-        "Sp.Def": "38",
+        "SpAtk": "40",
+        "SpDef": "38",
         "Speed": "62",
         "Generation": "6"
     },
@@ -7675,7 +8405,8 @@
         "HP": "62",
         "Attack": "73",
         "Defense": "55",
-        "Sp.Def": "52",
+        "SpAtk": "56",
+        "SpDef": "52",
         "Speed": "84",
         "Generation": "6"
     },
@@ -7686,7 +8417,8 @@
         "HP": "78",
         "Attack": "81",
         "Defense": "71",
-        "Sp.Def": "69",
+        "SpAtk": "74",
+        "SpDef": "69",
         "Speed": "126",
         "Generation": "6"
     },
@@ -7696,7 +8428,8 @@
         "HP": "38",
         "Attack": "35",
         "Defense": "40",
-        "Sp.Def": "25",
+        "SpAtk": "27",
+        "SpDef": "25",
         "Speed": "35",
         "Generation": "6"
     },
@@ -7706,7 +8439,8 @@
         "HP": "45",
         "Attack": "22",
         "Defense": "60",
-        "Sp.Def": "30",
+        "SpAtk": "27",
+        "SpDef": "30",
         "Speed": "29",
         "Generation": "6"
     },
@@ -7717,7 +8451,8 @@
         "HP": "80",
         "Attack": "52",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "90",
+        "SpDef": "50",
         "Speed": "89",
         "Generation": "6"
     },
@@ -7728,7 +8463,8 @@
         "HP": "62",
         "Attack": "50",
         "Defense": "58",
-        "Sp.Def": "54",
+        "SpAtk": "73",
+        "SpDef": "54",
         "Speed": "72",
         "Generation": "6"
     },
@@ -7739,7 +8475,8 @@
         "HP": "86",
         "Attack": "68",
         "Defense": "72",
-        "Sp.Def": "66",
+        "SpAtk": "109",
+        "SpDef": "66",
         "Speed": "106",
         "Generation": "6"
     },
@@ -7749,7 +8486,8 @@
         "HP": "44",
         "Attack": "38",
         "Defense": "39",
-        "Sp.Def": "79",
+        "SpAtk": "61",
+        "SpDef": "79",
         "Speed": "42",
         "Generation": "6"
     },
@@ -7759,7 +8497,8 @@
         "HP": "54",
         "Attack": "45",
         "Defense": "47",
-        "Sp.Def": "98",
+        "SpAtk": "75",
+        "SpDef": "98",
         "Speed": "52",
         "Generation": "6"
     },
@@ -7769,7 +8508,8 @@
         "HP": "78",
         "Attack": "65",
         "Defense": "68",
-        "Sp.Def": "154",
+        "SpAtk": "112",
+        "SpDef": "154",
         "Speed": "75",
         "Generation": "6"
     },
@@ -7779,7 +8519,8 @@
         "HP": "66",
         "Attack": "65",
         "Defense": "48",
-        "Sp.Def": "57",
+        "SpAtk": "62",
+        "SpDef": "57",
         "Speed": "52",
         "Generation": "6"
     },
@@ -7789,7 +8530,8 @@
         "HP": "123",
         "Attack": "100",
         "Defense": "62",
-        "Sp.Def": "81",
+        "SpAtk": "97",
+        "SpDef": "81",
         "Speed": "68",
         "Generation": "6"
     },
@@ -7799,7 +8541,8 @@
         "HP": "67",
         "Attack": "82",
         "Defense": "62",
-        "Sp.Def": "48",
+        "SpAtk": "46",
+        "SpDef": "48",
         "Speed": "43",
         "Generation": "6"
     },
@@ -7810,7 +8553,8 @@
         "HP": "95",
         "Attack": "124",
         "Defense": "78",
-        "Sp.Def": "71",
+        "SpAtk": "69",
+        "SpDef": "71",
         "Speed": "58",
         "Generation": "6"
     },
@@ -7820,7 +8564,8 @@
         "HP": "75",
         "Attack": "80",
         "Defense": "60",
-        "Sp.Def": "90",
+        "SpAtk": "65",
+        "SpDef": "90",
         "Speed": "102",
         "Generation": "6"
     },
@@ -7830,7 +8575,8 @@
         "HP": "62",
         "Attack": "48",
         "Defense": "54",
-        "Sp.Def": "60",
+        "SpAtk": "63",
+        "SpDef": "60",
         "Speed": "68",
         "Generation": "6"
     },
@@ -7840,7 +8586,8 @@
         "HP": "74",
         "Attack": "48",
         "Defense": "76",
-        "Sp.Def": "81",
+        "SpAtk": "83",
+        "SpDef": "81",
         "Speed": "104",
         "Generation": "6"
     },
@@ -7850,7 +8597,8 @@
         "HP": "74",
         "Attack": "48",
         "Defense": "76",
-        "Sp.Def": "81",
+        "SpAtk": "83",
+        "SpDef": "81",
         "Speed": "104",
         "Generation": "6"
     },
@@ -7861,7 +8609,8 @@
         "HP": "45",
         "Attack": "80",
         "Defense": "100",
-        "Sp.Def": "37",
+        "SpAtk": "35",
+        "SpDef": "37",
         "Speed": "28",
         "Generation": "6"
     },
@@ -7872,7 +8621,8 @@
         "HP": "59",
         "Attack": "110",
         "Defense": "150",
-        "Sp.Def": "49",
+        "SpAtk": "45",
+        "SpDef": "49",
         "Speed": "35",
         "Generation": "6"
     },
@@ -7883,7 +8633,8 @@
         "HP": "60",
         "Attack": "150",
         "Defense": "50",
-        "Sp.Def": "50",
+        "SpAtk": "150",
+        "SpDef": "50",
         "Speed": "60",
         "Generation": "6"
     },
@@ -7894,7 +8645,8 @@
         "HP": "60",
         "Attack": "50",
         "Defense": "150",
-        "Sp.Def": "150",
+        "SpAtk": "50",
+        "SpDef": "150",
         "Speed": "60",
         "Generation": "6"
     },
@@ -7904,7 +8656,8 @@
         "HP": "78",
         "Attack": "52",
         "Defense": "60",
-        "Sp.Def": "65",
+        "SpAtk": "63",
+        "SpDef": "65",
         "Speed": "23",
         "Generation": "6"
     },
@@ -7914,7 +8667,8 @@
         "HP": "101",
         "Attack": "72",
         "Defense": "72",
-        "Sp.Def": "89",
+        "SpAtk": "99",
+        "SpDef": "89",
         "Speed": "29",
         "Generation": "6"
     },
@@ -7924,7 +8678,8 @@
         "HP": "62",
         "Attack": "48",
         "Defense": "66",
-        "Sp.Def": "57",
+        "SpAtk": "59",
+        "SpDef": "57",
         "Speed": "49",
         "Generation": "6"
     },
@@ -7934,7 +8689,8 @@
         "HP": "82",
         "Attack": "80",
         "Defense": "86",
-        "Sp.Def": "75",
+        "SpAtk": "85",
+        "SpDef": "75",
         "Speed": "72",
         "Generation": "6"
     },
@@ -7945,7 +8701,8 @@
         "HP": "53",
         "Attack": "54",
         "Defense": "53",
-        "Sp.Def": "46",
+        "SpAtk": "37",
+        "SpDef": "46",
         "Speed": "45",
         "Generation": "6"
     },
@@ -7956,7 +8713,8 @@
         "HP": "86",
         "Attack": "92",
         "Defense": "88",
-        "Sp.Def": "75",
+        "SpAtk": "68",
+        "SpDef": "75",
         "Speed": "73",
         "Generation": "6"
     },
@@ -7967,7 +8725,8 @@
         "HP": "42",
         "Attack": "52",
         "Defense": "67",
-        "Sp.Def": "56",
+        "SpAtk": "39",
+        "SpDef": "56",
         "Speed": "50",
         "Generation": "6"
     },
@@ -7978,7 +8737,8 @@
         "HP": "72",
         "Attack": "105",
         "Defense": "115",
-        "Sp.Def": "86",
+        "SpAtk": "54",
+        "SpDef": "86",
         "Speed": "68",
         "Generation": "6"
     },
@@ -7989,7 +8749,8 @@
         "HP": "50",
         "Attack": "60",
         "Defense": "60",
-        "Sp.Def": "60",
+        "SpAtk": "60",
+        "SpDef": "60",
         "Speed": "30",
         "Generation": "6"
     },
@@ -8000,7 +8761,8 @@
         "HP": "65",
         "Attack": "75",
         "Defense": "90",
-        "Sp.Def": "123",
+        "SpAtk": "97",
+        "SpDef": "123",
         "Speed": "44",
         "Generation": "6"
     },
@@ -8010,7 +8772,8 @@
         "HP": "50",
         "Attack": "53",
         "Defense": "62",
-        "Sp.Def": "63",
+        "SpAtk": "58",
+        "SpDef": "63",
         "Speed": "44",
         "Generation": "6"
     },
@@ -8020,7 +8783,8 @@
         "HP": "71",
         "Attack": "73",
         "Defense": "88",
-        "Sp.Def": "89",
+        "SpAtk": "120",
+        "SpDef": "89",
         "Speed": "59",
         "Generation": "6"
     },
@@ -8031,7 +8795,8 @@
         "HP": "44",
         "Attack": "38",
         "Defense": "33",
-        "Sp.Def": "43",
+        "SpAtk": "61",
+        "SpDef": "43",
         "Speed": "70",
         "Generation": "6"
     },
@@ -8042,7 +8807,8 @@
         "HP": "62",
         "Attack": "55",
         "Defense": "52",
-        "Sp.Def": "94",
+        "SpAtk": "109",
+        "SpDef": "94",
         "Speed": "109",
         "Generation": "6"
     },
@@ -8053,7 +8819,8 @@
         "HP": "58",
         "Attack": "89",
         "Defense": "77",
-        "Sp.Def": "45",
+        "SpAtk": "45",
+        "SpDef": "45",
         "Speed": "48",
         "Generation": "6"
     },
@@ -8064,7 +8831,8 @@
         "HP": "82",
         "Attack": "121",
         "Defense": "119",
-        "Sp.Def": "59",
+        "SpAtk": "69",
+        "SpDef": "59",
         "Speed": "71",
         "Generation": "6"
     },
@@ -8075,7 +8843,8 @@
         "HP": "77",
         "Attack": "59",
         "Defense": "50",
-        "Sp.Def": "63",
+        "SpAtk": "67",
+        "SpDef": "63",
         "Speed": "46",
         "Generation": "6"
     },
@@ -8086,7 +8855,8 @@
         "HP": "123",
         "Attack": "77",
         "Defense": "72",
-        "Sp.Def": "92",
+        "SpAtk": "99",
+        "SpDef": "92",
         "Speed": "58",
         "Generation": "6"
     },
@@ -8096,7 +8866,8 @@
         "HP": "95",
         "Attack": "65",
         "Defense": "65",
-        "Sp.Def": "130",
+        "SpAtk": "110",
+        "SpDef": "130",
         "Speed": "60",
         "Generation": "6"
     },
@@ -8107,7 +8878,8 @@
         "HP": "78",
         "Attack": "92",
         "Defense": "75",
-        "Sp.Def": "63",
+        "SpAtk": "74",
+        "SpDef": "63",
         "Speed": "118",
         "Generation": "6"
     },
@@ -8118,7 +8890,8 @@
         "HP": "67",
         "Attack": "58",
         "Defense": "57",
-        "Sp.Def": "67",
+        "SpAtk": "81",
+        "SpDef": "67",
         "Speed": "101",
         "Generation": "6"
     },
@@ -8129,7 +8902,8 @@
         "HP": "50",
         "Attack": "50",
         "Defense": "150",
-        "Sp.Def": "150",
+        "SpAtk": "50",
+        "SpDef": "150",
         "Speed": "50",
         "Generation": "6"
     },
@@ -8139,7 +8913,8 @@
         "HP": "45",
         "Attack": "50",
         "Defense": "35",
-        "Sp.Def": "75",
+        "SpAtk": "55",
+        "SpDef": "75",
         "Speed": "40",
         "Generation": "6"
     },
@@ -8149,7 +8924,8 @@
         "HP": "68",
         "Attack": "75",
         "Defense": "53",
-        "Sp.Def": "113",
+        "SpAtk": "83",
+        "SpDef": "113",
         "Speed": "60",
         "Generation": "6"
     },
@@ -8159,7 +8935,8 @@
         "HP": "90",
         "Attack": "100",
         "Defense": "70",
-        "Sp.Def": "150",
+        "SpAtk": "110",
+        "SpDef": "150",
         "Speed": "80",
         "Generation": "6"
     },
@@ -8170,7 +8947,8 @@
         "HP": "57",
         "Attack": "80",
         "Defense": "91",
-        "Sp.Def": "87",
+        "SpAtk": "80",
+        "SpDef": "87",
         "Speed": "75",
         "Generation": "6"
     },
@@ -8181,7 +8959,8 @@
         "HP": "43",
         "Attack": "70",
         "Defense": "48",
-        "Sp.Def": "60",
+        "SpAtk": "50",
+        "SpDef": "60",
         "Speed": "38",
         "Generation": "6"
     },
@@ -8192,7 +8971,8 @@
         "HP": "85",
         "Attack": "110",
         "Defense": "76",
-        "Sp.Def": "82",
+        "SpAtk": "65",
+        "SpDef": "82",
         "Speed": "56",
         "Generation": "6"
     },
@@ -8203,7 +8983,8 @@
         "HP": "49",
         "Attack": "66",
         "Defense": "70",
-        "Sp.Def": "55",
+        "SpAtk": "44",
+        "SpDef": "55",
         "Speed": "51",
         "Generation": "6"
     },
@@ -8214,7 +8995,8 @@
         "HP": "44",
         "Attack": "66",
         "Defense": "70",
-        "Sp.Def": "55",
+        "SpAtk": "44",
+        "SpDef": "55",
         "Speed": "56",
         "Generation": "6"
     },
@@ -8225,7 +9007,8 @@
         "HP": "54",
         "Attack": "66",
         "Defense": "70",
-        "Sp.Def": "55",
+        "SpAtk": "44",
+        "SpDef": "55",
         "Speed": "46",
         "Generation": "6"
     },
@@ -8236,7 +9019,8 @@
         "HP": "59",
         "Attack": "66",
         "Defense": "70",
-        "Sp.Def": "55",
+        "SpAtk": "44",
+        "SpDef": "55",
         "Speed": "41",
         "Generation": "6"
     },
@@ -8247,7 +9031,8 @@
         "HP": "65",
         "Attack": "90",
         "Defense": "122",
-        "Sp.Def": "75",
+        "SpAtk": "58",
+        "SpDef": "75",
         "Speed": "84",
         "Generation": "6"
     },
@@ -8258,7 +9043,8 @@
         "HP": "55",
         "Attack": "85",
         "Defense": "122",
-        "Sp.Def": "75",
+        "SpAtk": "58",
+        "SpDef": "75",
         "Speed": "99",
         "Generation": "6"
     },
@@ -8269,7 +9055,8 @@
         "HP": "75",
         "Attack": "95",
         "Defense": "122",
-        "Sp.Def": "75",
+        "SpAtk": "58",
+        "SpDef": "75",
         "Speed": "69",
         "Generation": "6"
     },
@@ -8280,7 +9067,8 @@
         "HP": "85",
         "Attack": "100",
         "Defense": "122",
-        "Sp.Def": "75",
+        "SpAtk": "58",
+        "SpDef": "75",
         "Speed": "54",
         "Generation": "6"
     },
@@ -8290,7 +9078,8 @@
         "HP": "55",
         "Attack": "69",
         "Defense": "85",
-        "Sp.Def": "35",
+        "SpAtk": "32",
+        "SpDef": "35",
         "Speed": "28",
         "Generation": "6"
     },
@@ -8300,7 +9089,8 @@
         "HP": "95",
         "Attack": "117",
         "Defense": "184",
-        "Sp.Def": "46",
+        "SpAtk": "44",
+        "SpDef": "46",
         "Speed": "28",
         "Generation": "6"
     },
@@ -8311,7 +9101,8 @@
         "HP": "40",
         "Attack": "30",
         "Defense": "35",
-        "Sp.Def": "40",
+        "SpAtk": "45",
+        "SpDef": "40",
         "Speed": "55",
         "Generation": "6"
     },
@@ -8322,7 +9113,8 @@
         "HP": "85",
         "Attack": "70",
         "Defense": "80",
-        "Sp.Def": "80",
+        "SpAtk": "97",
+        "SpDef": "80",
         "Speed": "123",
         "Generation": "6"
     },
@@ -8332,7 +9124,8 @@
         "HP": "126",
         "Attack": "131",
         "Defense": "95",
-        "Sp.Def": "98",
+        "SpAtk": "131",
+        "SpDef": "98",
         "Speed": "99",
         "Generation": "6"
     },
@@ -8343,7 +9136,8 @@
         "HP": "126",
         "Attack": "131",
         "Defense": "95",
-        "Sp.Def": "98",
+        "SpAtk": "131",
+        "SpDef": "98",
         "Speed": "99",
         "Generation": "6"
     },
@@ -8354,7 +9148,8 @@
         "HP": "108",
         "Attack": "100",
         "Defense": "121",
-        "Sp.Def": "95",
+        "SpAtk": "81",
+        "SpDef": "95",
         "Speed": "95",
         "Generation": "6"
     },
@@ -8365,7 +9160,8 @@
         "HP": "50",
         "Attack": "100",
         "Defense": "150",
-        "Sp.Def": "150",
+        "SpAtk": "100",
+        "SpDef": "150",
         "Speed": "50",
         "Generation": "6"
     },
@@ -8376,7 +9172,8 @@
         "HP": "50",
         "Attack": "160",
         "Defense": "110",
-        "Sp.Def": "110",
+        "SpAtk": "160",
+        "SpDef": "110",
         "Speed": "110",
         "Generation": "6"
     },
@@ -8387,7 +9184,8 @@
         "HP": "80",
         "Attack": "110",
         "Defense": "60",
-        "Sp.Def": "130",
+        "SpAtk": "150",
+        "SpDef": "130",
         "Speed": "70",
         "Generation": "6"
     },
@@ -8398,7 +9196,8 @@
         "HP": "80",
         "Attack": "160",
         "Defense": "60",
-        "Sp.Def": "130",
+        "SpAtk": "170",
+        "SpDef": "130",
         "Speed": "80",
         "Generation": "6"
     },
@@ -8409,7 +9208,8 @@
         "HP": "80",
         "Attack": "110",
         "Defense": "120",
-        "Sp.Def": "90",
+        "SpAtk": "130",
+        "SpDef": "90",
         "Speed": "70",
         "Generation": "6"
     }

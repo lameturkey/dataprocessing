@@ -1,7 +1,12 @@
 // KOEN VAN DER KAMP 12466573
 
+// sunburst:
 // tutorial used (https://medium.com/@ttemplier/map-visualization-of-open-data-with-d3-part3-db98e8b346b3)
 // used on 6/12/2018
+
+// barchart:
+// https://beta.observablehq.com/@mbostock/d3-bar-chart used
+// used on 12/11/2018
 
 SUNWIDTH = 800,
 SUNHEIGHT = 800;
@@ -11,21 +16,19 @@ BARWIDTH = 1000;
 BARHEIGHT = 800;
 PADDING = 30
 var color = d3.scaleOrdinal(d3.schemeCategory20b);
-
-
+keys =   ["HP", "Attack", "Defense", "SpDef", "SpAtk", "Speed"]
 
 window.onload = function()
 {
   d3.json("output.json").then(function(data)
   {
     loadsun(data)
-    loadbar(data)
+    updatebar = loadbar(data)
   })
 }
 
 function loadbar(data)
 {
-  keys =   ["HP", "Attack", "Defense", "Sp.Def", "Speed"]
   maxvalues = []
   for (key in keys)
   {
@@ -33,18 +36,71 @@ function loadbar(data)
 
   }
   maxvalue = Math.max.apply(null, maxvalues)
-  console.log(maxvalue)
-  console.log(maxvalues)
-
   barsvg = d3.select("body").append("svg").attr("class", "barchart")
                     .attr("width", BARWIDTH)
                     .attr("height", BARHEIGHT)
   xScale = d3.scaleBand().domain(keys).range([PADDING, BARWIDTH]).padding(0.1)
   xAxis = barsvg.append("g").attr("transform", "translate(0, " + (BARHEIGHT - PADDING) + ")")
                             .call(d3.axisBottom(xScale));
-  yScale = d3.scaleLinear().domain([0, maxvalue]).range([BARHEIGHT - PADDING, 0]).nice()
+  yScale = d3.scaleLinear().domain([0, 160]).range([BARHEIGHT - PADDING, 0]).nice()
   yAxis = barsvg.append("g").attr("transform", "translate("+ PADDING + ", 0)")
                             .call(d3.axisLeft(yScale));
+
+  return function(types)
+  {
+    d3.selectAll(".bars").remove()
+    attributes = {}
+    keys.forEach(function(key)
+  {
+    attributes[key] = []
+  })
+    if (types.type2 === undefined)
+    {
+      data.forEach(function(datapoint)
+      {
+        if (datapoint.Type1 === types.type1)
+        {
+          for (key in datapoint)
+          {
+            if (keys.includes(key))
+            {
+              attributes[key].push(datapoint[key])
+            }
+          }
+        }
+      })
+    }
+    else
+    {
+      data.forEach(function(datapoint)
+      {
+        if (datapoint.Type1 === types.type1 && datapoint.Type2 === types.type2)
+        {
+          for (key in datapoint)
+          {
+            if (keys.includes(key))
+            {
+              attributes[key].push(datapoint[key])
+            }
+          }
+        }
+      })
+    }
+    for (key in attributes)
+    {
+      attributes[key] = average(attributes[key])
+    }
+    console.log(attributes)
+    console.log(xScale(Object.keys(attributes)[0]))
+    bars = barsvg.append("g").attr("class", "bars")
+                 .attr("fill", "steelblue")
+                 .selectAll("rect").data(Object.values(attributes)).enter().append("rect")
+                 .attr("width", xScale.bandwidth())
+                 .attr("x", function(d, i) { return xScale(Object.keys(attributes)[i])})
+                 .attr("y", d => yScale(d))
+                 .attr("height", d => yScale(0) - yScale(d))
+
+  }
 }
 
 
@@ -102,9 +158,10 @@ function click(d)
     type1 = d.data.key
     type2 = undefined
   }
-  updategraph({type1: type1, type2: type2})
+  updatebar({type1: type1, type2: type2})
   return
 }
+
 function loadsun(data)
 {
   svg = d3.select("body").append("svg").attr("width", SUNWIDTH).attr("height", SUNHEIGHT)
@@ -155,4 +212,15 @@ function loadsun(data)
       .on("mouseover", hover)
       .on("mouseleave", off)
       .on("click", click);
+}
+
+function average(array)
+{
+  sum = 0
+  array.forEach(function(element)
+  {
+    sum += parseInt(element)
+  })
+  sum /= array.length
+  return sum
 }

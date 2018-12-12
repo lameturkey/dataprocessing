@@ -76,7 +76,7 @@ function loadbar(data)
     }
     else
     {
-      text += " Subtype: " + types.type2
+      text += " and Subtype: " + types.type2
       data.forEach(function(datapoint)
       {
         if (datapoint.Type1 === types.type1 && datapoint.Type2 === types.type2)

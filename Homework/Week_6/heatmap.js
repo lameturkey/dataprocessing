@@ -187,7 +187,7 @@ function loadbar(data)
     }
 
     // update the graph bars
-    bars.data(Object.values(attributes)).transition()
+    bars.data(Object.values(attributes)).transition().duration(1000)
                  .attr("width", xScale.bandwidth())
                  .attr("x", function(d, i) { return xScale(Object.keys(attributes)[i])})
                  .attr("y", d => yScale(d))

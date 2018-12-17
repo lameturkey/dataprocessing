@@ -114,13 +114,13 @@ function loadbar(data)
   xScale = d3.scaleBand().domain(keys).range([PADDING, BARWIDTH]).padding(0.1)
   xAxis = barsvg.append("g").attr("transform", "translate(0, " + (BARHEIGHT - PADDING) + ")")
                             .call(d3.axisBottom(xScale));
-  yScale = d3.scaleLinear().domain([0, 250]).range([BARHEIGHT - PADDING, PADDING]).nice()
+  yScale = d3.scaleLinear().domain([0, 215]).range([BARHEIGHT - PADDING, PADDING]).nice()
   yAxis = barsvg.append("g").attr("transform", "translate("+ PADDING + ", 0)")
                             .call(d3.axisLeft(yScale));
 
   // Make the text to show what catagory is currently active
   bartext = barsvg.append("text").attr("class", "bartext")
-                  .attr("x", 100).attr("y", 0)
+                  .attr("x", 100).attr("y", 20)
   barsvg.append("line").attr("class", "averageline").style("stroke", "rgb(255,0,0)")
 
   // make placeholder bars

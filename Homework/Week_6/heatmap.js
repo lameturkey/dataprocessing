@@ -15,7 +15,7 @@ RADIUS = Math.min(SUNWIDTH, SUNHEIGHT) / 2
 BARWIDTH = 1000;
 BARHEIGHT = 800;
 PADDING = 30
-var color = d3.scaleOrdinal(d3.schemeCategory20b);
+
 keys =   ["HP", "Attack", "Defense", "SpDef", "SpAtk", "Speed"]
 
 window.onload = function()
@@ -48,11 +48,13 @@ function loadbar(data)
   bartext = barsvg.append("text").attr("class", "bartext")
                   .attr("x", 100).attr("y", 50)
   barsvg.append("line").attr("class", "averageline").style("stroke", "rgb(255,0,0)")
+  bars = barsvg.append("g").attr("class", "bars")
+               .selectAll("rect").data(keys).enter().append("rect")
+  bars.append("title")
 
   return function(types)
   {
     text = "Maintype: " + types.type1
-    d3.selectAll(".bars").remove()
     attributes = {}
     keys.forEach(function(key)
   {
@@ -95,13 +97,13 @@ function loadbar(data)
     {
       attributes[key] = average(attributes[key])
     }
-    bars = barsvg.append("g").attr("class", "bars")
-                 .attr("fill", "steelblue")
-                 .selectAll("rect").data(Object.values(attributes)).enter().append("rect")
+    bars.data(Object.values(attributes)).transition()
                  .attr("width", xScale.bandwidth())
                  .attr("x", function(d, i) { return xScale(Object.keys(attributes)[i])})
                  .attr("y", d => yScale(d))
                  .attr("height", d => yScale(0) - yScale(d))
+                 .attr("fill", colorfunction(types.type1))
+                 .select("title").text(d => d)
     d3.select(".bartext").text(text)
     averagestats = average(Object.values(attributes))
     d3.select(".averageline")
@@ -113,7 +115,7 @@ function loadbar(data)
 
 function colorfunction(d)
 {
-  colordict = {
+    colordict = {
     "Grass": "green",
     "Ground": "Sienna",
     "Fire": "OrangeRed",
@@ -133,7 +135,10 @@ function colorfunction(d)
     "Steel": "gray",
     "Fairy": "Pink",
   }
-
+  if (typeof(d) == "string")
+  {
+    return colordict[d]
+  }
   if (d.data.key != "undefined")
   {
     return colordict[d.data.key]
